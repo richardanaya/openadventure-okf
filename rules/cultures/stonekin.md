@@ -1,14 +1,17 @@
 ---
-type: "Character Culture"
+type: "Character Option"
 title: "Stonekin"
 description: "A tradition-bound culture associated with stonework, mountains, and endurance."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2420
 source_end_line: 2450
+derivation: "transformed-extract"
 ---
-
 # Stonekin
 
 Stonekin seek to honor their gods by transforming every element of their vast underground kingdoms into stunning works of art. Beauty alone, however, is not enough. Every object, structure, and design must also serve a useful purpose, aiding in the furtherance of their goals, facilitating their work, or bettering the lives of the Stonekin in a practical and tangible way.
@@ -35,6 +38,8 @@ All Stonekin can speak, read, and write the Stonekin language. Many Stonekin are
 * **Knowledge**: Stonekin history
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Wool breeches and tunic
 * Leather belt

@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Criminal"
 description: "A character background shaped by crime and the underworld."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2617
 source_end_line: 2645
+derivation: "transformed-extract"
 ---
-
 # Criminal
 
 Before you became an adventurer, you lived outside the law. You might have been a member of a brutal bandit gang, a sneaky pick-pocket, or a clever burglar. You were almost certainly caught at least once and spent time imprisoned, sentenced to hard labor, or on display in the town’s stocks. It wasn’t an easy life, but it was the best you could manage.
@@ -33,6 +36,8 @@ I Know a Guy: If the character needs something unsavory or illegal done in a pla
 * **Knowledge**: Crime Families, Criminal Etiquette
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Cloak with internal pockets
 * Crowbar OR small sledge hammer

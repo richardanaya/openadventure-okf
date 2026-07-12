@@ -1,14 +1,17 @@
 ---
-type: "Adventure Guide Guidance"
+type: "Guide"
 title: "Adjudicating Actions"
 description: "Resolve player intent by considering what, how, and why before applying rules."
 tags: ["open-adventure", "fantasy", "core-rules", "adventure-guides", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4897
 source_end_line: 4954
+derivation: "transformed-extract"
 ---
-
 # Adjudicating Actions
 
 It only takes a couple games to really get the hang of coming up with Actions, describing them, and understanding how to use the rules to bring them to life at the table. This section provides additional guidance to help you get everyone comfortable with choosing their Actions and advice for adjudicating those Actions.
@@ -49,23 +52,22 @@ But when the Adventure Guide asks the player why Amicus is charging, the player 
 
 ## Action Types
 
-The Action Library found on page XX includes more than 50 example Actions. Those examples cover most of the situations that come up in a typical *Open Adventure* game. If none of these work for the Action the player wants their character to perform or the outcome they want to achieve, use the list of Action Types below to guide you on how to use the rules to achieve different outcomes. The “why” of almost all the Actions players come up with will match one of these types.
+The [Action Library](/actions/) includes more than 50 example Actions. Those examples cover most of the situations that come up in a typical *Open Adventure* game. If none of these work for the Action the player wants their character to perform or the outcome they want to achieve, use the list of Action Types below to guide you on how to use the rules to achieve different outcomes. The “why” of almost all the Actions players come up with will match one of these types.
 
-|  |  |  |
-| --- | --- | --- |
-| **ACTION TYPES** | | |
+**ACTION TYPES**
+
 | **Type** | **Game Effect** | **Base Difficulty Score\*** |
-| **Aid** | Add a Benefit to Action Scores for anyone performing a specific Action. | Based on Action. |
+| --- | --- | --- |
+| **[Aid](/actions/aid.md)** | Add a Benefit to Action Scores for anyone performing a specific Action. | Based on Action. |
 | **Attack** | Reduce a target’s Challenge Points by the Effect in combat. | Appropriate Defense Score (Body, Mind, or Spirit). |
 | **Control** | Control the position, movement, or behavior of another character. | Opposed Action Check. |
 | **Increase** | Improve an Action Score, Effect, Difficulty Score, or other numeric value for a single target by the Effect. Maximum Effect = Primary Attribute used. | The current total (including Benefits or Drawbacks) Action Score, Effect, Difficulty Score, or value. |
-| **Obstruct** | Add a Drawback to the Difficulty Score for anyone performing a specific Action Check. | Based on Action. |
+| **[Obstruct](/actions/obstruct.md)** | Add a Drawback to the Difficulty Score for anyone performing a specific Action Check. | Based on Action. |
 | **Overcome** | Overcome an obstacle. (Example: jumping a pit to reach the other side.) | Based on Action. |
 | **Reduce CP** | Reduce a non-combat Challenge’s Challenge Points by the Effect. | Based on Action. |
-| **Remove Drawback** | Eliminate a specific Drawback. | Based on Action. |
+| **[Remove Drawback](/actions/remove-drawback.md)** | Eliminate a specific Drawback. | Based on Action. |
 | **Slow** | Make the target’s movement require a Major Action. | Based on Action. |
-|  |  |  |
-| \* A Base Difficulty Score of “Based on Action” means the Adventure Guide sets an appropriate Action Score for the Action the character is using to achieve the effect. See page XX in Chapter 10: Actions for more on setting Difficulty Scores. | | |
-|  | | |
 
-This is not a comprehensive list of every possible game effect, but it covers most situations and outcomes encountered during *Open Adventure* games. Even more importantly, these Action Types and all the rules in this book are only a starting point. *Open Adventure* is a living framework for engaging in fantastic adventures. You and the players can and should expand, adapt, and adjust the rules to fit your game and style of play.
+\*A Base Difficulty Score of “Based on Action” means the Adventure Guide sets an appropriate Difficulty Score for the Action the character is using to achieve the effect. See [Actions](/rules/actions.md) for more on setting Difficulty Scores.
+
+This is not a comprehensive list of every possible game effect, but it covers most situations and outcomes encountered during *Open Adventure* games. Even more importantly, these Action Types and all the rules in this bundle are only a starting point. *Open Adventure* is a living framework for engaging in fantastic adventures. You and the players can and should expand, adapt, and adjust the rules to fit your game and style of play.

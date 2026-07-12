@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Remove Drawback"
 description: "Remove or offset a condition that applies a Drawback to a Difficulty Score."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7421
 source_end_line: 7443
+derivation: "transformed-extract"
 ---
-
 # Remove Drawback
 
 Remove or offset a condition that applies a Drawback to a Difficulty Score.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Adventure Guide sets | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Remove Drawback from Difficulty Score | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Adventure Guide sets |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Remove Drawback from Difficulty Score |
 
 A successful **Remove Drawback** Check counters a negative condition, removing the associated Drawback from a Difficulty Score. The Drawback remains offset until the start of the character’s next Turn.
 

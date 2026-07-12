@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Assist"
 description: "Raise an Action Score by the Effect by contributing directly to the Action."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6509
 source_end_line: 6533
+derivation: "transformed-extract"
 ---
-
 # Assist
 
 Raise an Action Score by the Effect by contributing directly to the Action.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Value of Action Score to improve | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Increase target Action Score by Effect | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Value of Action Score to improve |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Increase target Action Score by Effect |
 
 On a successful **Assist** Check, increase the targeted Action Score by the Effect. The maximum Effect is equal to the Primary Attribute used in the Assist Check.
 

@@ -1,14 +1,17 @@
 ---
-type: "Encounter Example"
+type: "Example"
 title: "Encounter: Vile Kitchen"
 description: "An encounter set in a dangerous and disgusting kitchen."
 tags: ["open-adventure", "fantasy", "core-rules", "encounters", "examples"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4209
 source_end_line: 4241
+derivation: "transformed-extract"
 ---
-
 # Encounter: Vile Kitchen
 
 As the characters explore the dungeon, they discover a large kitchen.
@@ -33,7 +36,7 @@ This room is just another part of the bugbear stronghold. It doesn’t contain a
 
 Challenges the characters may face when exploring this room include:
 
-* **Disease: Filth Fever** (CP 5, **Linked**): If any character is foolish enough to try eating the nasty brew cooking in the pot, they must immediately make a DS 7 Toughness Check. On a success, they just feel a bit queasy. On a failure, they become violently ill and contract Filth Fever.
+* **[Disease: Filth Fever](/challenges/disease-filth-fever.md)** (CP 5, **Linked**): If any character is foolish enough to try eating the nasty brew cooking in the pot, they must immediately make a DS 7 Toughness Check. On a success, they just feel a bit queasy. On a failure, they become violently ill and contract Filth Fever.
 * **Green Slime** (Adversary, **Round 4** 2 Bugbears): The bugbear cook put a heavy rock on the lid of another large pot sitting in the corner of the room. If the characters open it, a green slime bursts out and attacks. If they fight the slime for more than three Rounds, the noise draws the attention of a pair of bugbear guards who charge into the room and join the fight.
 * **Search the Room** (CP 12): Searching the room isn’t difficult, but it is time consuming thanks to all the trash, rotten food, pots, and kitchen utensils lying around. Don’t tell the characters how many Challenge Points the search has. Let them search as long as they like, and if they reduce the Challenge Points to 0 before they give up, they discover a human hand under some rubbish still clutching a fine dagger.
 

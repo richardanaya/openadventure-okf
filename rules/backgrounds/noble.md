@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Noble"
 description: "A character background shaped by privilege, courtly life, and social status."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2742
 source_end_line: 2773
+derivation: "transformed-extract"
 ---
-
 # Noble
 
 Born into your culture’s ruling class, you grew up among the nobility. You enjoyed all the benefits of wealth and power, from always having enough to eat to receiving an exemplary education from the finest teachers. Yours was a life of wants, not of needs.
@@ -38,6 +41,8 @@ Valuable Hostage: An enemy that recognizes the character as a member of the nobi
 * **Knowledge**: Courtly Etiquette, Heraldry, History
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Perfume (vial)
 * Signet ring

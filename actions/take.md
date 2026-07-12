@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Take"
 description: "Tear something you Grabbed away from an opponent."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7649
 source_end_line: 7669
+derivation: "transformed-extract"
 ---
-
 # Take
 
 Tear something you Grabbed away from an opponent.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR | | |
-| Difficulty: | Opposed STR Check | | |
-| Prerequisite: | Grab |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | You take the item from the opponent | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR |
+| Difficulty: | Opposed STR Check |
+| Prerequisite: | Grab |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | You take the item from the opponent |
 
 On a successful **Take** Check, the character forcibly takes a Grabbed item away from the target. Unless the target willingly releases the item, the item suffers damage equal to the Effect. The item’s Armor (Body) reduces the Effect.
 

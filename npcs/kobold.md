@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Kobold"
 description: "Kobolds are small reptilian humanoids who fiercely defend the belief that they are descended from dragons."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9024
 source_end_line: 9058
+derivation: "transformed-extract"
 ---
-
 # Kobold
 
 Kobolds are small reptilian humanoids who fiercely defend the belief that they are descended from dragons.
 
 Challenge Points: 4 Reaction: 5
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 1 | 1 | 3 |
 | **Defenses:** | 3 (4) | 2 | 2 |
 | **Armor:** | 0 | 0 | 0 |

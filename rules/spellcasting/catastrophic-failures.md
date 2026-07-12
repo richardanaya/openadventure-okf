@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Topic"
+type: "Rule"
 title: "Catastrophic Spell Failures"
 description: "A d100 table of catastrophic outcomes caused by critically failed Spellcasting Checks."
 tags: ["open-adventure", "fantasy", "core-rules", "spellcasting", "critical-failures", "table"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4631
 source_end_line: 4700
+derivation: "transformed-extract"
 ---
-
 # Catastrophic Spell Failures
 
 On a Critical Failure, the character suffers a catastrophic spell failure. Roll d100 and add the amount by which they rolled under the Difficulty Score to determine the outcome.
@@ -17,10 +20,10 @@ Guidance for Guides: A Critical Failure Starting Point
 
 The table of catastrophic spell failure events represents the types of disasters a spellcaster might experience when a spell fails catastrophically. It is designed to get you started. These are not the only ways spells go wrong or even necessarily the most common results. If these were the only possible effects, statistics dictate that every spellcaster would eventually end up with mis-colored hair and elongated eyelashes. The Adventure Guide is encouraged to add their own mishaps, alter the mishaps described here, only use each mishap once, or come up with an entirely new list.
 
-|  |  |
-| --- | --- |
-| **CATASTROPHIC SPELL FAILURE EVENT TABLE** | |
+**CATASTROPHIC SPELL FAILURE EVENT TABLE**
+
 | **% Roll** | **Outcome** |
+| --- | --- |
 | 1–2 | An insignificant, pitiful dusting of sparks pops from your fingertips and instantly disappear. |
 | 3–4 | Your eyelashes increase in length by 50%. The effect lasts 1d6 days. |
 | 5–6 | One random object on your person emits an odor like rotting flesh. The effect continues until you spend an hour cleaning it. |
@@ -70,7 +73,7 @@ The table of catastrophic spell failure events represents the types of disasters
 | 93–94 | You lose a percentage of your height equal to the Spellcasting Check’s Difficulty Score. |
 | 95–96 | Reduce your physiological age by 2d20% of your current age. The Adventure Guide may apply changes to Body Primary Attribute scores if appropriate. |
 | 97–98 | Increase your physiological age by 2d20% of your current age. The Adventure Guide may apply changes to Body Primary Attribute scores if appropriate. |
-| 99–100 | The spell goes off, but triple the spell’s effect. If the spell is an Area of Effect sepll, triple the Area of Effect as well. |
+| 99–100 | The spell goes off, but triple the spell’s effect. If the spell is an Area of Effect spell, triple the Area of Effect as well. |
 | 101–102 | A body part drops harmlessly off your body. There is no blood or pain. Roll 1d10 to determine which part: 1 = Arm, 2 = Hand, 3 = Finger, 4 = Leg, 5 = Foot, 6 = Toe, 7 = Nose, 8 = Lips, 9 = Eye, 10 = Ear |
 | 103–104 | The spell goes off as normal, but your Body Points are permanently reduced by 1. |
 | 105–106 | You transform into a character of a different lineage. |

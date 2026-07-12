@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "Things You Hate or Fear"
 description: "A d100 table of things a character strongly hates or fears."
-tags: ["open-adventure", "character-creation", "backstory", "fears", "aversions"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "fears", "aversions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5999
 source_end_line: 6101
+derivation: "transformed-extract"
 ---
-
 # Things You Hate or Fear
 
-|  |  |
-| --- | --- |
 | d100 | **You hate or fear…** |
+| --- | --- |
 | 1 | heights |
 | 2 | enclosed spaces |
 | 3 | being alone |

@@ -1,19 +1,21 @@
 ---
-type: "Equipment Catalog"
+type: "Equipment"
 title: "Adventuring Gear"
 description: "General adventuring gear, prices, and special properties."
 tags: ["open-adventure", "fantasy", "core-rules", "equipment", "adventuring-gear"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3150
 source_end_line: 3215
+derivation: "transformed-extract"
 ---
-
 # Adventuring Gear
 
-|  |  |
-| --- | --- |
 | **Item** | **Cost** |
+| --- | --- |
 | Antitoxin (vial) | 50 sp |
 | Bedroll | 24 sp |
 | Bell (small) | 8 sp |
@@ -62,13 +64,13 @@ Descriptions for adventuring gear with special properties.
 
 **Caltrops (Bag of 20)**: Caltrops are small, pyramid shaped steel spikes. A single bag of caltrops is enough to cover the width of a standard doorway or hallway. Anyone wishing to move through a space where caltrops are spread must use a Major Action for their movement, otherwise they immediately suffer 1 point of damage not reduced by armor.
 
-**Grappling Hook**: Allows the wielder to perform a Grab Check against a non-living target up to a Stone’s Throw away with a Difficulty Score of 3 to 5 depending on how difficult the Adventure Guide rules it is to hook the target. On a success, the hook is set and characters can safely climb the rope. Rope not included.
+**Grappling Hook**: Allows the wielder to perform a [Grab Check](/actions/grab.md) against a non-living target up to a Stone’s Throw away with a Difficulty Score of 3 to 5 depending on how difficult the Adventure Guide rules it is to hook the target. On a success, the hook is set and characters can safely climb the rope. Rope not included.
 
-**Poison, Fireblood (vial)**: This is a single dose of Fireblood poison, enough to coat a single blade. For more information about Fireblood poison see page XX in Appendix C: Challenge Library.
+**Poison, Fireblood (vial)**: This is a single dose of [Fireblood poison](/challenges/poison-fireblood.md), enough to coat a single blade. For more information about [Fireblood poison](/challenges/poison-fireblood.md) see [Challenge Library](/challenges/).
 
 **Potion of Heal Wound (vial)**: Drinking this potion heals one Body Wound. Variations for Mind and Spirit are available at the same price.
 
-**Potion of Recovery (vial)**: Dinking this potion recovers all a character’s Body Points. Variations for Mind and Spirit are available at the same price.
+**Potion of Recovery (vial)**: Drinking this potion recovers all a character’s Body Points. Variations for Mind and Spirit are available at the same price.
 
 **Ram, portable**: A portable ram is roughly the size of a large backpack when unassembled. Assembling the ram takes 5 minutes. Once assembled, up to three individuals may automatically Aid (no Action Check required) a character making a Strength Check to knock down a door or barrier.
 

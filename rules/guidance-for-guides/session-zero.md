@@ -1,14 +1,17 @@
 ---
-type: "Adventure Guide Guidance"
+type: "Guide"
 title: "Session Zero"
 description: "Establish comfort, consent, setting expectations, materials, and character creation guidelines."
 tags: ["open-adventure", "fantasy", "core-rules", "adventure-guides", "session-zero"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4815
 source_end_line: 4849
+derivation: "transformed-extract"
 ---
-
 # Session Zero
 
 In RPG lingo, Session Zero refers to the first gathering of a group of players before the start of the game. During this initial gathering, the group discusses their expectations for the game, which rulebooks they will use, the intended style of play, and the types of characters that will best fit the coming adventure. Even more importantly, Session Zero is an opportunity for everyone involved to lay out some guidelines for what type of play they are comfortable with and which things should be avoided.

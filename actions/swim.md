@@ -1,19 +1,22 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Swim"
 description: "Keep from drowning when faced with dangerous circumstances in the water."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7597
 source_end_line: 7623
+derivation: "transformed-extract"
 ---
-
 # Swim
 
 Keep from drowning when faced with dangerous circumstances in the water.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Attribute: | STR |
 | Difficulty: | Adventure Guide sets |
@@ -21,9 +24,8 @@ Keep from drowning when faced with dangerous circumstances in the water.
 | Tools/Conditions: | Unburdened |
 | Base Time: | 1 Round |
 | Outcome: | The character does not drown |
-|  |  |
 
-On a successful **Swim** Check, the character avoids drowning and completes their desired Action. No Action Check is required If the character knows how to swim and there are no special circumstances that make swimming more difficult (like swimming in armor). When there are circumstances that increase the difficulty, the Adventure Guide sets the base Difficulty Score based on the complexity of the Action and adds appropriate Drawbacks.
+On a successful **Swim** Check, the character avoids drowning and completes their desired Action. No Action Check is required if the character knows how to swim and there are no special circumstances that make swimming more difficult (like swimming in armor). When there are circumstances that increase the difficulty, the Adventure Guide sets the base Difficulty Score based on the complexity of the Action and adds appropriate Drawbacks.
 
 For characters that know how to swim, most Swim Checks have a base Difficulty Score of 2. If the character is attempting something especially challenging, like a high dive, this adds to the complexity and increases the base Difficulty Score. The primary sources of Difficulty when swimming are Drawbacks, which include things like large waves, wind, cold water, wearing armor, and similar impediments.
 

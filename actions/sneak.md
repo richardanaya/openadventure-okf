@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Sneak"
 description: "Move around without being detected."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7573
 source_end_line: 7595
+derivation: "transformed-extract"
 ---
-
 # Sneak
 
 Move around without being detected.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | COR | | |
-| Difficulty: | Opposed Reaction Check | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | The DS to detect the character is equal to the Effect | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | COR |
+| Difficulty: | Opposed Reaction Check |
+| Prerequisite: | — |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | The DS to detect the character is equal to the Effect |
 
 On a successful **Sneak** Check, the character moves quietly and unseen. This requires a Major Action and allows the character to perform simple movements, like stealthily opening a chest. If they want to change their position as well, such as creeping Across the Room, they must also expend their Minor Action as normal for movement.
 

@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Topic"
+type: "Rule"
 title: "Spellcasting Rules"
 description: "Spellcasting prerequisites, checks, difficulty modifiers, tools, Action Scores, and failure costs."
 tags: ["open-adventure", "fantasy", "core-rules", "spellcasting", "rules"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4427
 source_end_line: 4627
+derivation: "transformed-extract"
 ---
-
 # Spellcasting Rules
 
 Spellcasters use magic to perform actions others accomplish by mundane means. Where a non-Spellcaster might walk across the room to get a book from a bookshelf, a spellcaster can summon it to their hand. Magic can also make the impossible a reality, such as the creation of a torch that burns underwater. The catch is that spellcasting is difficult, dangerous, and requires great sacrifice.
@@ -19,7 +22,7 @@ In game terms, however, spellcasting is just another way for a character to perf
 
 When a player wants their spellcaster character to use magic, they make a Spellcasting Check. Spellcasting Checks work exactly like other types of Action Checks. The Adventure Guide determines the Difficulty Score, the player adds up the character’s Action Score, and then the player rolls the dice. If the result is equal to or greater than the Difficulty Score, the Spellcasting Check is a success. The spell is cast, and the story continues.
 
-There are, however, some special rules and requirements for Spellcasting, Spellcasters, and Spellcasting Checks. Each of the points below are covered in detail later in the chapter.
+There are, however, some special rules and requirements for Spellcasting, Spellcasters, and Spellcasting Checks. Each of the points below is covered in detail later in this section.
 
 * **Spellcaster Prerequisites**: Spellcasting characters must meet certain prerequisites to gain the ability to cast spells.
 * **Spellcasting is Always a Stunt**: Every Spellcasting Check is a Stunt. On a failed Spellcasting Check, the character loses Mind Points or Spirit Points (depending on their Spellcasting Primary Attribute) equal to the amount they rolled under the Difficulty Score.
@@ -33,7 +36,7 @@ In Open Adventure, the only limit to the number and type of spells a Spellcaster
 
 ## Temporary Effects
 
-The effect of most spells is temporary. Spells that create, summon, or reshape matter and energy only continue if the Spellcaster maintains the spell. The same is true for spells used to perform Assist, Aid, Obstruct, or Complicate Actions. Once the Spellcaster releases the spell, the world goes back to its original state. The effects of spells that move or heal, and the work done with a spell that emulates a skill are permanent. In addition, changes to targets and the environment, like the damage from a fireball, remain after the spell ends.
+The effect of most spells is temporary. Spells that create, summon, or reshape matter and energy only continue if the Spellcaster maintains the spell. The same is true for spells used to perform Assist, Aid, Obstruct, or [Complicate Actions](/actions/complicate.md). Once the Spellcaster releases the spell, the world goes back to its original state. The effects of spells that move or heal, and the work done with a spell that emulates a skill are permanent. In addition, changes to targets and the environment, like the damage from a fireball, remain after the spell ends.
 
 ## Line of Sight
 
@@ -45,13 +48,13 @@ If the Spellcaster’s primary means of sensing the world is something other tha
 
 If a player wants to create a Spellcaster character, the character must meet certain prerequisites.
 
-The character must have the **Spellcaster Exceptional Ability**. If a player chooses Spellcaster as their character’s Primary Exceptional Ability, upon a failed Spellcasting Check, the character loses the same number of points as for a failed Stunt. If Spellcaster is taken as the Secondary Exceptional Ability, the point loss on a failed Spellcasting Check is doubled.
+The character must have the **[Spellcaster Exceptional Ability](/rules/character-creation/exceptional-abilities/spellcaster.md)**. If a player chooses Spellcaster as their character’s Primary Exceptional Ability, upon a failed Spellcasting Check, the character loses the same number of points as for a failed Stunt. If Spellcaster is taken as the Secondary Exceptional Ability, the point loss on a failed Spellcasting Check is doubled.
 
 It is highly recommended that a player building a Spellcaster select **an MO with the Spellcaster trait**. If a character’s MO has the Spellcaster trait, the player may add the character’s MO score to the Action Score for Spellcasting Checks. If a character’s MO does not have the Spellcaster trait, the player may not add their character’s MO score to the Action Score for Spellcasting Checks.
 
 ## Spellcasting Checks
 
-When a player wants their character to cast a spell, they make a Spellcasting Check. Spellcasting Checks are handled almost exactly like other Action Checks. They follow the same rules described in Chapter 10: Actions, with a few exceptions.
+When a player wants their character to cast a spell, they make a Spellcasting Check. Spellcasting Checks are handled almost exactly like other Action Checks. They follow the same rules described in [Actions](/rules/actions.md), with a few exceptions.
 
 ## Spellcasting Difficulty Score
 
@@ -59,33 +62,32 @@ The base Difficulty Scores for a Spellcasting Check is based on the difficulty o
 
 **Base Spellcasting Check Difficulty Score** = Action Difficulty + Range Modifier + Reality Modifier
 
-Adventure Guides can learn more about setting Difficulty Scores for Spellcasting by reading the Design Insights sections in the spell entries found in Appendix D: Spell Library.
+Adventure Guides can learn more about setting Difficulty Scores for Spellcasting by reading the Design Notes sections in the [Spell Library](/spells/).
 
 ## Action Difficulty
 
-The Adventure Guide starts by selecting a Difficulty Score exactly as they would for an equivalent mundane Action, as described in Chapter 10: Actions and as shown in the Action examples found in Appendix B: Action Library.
+The Adventure Guide starts by selecting a Difficulty Score exactly as they would for an equivalent mundane Action, as described in [Actions](/rules/actions.md) and as shown in the Action examples found in [Action Library](/actions/).
 
-Warheart and Ezarel must climb to the top of a cliff. The cliff has a fair number of handholds, but there are a few spots that could challenge a novice climber. The Adventure Guide sets the base Difficulty Score at 7. Warheart is going to climb the wall in the traditional fashion, relying on his athleticism and strength. Ezarel is casting a spell that lets them stick to the wall and ascend like a spider. Since both characters are climbing, the starting Difficulty Score for Warheart’s Climb Check and Ezarel’s Spellcasting Check, before adding Drawbacks and other modifiers, is DS 7.
+Warheart and Ezarel must climb to the top of a cliff. The cliff has a fair number of handholds, but there are a few spots that could challenge a novice climber. The Adventure Guide sets the base Difficulty Score at 7. Warheart is going to climb the wall in the traditional fashion, relying on his athleticism and strength. Ezarel is casting a spell that lets them stick to the wall and ascend like a spider. Since both characters are climbing, the starting Difficulty Score for Warheart’s [Climb Check](/actions/climb.md) and Ezarel’s Spellcasting Check, before adding Drawbacks and other modifiers, is DS 7.
 
 It is not uncommon for spells to start with Difficulty Score 0. For instance, taking a book off the shelf or lifting a jug of wine is so easy using mundane methods, in most situations it wouldn’t even warrant an Action Check. Therefore, doing either of these using magic should begin at Difficulty Score 0.
 
-For spells emulating an Attack Action, the starting Difficulty Score is the opponent’s appropriate Defense Score. See the Attack Action and other combat Actions described in Appendix B: Action Library for more information.
+For spells emulating an Attack Action, the starting Difficulty Score is the opponent’s appropriate Defense Score. See the Attack Action and other combat Actions described in [Action Library](/actions/) for more information.
 
 ## Range Modifier
 
 Increase the Difficulty Score based on the distance to the target. In the case of spells that move people or things, select a modifier based on the starting position or the final position of the target, whichever is greater. Use the table below to determine how much to raise the Difficulty Score.
 
-|  |  |
-| --- | --- |
-| **RANGE MODIFIERS TABLE** | |
+**RANGE MODIFIERS TABLE**
+
 | **Distance** | **DS Modifier** |
+| --- | --- |
 | Self | +0 |
 | Reach | +2 |
 | Across the Room | +3 |
 | Stone Throw | +6 |
 | Bow Shot | +9 |
 | Within View | +12 |
-|  |  |
 
 The Range of Self only applies to items the Spellcaster is carrying or wearing. Use Reach for touched targets.
 
@@ -95,23 +97,22 @@ The Adventure Guide may apply a reality modifier to the Difficulty Score if the 
 
 If the Adventure Guide believes the spell significantly alters reality, they should select a modifier from the table below.
 
-|  |  |
-| --- | --- |
-| **REALITY MODIFIERS** | |
+**REALITY MODIFIERS**
+
 | **Extent of Alteration** | **DS Modifier** |
+| --- | --- |
 | Inconsequential | +0 |
 | Minor | +2 |
 | Slight | +3 |
 | Significant | +6 |
 | Legendary | +12 |
-|  |  |
 
 Players can avoid reality modifiers by tapping into their physical surroundings or using appropriate spell components. The Reality Modifier Examples table below gives examples of spells that might warrant a reality modifier, followed by ways a Spellcaster could avoid the modifier.
 
-|  |  |
-| --- | --- |
-| **REALITY MODIFIER EXAMPLES** | |
+**REALITY MODIFIER EXAMPLES**
+
 | **Reality Altering Spell** | **Alternative Spell** |
+| --- | --- |
 | Create a sword from thin air. | Shape a shovel into a sword. |
 | Instantly construct a wall using available materials. | Cast a 12-hour ritual spell to construct a wall from available materials. |
 | Summon a wall of fire out of thin air. | Draw the flame from a fireplace to create a wall of fire. |
@@ -124,7 +125,7 @@ No matter the spell’s effect, the Tools and Conditions required to cast a spel
 
 ## Spellcasting Talisman
 
-The Spellcaster must have a spellcasting talisman appropriate to their MO out and readied. The talismans for the Spellcaster MOs found in this book are:
+The Spellcaster must have a spellcasting talisman appropriate to their MO out and readied. The talismans for the Spellcaster MOs in the [Modus Operandi catalog](/rules/modus-operandi/) are:
 
 * **Cleric**: holy symbol
 * **Druid**: yew rod
@@ -143,7 +144,7 @@ The following are the normal conditions for a Spellcasting Check. These are used
 
 ## Spellcasting Action Score
 
-When calculating the Action Score for a Spellcasting Check, the player always uses the character’s Spellcasting Primary Attribute, regardless of the desired spell effect. Every Spellcaster MO lists a Spellcasting Primary Attribute. For the Spellcaster MOs found in this book, the Primary Attributes are:
+When calculating the Action Score for a Spellcasting Check, the player always uses the character’s Spellcasting Primary Attribute, regardless of the desired spell effect. Every Spellcaster MO lists a Spellcasting Primary Attribute. For the Spellcaster MOs in the [Modus Operandi catalog](/rules/modus-operandi/), the Primary Attributes are:
 
 * **Cleric:** Presence
 * **Druid:** Intuition
@@ -152,7 +153,7 @@ When calculating the Action Score for a Spellcasting Check, the player always us
 
 No matter what Action they are emulating with the spell or what outcome they are attempting to achieve, Spellcasters always use the same Primary Attribute when calculating their Action Score.
 
-If playing a character with a custom MO, or a character who has a non-Spellcaster MO and the Spellcaster Exceptional Ability, work with the Adventure Guide to determine the appropriate Primary Attribute for the character’s Spellcasting Checks.
+If playing a character with a custom MO, or a character who has a non-Spellcaster MO and the [Spellcaster Exceptional Ability](/rules/character-creation/exceptional-abilities/spellcaster.md), work with the Adventure Guide to determine the appropriate Primary Attribute for the character’s Spellcasting Checks.
 
 The player may only add the character’s MO score to their character’s Spellcasting Check Action Score if the MO has the Spellcaster trait.
 
@@ -186,7 +187,7 @@ Only spell components that compliment or are related to the spell provide a Bene
 
 ## Extra Time
 
-Most spells take 6 seconds to cast. Characters may take extra time when casting spells, gaining a Benefit for each move up the time chart in time. See page XX in Chapter 10: Actions for more information about taking extra time.
+Most spells take 6 seconds to cast. Characters may take extra time when casting spells, gaining a Benefit for each move up the time chart in time. See [Actions](/rules/actions.md) for more information about taking extra time.
 
 ## Arcane Preparation
 
@@ -209,6 +210,6 @@ If the Spellcasting Check fails, the character loses Mind Points or Spirit Point
 
 The type of points the character loses depends on the Primary Attribute the character uses for Spellcasting. If the character uses Intellect or Deduction, they lose Mind Points, and if they use Presence or Intuition, they lose Spirit Points.
 
-If a character has the Spellcaster Exceptional Ability but their MO does not have the Spellcaster trait, the point loss on a failed Spellcasting Check is doubled.
+If a character has the [Spellcaster Exceptional Ability](/rules/character-creation/exceptional-abilities/spellcaster.md) but their MO does not have the Spellcaster trait, the point loss on a failed Spellcasting Check is doubled.
 
-If a character’s Mind Points or Spirit Points are reduced to 0, the character suffers a Wound normally, as per the rules on page XX in Chapter 13: Injury, Wounds, and Healing.
+If a character’s Mind Points or Spirit Points are reduced to 0, the character suffers a Wound normally, as per the rules in [Injury, Wounds, and Healing](/rules/injury-wounds-and-healing.md).

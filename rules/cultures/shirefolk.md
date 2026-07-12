@@ -1,14 +1,17 @@
 ---
-type: "Character Culture"
+type: "Character Option"
 title: "Shirefolk"
 description: "A close-knit rural culture centered on community and simple comforts."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2385
 source_end_line: 2416
+derivation: "transformed-extract"
 ---
-
 # Shirefolk
 
 Shirefolk want four things: delicious food, strong drink, good friends, and fine pipeweed (not necessarily in that order). Anything beyond these is seen as frivolous fluff, and, frankly, a bit greedy. They labor hard to ensure these simple pleasures are always available, and they always store a bit away for the future “just in case,” a phrase heard often repeated among the Shirefolk.
@@ -35,6 +38,8 @@ The Shirefolk speak a language called Brandletongue, and every Shirefolk learns 
 * **Knowledge**: Agriculture, Domestic Animals
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Linen breeches OR skirt
 * Linen chemise

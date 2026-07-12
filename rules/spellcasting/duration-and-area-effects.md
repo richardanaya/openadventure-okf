@@ -1,17 +1,20 @@
 ---
-type: "Rulebook Topic"
+type: "Rule"
 title: "Spell Duration and Area Effects"
 description: "Rules for spell duration, maintenance, multiple targets, and areas of effect."
 tags: ["open-adventure", "fantasy", "core-rules", "spellcasting", "duration", "area-effects"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4704
 source_end_line: 4807
+derivation: "transformed-extract"
 ---
-
 # Spell Duration and Area Effects
 
-The effect of most spells is temporary. Spells that create, summon, or reshape matter and energy only continue if the Spellcaster maintains the spell. The same is true for spells used to perform the Assist, Aid, Obstruct, or Complicate Actions. Once the Spellcaster releases the spell, the world goes back to its original state.
+The effect of most spells is temporary. Spells that create, summon, or reshape matter and energy only continue if the Spellcaster maintains the spell. The same is true for spells used to perform the Assist, Aid, Obstruct, or [Complicate Actions](/actions/complicate.md). Once the Spellcaster releases the spell, the world goes back to its original state.
 
 The effects of spells that move or heal, and work done using a spell to emulate a skill, are permanent. In addition, changes to targets and the environment caused by spells, like the damage from a fireball, remains after the spell ends.
 
@@ -21,7 +24,7 @@ An Instantaneous spell is any spell where the game effect is immediate and the s
 
 ## One Round Spells
 
-One Round Spells include (but are not limited to) spells used to perform Assist, Obstruct, Remove Drawback, and Aid Actions. Examples include spells that improve a character’s Action Score (such as a spell that makes the target stronger), add or remove a modifier (such as a spell that makes the ground slippery with grease), or temporarily alters the form of something (such as a spell that opens a hole in a stone wall). One Round spells last from the moment the spellcasting is completed to the beginning of the Spellcaster’s next Turn. At that point, the magical effect fades, and the world returns to its previous state.
+One Round Spells include (but are not limited to) spells used to perform Assist, Obstruct, Remove Drawback, and [Aid Actions](/actions/aid.md). Examples include spells that improve a character’s Action Score (such as a spell that makes the target stronger), add or remove a modifier (such as a spell that makes the ground slippery with grease), or temporarily alters the form of something (such as a spell that opens a hole in a stone wall). One Round spells last from the moment the spellcasting is completed to the beginning of the Spellcaster’s next Turn. At that point, the magical effect fades, and the world returns to its previous state.
 
 ## Maintaining Spells
 
@@ -39,15 +42,15 @@ If a Spellcaster is Maintaining a spell, they may modify the spell by making add
 
 ## Adding Effects
 
-A Spellcaster may add additional effects to a Maintained spell on the Rounds after it is cast. For instance, a Spellcaster might emulate the Slow Action by casting a spell that covers the floor with Grease. On a following Round, they may wish to add the Trip Action to the effect, so characters entering the area of effect are slowed and may also fall down.
+A Spellcaster may add additional effects to a Maintained spell on the Rounds after it is cast. For instance, a Spellcaster might emulate the Slow Action by casting a spell that covers the floor with Grease. On a following Round, they may wish to add the [Trip Action](/actions/trip.md) to the effect, so characters entering the area of effect are slowed and may also fall down.
 
 ## Follow-on Actions
 
-When appropriate, Spellcasters may make additional Spellcasting Checks for a Maintained spell to perform follow-on Actions against the same target. A common example is using a spell to perform a Grab Action against a target on the first Round (for instance, a spell that animates vines) and then making an additional Spellcasting Check to Restrain the target on the next Round. The rules are the same as for a character performing these Actions with physical Action Checks, except the Spellcaster makes Spellcasting Checks. The Grab Action and Restrain Action are described on pages XX and XX in Appendix B: Action Library.
+When appropriate, Spellcasters may make additional Spellcasting Checks for a Maintained spell to perform follow-on Actions against the same target. A common example is using a spell to perform a [Grab Action](/actions/grab.md) against a target on the first Round (for instance, a spell that animates vines) and then making an additional Spellcasting Check to Restrain the target on the next Round. The rules are the same as for a character performing these Actions with physical Action Checks, except the Spellcaster makes Spellcasting Checks. The [Grab Action](/actions/grab.md) and [Restrain Action](/actions/restrain.md) are described in [Action Library](/actions/).
 
 ## Improve the Effect
 
-Sometimes, the base Difficulty Score to avoid spell effects is the Effect of the Spellcasting Check. For a Maintained spell, the Spellcaster may follow the initial casting with a Spellcasting Check that emulates the Improve Action. This lets the Spellcaster refine the results of the spell to make it more difficult to overcome. Information about the Improve Action is found on page XX in Appendix B: Action Library.
+Sometimes, the base Difficulty Score to avoid spell effects is the Effect of the Spellcasting Check. For a Maintained spell, the Spellcaster may follow the initial casting with a Spellcasting Check that emulates the [Improve Action](/actions/improve.md). This lets the Spellcaster refine the results of the spell to make it more difficult to overcome. Information about the [Improve Action](/actions/improve.md) is found in [Action Library](/actions/).
 
 ## Multiple Targets
 
@@ -58,7 +61,7 @@ When attempting to hit multiple targets with a single spell:
 * Add a **Drawback** to the Difficulty Score for each target.
 * When determining the **Range Modifier**, use the distance to the target that is farthest away from the Spellcaster.
 * If the base Difficulty Score is determined by one of the target’s Primary or Secondary Attribute scores, **use the highest Score from among the targets** to set the base Difficulty Score.
-* If the base Difficulty Score is determined by an opposed Action Check, **allow each target to roll and** **use the highest result** as the base Difficulty Score.
+* If the base Difficulty Score is determined by an opposed Action Check, **allow each target to roll and use the highest result** as the base Difficulty Score.
 
 On a successful Spellcasting Check against multiple targets, all the targets are affected by the spell’s game effect. A Maintained spell cast on multiple targets remains in effect for all the targets, even if a target moves out of line of sight or farther away than the initial distance.
 
@@ -81,7 +84,7 @@ Depending on the description of the spell and its game effect, barriers like wal
 
 ## Area of Effect Range Modifier
 
-The Difficulty Score for an Area of Effect spell includes a range modifier for the distance to the target and a second range modifier for the effect’s length or diameter. Reference the Range Modifier Table on page XX for ranges and modifiers.
+The Difficulty Score for an Area of Effect spell includes a range modifier for the distance to the target and a second range modifier for the effect’s length or diameter. Reference the [Range Modifier table](casting-rules.md#range-modifier) for ranges and modifiers.
 
 Ezarel is standing in the hallway outside a room they want to fill with fog. They want to place the center of the effect at a point Across the Room from their location. Since they want the fog to fill the room, they select Across the Room for the diameter. The total range modifier for his spell is 6.
 
@@ -91,7 +94,7 @@ The Adventure Guide adds +6 to the Difficulty Score for the spell.
 
 ## Maintained Area of Effect Spells
 
-Both instantaneous spells and One Round spells may be cast as Area of Effect spells. For One Round Area of Effect spells, the spell’s game effect remains until the beginning of the Spellcaster’s next Turn. With the Adventure Guide’s permission, a One Round Area of Effect spell may be maintained. See Maintaining Spells on page XX for more information. The shape, position, and size of a One Round or Maintained spell may not be changed after casting. To change any of these attributes, the Spellcaster must recast the spell on a future Turn.
+Both instantaneous spells and One Round spells may be cast as Area of Effect spells. For One Round Area of Effect spells, the spell’s game effect remains until the beginning of the Spellcaster’s next Turn. With the Adventure Guide’s permission, a One Round Area of Effect spell may be maintained. See [Maintaining Spells](#maintaining-spells) for more information. The shape, position, and size of a One Round or Maintained spell may not be changed after casting. To change any of these attributes, the Spellcaster must recast the spell on a future Turn.
 
 ## Leaping Clear of Area of Effect Spells
 

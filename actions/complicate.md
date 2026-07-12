@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Complicate"
 description: "Increase the Difficulty Score for one Action the target is attempting."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6723
 source_end_line: 6747
+derivation: "transformed-extract"
 ---
-
 # Complicate
 
 Increase the Difficulty Score for one Action the target is attempting.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Value of Difficulty Score to improve | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Increase Difficulty Score for one Action Check made by the target | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Value of Difficulty Score to improve |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Increase Difficulty Score for one Action Check made by the target |
 
 On a successful **Complicate** Check, increase the target’s Difficulty Score by the Effect for a single target performing a specific Action. The maximum Effect is equal to the Primary Attribute used in the Complicate Check.
 

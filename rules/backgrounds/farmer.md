@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Farmer"
 description: "A character background rooted in agriculture and rural life."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2649
 source_end_line: 2679
+derivation: "transformed-extract"
 ---
-
 # Farmer
 
 You grew up on a farm. This might have been a family farm, owned by your family for generations, or the farm of your liege lord, where you toiled as a serf. You learned to plow, plant, and harvest the crops that you and the people of your community relied on to survive. You also learned the care and breeding of livestock, from chickens to cows.
@@ -32,6 +35,8 @@ Prerequisite: None
 * **Strengths**: Animal Empathy
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Canvas sack
 * Gloves

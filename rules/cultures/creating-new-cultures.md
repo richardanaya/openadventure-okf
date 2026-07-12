@@ -1,14 +1,17 @@
 ---
-type: "Character Option Design Guide"
+type: "Guide"
 title: "Creating New Cultures"
 description: "A four-step procedure for creating a character culture."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures", "design"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2486
 source_end_line: 2519
+derivation: "transformed-extract"
 ---
-
 # Creating New Cultures
 
 These instructions describe how to create new, unique cultures appropriate for the game world where your Adventures take place. The steps for creating a new culture are:
@@ -40,7 +43,7 @@ Remember that these are generalities that reflect the foundational ideals and be
 
 Make a list of skills and abilities people within this culture are likely to learn and spend extra time perfecting. You only need two, since that is all that is needed for character creation, but coming up with a few extras is a good way to help imagine the way what the people of this culture are like.
 
-You may find it helpful to think of Specializations in terms of the groupings described on page XX in Chapter XX: Modus Operandi. For additional information about creating your own Specializations, see **Creating New Specializations** on page XX in Chapter XX: Modus Operandi.
+You may find it helpful to think of Specializations in terms of the groupings described in [Modus Operandi](/rules/modus-operandi/). For additional information, see [Creating New Specializations](/rules/modus-operandi/creating-new-specializations.md).
 
 ## Step 4: Choose Starting Equipment
 

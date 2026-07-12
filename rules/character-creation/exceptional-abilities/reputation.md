@@ -1,14 +1,17 @@
 ---
-type: "Exceptional Ability"
+type: "Character Option"
 title: "Reputation"
-description: "Primary and secondary benefits for the Reputation exceptional ability."
+description: "Grants a Benefit to Presence Checks with people who share the character's background or culture."
 tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "exceptional-abilities"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
-source_start_line: 1338
-source_end_line: 1338
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
+source_start_line: 1339
+source_end_line: 1339
+derivation: "table-row-expansion"
 ---
-
 # Reputation
 
 ## Primary Benefit

@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Ride"
 description: "Control a horse or other mount under difficult circumstances."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7473
 source_end_line: 7497
+derivation: "transformed-extract"
 ---
-
 # Ride
 
 Control a horse or other mount under difficult circumstances.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | COR or EMP | | |
-| Difficulty: | Based on Action or Circumstances | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Bit, bridle, saddle, stirrups | | |
-| Base Time: | 1 Round | | |
-| Outcome: | The mount executes the rider’s command properly | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | COR or EMP |
+| Difficulty: | Based on Action or Circumstances |
+| Prerequisite: | — |
+| Tools/Conditions: | Bit, bridle, saddle, stirrups |
+| Base Time: | 1 Round |
+| Outcome: | The mount executes the rider’s command properly |
 
 On a successful **Ride** Check, the rider succeeds in controlling their mount and achieving the desired outcome.
 

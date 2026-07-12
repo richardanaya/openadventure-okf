@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Attributes"
 description: "How attribute scores represent character capabilities and how Primary Attributes are organized."
 tags: ["open-adventure", "fantasy", "core-rules", "attributes", "overview"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2099
 source_end_line: 2116
+derivation: "transformed-extract"
 ---
-
 # Attributes
 
 You can find out how fast, strong, healthy, or intelligent a character is by looking at their Attribute scores. The higher the score, the smarter, stronger, or tougher the character is.
@@ -23,9 +26,8 @@ Attributes fall into two categories: Primary Attributes and Secondary Attributes
 
 A character’s natural abilities are defined by their nine **Primary Attributes**. Primary Attributes are organized into three types: Body, Mind, and Spirit. For each of these types, there is an attribute corresponding to the type’s power, agility, and sturdiness. For example, Intellect is the character’s “strength of mind,” while Presence is the character’s “strength of spirit.” The table below illustrates this relationship.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Trait** | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Power** | Strength | Intellect | Presence |
 | **Agility** | Coordination | Deduction | Intuition |
 | **Sturdiness** | Toughness | Willpower | Resilience |

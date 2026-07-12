@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Build a Shelter"
 description: "A storm is coming and the characters must build a shelter for protection."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7868
 source_end_line: 7896
+derivation: "transformed-extract"
 ---
-
 # Build a Shelter
 
 A storm is coming and the characters must build a shelter for protection.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 6 |
 | Protection: | None |
@@ -22,7 +25,6 @@ A storm is coming and the characters must build a shelter for protection.
 | **Drawbacks:** | — |
 | **Triggers:** | **—** |
 | **Round Length:** | 1 hour |
-|  |  |
 
 Storm clouds are gathering on the horizon. The characters must build a shelter to avoid getting caught out in the storm.
 

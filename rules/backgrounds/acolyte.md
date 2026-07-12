@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Acolyte"
 description: "A character background grounded in religious service and temple life."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2556
 source_end_line: 2583
+derivation: "transformed-extract"
 ---
-
 # Acolyte
 
 You trained for a career in the clergy. After becoming an acolyte, however, you did not go on to complete the training required to become a full priest or priestess. There is no formal amount of time one spends as an acolyte before ascension, but acolyte status typically lasts between five and ten years.
@@ -30,6 +33,8 @@ Sacred Shelter: An acolyte in good standing with the clergy is granted a bed and
 * **Knowledge**: Myths and Legends, Religion
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Acolyte’s robes
 * Candles (5)

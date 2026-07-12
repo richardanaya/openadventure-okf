@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Withdraw"
 description: "Withdraw your character from an Encounter."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7787
 source_end_line: 7811
+derivation: "transformed-extract"
 ---
-
 # Withdraw
 
 Withdraw your character from an Encounter.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Based on Encounter | | |
-| Difficulty: | Opposed Action Check | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Withdraw your character from the current Encounter | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Based on Encounter |
+| Difficulty: | Opposed Action Check |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Withdraw your character from the current Encounter |
 
 On a successful **Withdraw** Check, the character is removed from the Encounter to a place of relative safety. The character remains “offscreen” until the other characters overcome the Encounter’s Challenges, are defeated, or also Withdraw. The Adventure Guide determines if Withdraw is possible depending on the Encounter.
 
@@ -33,4 +35,4 @@ If all the Player Characters Withdraw from an Encounter before the Challenges ar
 
 * Sneak away from a deadly battle to avoid being killed.
 * Skillfully removes themself from a heated debate where the character will look like a fool if they continue.
-* Retreat from the ruined dungeon to head back to town and buy better equipmen
+* Retreat from the ruined dungeon to head back to town and buy better equipment.

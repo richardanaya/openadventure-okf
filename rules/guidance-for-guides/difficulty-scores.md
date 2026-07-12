@@ -1,22 +1,25 @@
 ---
-type: "Adventure Guide Guidance"
+type: "Guide"
 title: "Setting Difficulty Scores"
 description: "Set base Difficulty Scores and Drawbacks consistently."
 tags: ["open-adventure", "fantasy", "core-rules", "adventure-guides", "difficulty-scores"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4958
 source_end_line: 5004
+derivation: "transformed-extract"
 ---
-
 # Setting Difficulty Scores
 
 An important part of the Adventure Guide’s job is setting Difficulty Scores for the Actions the players describe. This section touches on some key aspects of that responsibility, including guidance for setting Difficulty Scores and applying Drawbacks.
 
-|  |  |  |
-| --- | --- | --- |
-| **ACTION DIFFICULTY** | |  |
+**ACTION DIFFICULTY**
+
 | **Difficulty** | **DS** | **Who Could Do This?** |
+| --- | --- | --- |
 | Very Easy | 3 | Any unskilled person |
 | Easy | 6 | A novice |
 | Moderate | 9 | A professional |

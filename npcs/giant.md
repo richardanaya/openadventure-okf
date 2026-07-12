@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Giant"
 description: "Giants are twenty-foot-tall humanoids with grotesque features (by human standards) and volatile tempers."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8947
 source_end_line: 8985
+derivation: "transformed-extract"
 ---
-
 # Giant
 
 Giants are twenty-foot-tall humanoids with grotesque features (by human standards) and volatile tempers.
 
 Challenge Points: 55 Reaction: 2
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 5 | 1 | 2 |
 | **Defenses:** | 3 | 2 | 3 |
 | **Armor:** | 1 | 0 | 0 |

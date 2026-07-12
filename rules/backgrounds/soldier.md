@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Soldier"
 description: "A character background formed through military service and training."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2811
 source_end_line: 2836
+derivation: "transformed-extract"
 ---
-
 # Soldier
 
 Thanks to good training and better luck you carved out a career on the battlefield. Perhaps you were a foot soldier, conscripted by a noble to fight in their latest private war, or maybe you fought as a mercenary, leveraging your natural talents at warfare to earn a bit of gold. Either way, you lived by the blade, and combat is your profession.
@@ -32,6 +35,8 @@ Sleep Anywhere: The character can sleep anywhere and under almost any conditions
 * **Strengths**: Resist Fatigue, Resist Fear
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Bag of Caltrops (20)
 * Rope (50 feet)

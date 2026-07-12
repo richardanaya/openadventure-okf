@@ -1,28 +1,30 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Sinking Ship"
-description: "The small boat in which the characters are traveling struck a reef. Now it is taking on water."
-tags: ["open-adventure", "challenges"]
+description: "Challenges the characters to save a small boat that is taking on water after striking a reef."
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8219
 source_end_line: 8252
+derivation: "transformed-extract"
 ---
-
 # Sinking Ship
 
 The small boat in which the characters are traveling struck a reef. Now it is taking on water.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 6 |
 | Protection: | — |
 | Traits: | **Escalating** (2 CP) |
-| **Actions**: | **Reduce Escalation** (DS 2), **Repair** (DS 12) |
+| **Actions**: | **[Reduce Escalation](/actions/reduce-escalation.md)** (DS 2), **Repair** (DS 12) |
 | **Drawbacks:** | — |
 | **Triggers:** | **CP 12** (Ship Sinks) |
 | **Round Length:** | 1 minute |
-|  |  |
 
 The characters’ boat struck a reef, gouging a hole in the hull. The boat is taking on water and will sink if the characters don’t act.
 
@@ -32,7 +34,7 @@ The characters’ boat struck a reef, gouging a hole in the hull. The boat is ta
 
 ## Actions
 
-* **Reduce Escalation** (DS 2): Characters may try to block the hole or bail to keep the ship from sinking. Bailing with an improvised tool rather than a bucket or other appropriate item adds a Drawback to the Difficulty Score.
+* **[Reduce Escalation](/actions/reduce-escalation.md)** (DS 2): Characters may try to block the hole or bail to keep the ship from sinking. Bailing with an improvised tool rather than a bucket or other appropriate item adds a Drawback to the Difficulty Score.
 * **Repair** (DS 12): Repairing a sinking ship in the water is extremely difficult.
 
 ## Triggers

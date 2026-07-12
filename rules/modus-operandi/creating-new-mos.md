@@ -1,14 +1,17 @@
 ---
-type: "Character Option Design Guide"
+type: "Guide"
 title: "Creating New MOs"
 description: "A five-step procedure for creating a new Modus Operandi."
 tags: ["open-adventure", "fantasy", "core-rules", "modus-operandi", "design"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1866
 source_end_line: 1944
+derivation: "transformed-extract"
 ---
-
 # Creating New MOs
 
 If none of the MOs provided here describe the character you want to play, you and the Adventure Guide can work together to create a new MO. These are the steps for creating a new MO.
@@ -39,13 +42,13 @@ Give three specific examples of a character with this MO using one of their sign
 
 List a specific non-combat way a character with this MO contributes to the success of their party.
 
-Once you have your responses, you can write up a full prose description, or just call it good and move on to Step 3. If you and the Adventure Guide understand what a character with this MO does, that’s good enough. Also, as with the MO descriptions provided in this book, you only need to provide a general idea of how the character operates when on an adventure. You and the Adventure Guide will fill in the blanks during the game using common sense and creativity.
+Once you have your responses, you can write up a full prose description, or just call it good and move on to Step 3. If you and the Adventure Guide understand what a character with this MO does, that’s good enough. Also, as with the MO descriptions in this rules bundle, you only need to provide a general idea of how the character operates when on an adventure. You and the Adventure Guide will fill in the blanks during the game using common sense and creativity.
 
 ## Step 3: Create a Specialization List
 
 Make a list of skills and abilities a character with this MO has trained in, and things they might spend extra time perfecting. You only need five, since that is all that is needed for character creation, but coming up with a few extras is a good way to help imagine the way a character with the new MO operates.
 
-You may find it helpful to think of Specializations in terms of the groupings used in the MOs entries provided in the chapter. The groupings are:
+You may find it helpful to think of Specializations in terms of the groupings used in the MO entries in this catalog. The groupings are:
 
 **Active**: These are verbs that describe something a character with this MO is likely to *do*. Examples include Inspire, Sneak, Surprise, and Comfort.
 
@@ -59,7 +62,7 @@ You may find it helpful to think of Specializations in terms of the groupings us
 
 **Strengths**: These are situations where a character with this MO is especially strong or hardships they are especially good at resisting. Examples include Resist Elements, Resist Hunger, Endure Pain, and Suppress Emotions.
 
-For additional information about creating your own Specializations, see the **Creating New Specializations** section on page XX.
+For additional information, see [Creating New Specializations](creating-new-specializations.md).
 
 ## Step 4: Determine Traits
 
@@ -83,7 +86,7 @@ Select one type of damage (Body, Mind, or Spirit) characters with this MO are es
 
 ## Spellcaster
 
-This indicates whether a character with this MO is considered a Spellcaster as described on page XX in Chapter 14: Spellcasting and lists the Primary Attribute the character uses when making Spellcasting Checks. Only choose Yes if the MO performs the majority of their Action Checks using magic. Wizards and Sorcerers are classic examples of MOs that are considered Spellcasters. If the MO uses magic but only to supplement their physical abilities, choose No but still include a Primary Attribute. For instance, you might list **No (Intellect)** for the Spellcaster field.
+This indicates whether a character with this MO is considered a Spellcaster as described in [Spellcasting](/rules/spellcasting/) and lists the Primary Attribute the character uses when making Spellcasting Checks. Only choose Yes if the MO performs the majority of their Action Checks using magic. Wizards and Sorcerers are classic examples of MOs that are considered Spellcasters. If the MO uses magic but only to supplement their physical abilities, choose No but still include a Primary Attribute. For instance, you might list **No (Intellect)** for the Spellcaster field.
 
 When choosing a Primary Attribute, select a Mind attribute (Intellect, Deduction, Willpower) if the MO’s spellcasting is based on logic, formulas, creativity, or memorization. Select a Spirit attribute (Presence, Intuition, Resilience) if the MO’s spellcasting is based on faith, emotion, or an external power, like a god.
 

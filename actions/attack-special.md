@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Attack: Special"
 description: "Attack a foe in a creative way to reduce their Challenge Points."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6607
 source_end_line: 6645
+derivation: "transformed-extract"
 ---
-
 # Attack: Special
 
 Attack a foe in a creative way to reduce their Challenge Points.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Target’s Defense score | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Reduce target CP, BP, MP, or SP | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Target’s Defense score |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Reduce target CP, BP, MP, or SP |
 
 There are more ways to defeat an opponent than simply beating them into submission. You could try to drive the enemy away using intimidation, fool them into thinking you are more dangerous than you are, or tip a shelf full of pottery over onto their head. These are all ways you could reduce an enemy’s Challenge Points without making a standard melee or ranged weapon attack.
 
@@ -37,7 +39,7 @@ Here is a simple rule of thumb:
 * If the attack will **trick or confuse** the target, use their **Mind Defense**.
 * If the attack will **demoralize** the target or have an **emotional** impact, use their **Spirit Defense**.
 
-This is only a guideline. In some situations, such as the example at the start of this Appendix, a different Defense or a different score altogether might make more sense. It is up to player and the Adventure Guide to decide.
+This is only a guideline. In some situations, such as the example in the [Action Library overview](overview.md), a different Defense or a different score altogether might make more sense. It is up to the player and the Adventure Guide to decide.
 
 ## Outcome
 

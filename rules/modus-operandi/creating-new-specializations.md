@@ -1,14 +1,17 @@
 ---
-type: "Character Option Design Guide"
+type: "Guide"
 title: "Creating New Specializations"
 description: "Guidance for designing appropriately scoped character specializations."
 tags: ["open-adventure", "fantasy", "core-rules", "specializations", "design"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1948
 source_end_line: 1956
+derivation: "transformed-extract"
 ---
-
 # Creating New Specializations
 
 To create a new Specialization and test to see if it makes logical sense, select a name for the Specialization and then say the following:

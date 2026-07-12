@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Malevolent Menhir"
 description: "These stone constructs are created by powerful wizards using forbidden spells to guard sites of great arcane power."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9096
 source_end_line: 9135
+derivation: "transformed-extract"
 ---
-
 # Malevolent Menhir
 
 *These stone constructs are created by powerful wizards using forbidden spells to guard sites of great arcane power*.
 
 Challenge Points: 25 Reaction: 5
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 4 | 0 | 2 |
 | **Defenses:** | 4 | NA | 2 |
 | **Armor:** | 4 | NA | 0 |

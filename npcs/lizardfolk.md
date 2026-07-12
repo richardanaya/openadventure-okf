@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Lizardfolk"
 description: "Reptilian humanoids, lizardfolk hunt for prey in the swamps where they live in primeval tribes."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9060
 source_end_line: 9094
+derivation: "transformed-extract"
 ---
-
 # Lizardfolk
 
 Reptilian humanoids, lizardfolk hunt for prey in the swamps where they live in primeval tribes.
 
 Challenge Points: 14 Reaction: 5
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 3 | 2 | 2 |
 | **Defenses:** | 4 | 2 | 3 |
 | **Armor:** | 1 | 0 | 0 |

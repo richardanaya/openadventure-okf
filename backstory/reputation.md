@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "How People Describe You"
 description: "A d100 table describing how other people perceive a character."
-tags: ["open-adventure", "character-creation", "backstory", "reputation", "personality"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "reputation", "personality"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5575
 source_end_line: 5677
+derivation: "transformed-extract"
 ---
-
 # How People Describe You
 
-|  |  |
-| --- | --- |
 | d100 | **People say you are…** |
+| --- | --- |
 | 1 | a jerk |
 | 2 | a great person |
 | 3 | kind |

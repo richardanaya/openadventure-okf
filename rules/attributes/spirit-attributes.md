@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Spirit Attributes"
 description: "Presence, Intuition, and Resilience descriptions."
 tags: ["open-adventure", "fantasy", "core-rules", "attributes", "spirit"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2148
 source_end_line: 2176
+derivation: "transformed-extract"
 ---
-
 # Spirit Attributes
 
 ## Presence
@@ -21,14 +24,14 @@ A character’s Intuition is a measure of their instincts, empathy, and ability 
 
 ## Resilience
 
-Resilience represents a character’s innate ability to persevere in the face of emotional trauma and spiritual strain. Resilience is used in Action Checks to resist fear, face death in all its forms without faltering, and adapt to changes that undermine the character’s understanding of the world. It is also used in Recovery Checks to recover Spirit Points.
+Resilience represents a character’s innate ability to persevere in the face of emotional trauma and spiritual strain. Resilience is used in Action Checks to resist fear, face death in all its forms without faltering, and adapt to changes that undermine the character’s understanding of the world. It is also used in [Recovery Checks](/actions/recovery.md) to recover Spirit Points.
 
 What is a “good” score?
 
-|  |  |
-| --- | --- |
-| **Human Attributes Table** | |
+**Human Attributes Table**
+
 | **Score** | **Description** |
+| --- | --- |
 | 0 | Insignificant |
 | 1 | Below Average |
 | 2 | Average |

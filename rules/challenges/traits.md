@@ -1,17 +1,20 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Challenge Traits"
 description: "Timed, Race, Escalating, Opposed, Solo, One-Shot, and Linked Challenge traits."
 tags: ["open-adventure", "fantasy", "core-rules", "challenges", "traits"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3785
 source_end_line: 3827
+derivation: "transformed-extract"
 ---
-
 # Challenge Traits
 
-To make the Challenges more interesting, exciting, or dramatic, the Adventure Guide may choose to assign the Challenge one or more traits. Each trait introduces rules that alter the nature of the Challenge or add additional complications. The traits described in this chapter are: **Timed**, **Race**, **Escalating**, **Opposed**, **Solo**, **One-Shot**, and **Linked**.
+To make the Challenges more interesting, exciting, or dramatic, the Adventure Guide may choose to assign the Challenge one or more traits. Each trait introduces rules that alter the nature of the Challenge or add additional complications. The traits described in this section are: **Timed**, **Race**, **Escalating**, **Opposed**, **Solo**, **One-Shot**, and **Linked**.
 
 ## Timed
 
@@ -45,7 +48,7 @@ In a Challenge with the **Opposed** trait, one side’s Actions reduce the Chall
 
 ## Solo
 
-Most Challenges are Group Challenges, but for a Challenge with the **Solo** trait, each character must overcome the Challenge independently. Each character faces the same Challenge with the same number of Challenge points, and each character takes Actions to reduce their personal Challenge to 0 Challenge Points. For more information on using Solo Challenges in the game, see page XX in Chapter 15: Guidance for Guides.
+Most Challenges are Group Challenges, but for a Challenge with the **Solo** trait, each character must overcome the Challenge independently. Each character faces the same Challenge with the same number of Challenge points, and each character takes Actions to reduce their personal Challenge to 0 Challenge Points. For more information on using Solo Challenges in the game, see [Guidance for Adventure Guides](/rules/guidance-for-guides/).
 
 ## One-Shot
 

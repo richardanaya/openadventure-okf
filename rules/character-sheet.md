@@ -1,17 +1,20 @@
 ---
-type: "Rulebook Chapter"
-title: "Chapter 2: Character Sheet"
-description: "When you create a character for an Open Adventure game, you record all the important information about that character on a character sheet. The character sheet lists scores used during Action Checks, equipment the..."
-tags: ["open-adventure", "fantasy", "core-rules", "chapter-2"]
+type: "Rule"
+title: "Character Sheet"
+description: "Explains the information recorded on an Open Adventure character sheet, including attributes, defenses, health, equipment, and abilities."
+tags: ["open-adventure", "fantasy", "core-rules", "character-sheet"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1220
 source_end_line: 1260
+derivation: "transformed-extract"
 ---
+# Character Sheet
 
-# Chapter 2: Character Sheet
-
-When you create a character for an *Open Adventure* game, you record all the important information about that character on a character sheet. The character sheet lists scores used during Action Checks, equipment the character is carrying, special abilities, notes about their background, and indicators of the character’s current health. Included here is an example of a character sheet. Everything you see on this sheet is described in detail later in the book.
+When you create a character for an *Open Adventure* game, you record all the important information about that character on a character sheet. The character sheet lists scores used during Action Checks, equipment the character is carrying, special abilities, notes about their background, and indicators of the character’s current health. The concepts represented on the sheet are described throughout this rules bundle.
 
 ## Front
 

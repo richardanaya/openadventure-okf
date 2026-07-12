@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Challenge Protection"
 description: "Armor, Resistance, Immunity, and other forms of Challenge Protection."
 tags: ["open-adventure", "fantasy", "core-rules", "challenges", "protection"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3745
 source_end_line: 3777
+derivation: "transformed-extract"
 ---
-
 # Challenge Protection
 
 Some Challenges have protection against certain types of Actions, tools, and Effects. This Protection reduces or eliminates the Effects of successful Action Checks, making it more difficult to overcome the Challenge. There are three kinds of Protection: **Armor**, **Resistance**, or **Immunity**.

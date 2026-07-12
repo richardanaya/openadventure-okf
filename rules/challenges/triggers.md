@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Challenge Triggers"
 description: "Events activated when a Challenge reaches a specified state."
 tags: ["open-adventure", "fantasy", "core-rules", "challenges", "triggers"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3831
 source_end_line: 3845
+derivation: "transformed-extract"
 ---
-
 # Challenge Triggers
 
 Triggers cause game effects or change the nature of a Challenge. Triggers may include:

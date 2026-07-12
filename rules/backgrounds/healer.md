@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Healer"
 description: "A character background focused on treating illness and injury."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2683
 source_end_line: 2711
+derivation: "transformed-extract"
 ---
-
 # Healer
 
 As a healer you are skilled in the use of herbs, prayers, rituals, and talismans to treat simple injuries and cure common illnesses. There aren’t many small settlements lucky enough to have a cleric in residence, but every village has a healer. Some healers perform their craft in addition to another occupation, not as their sole profession.
@@ -31,6 +34,8 @@ Signature Cure: You have a particular talisman, potion, or ritual you absolutely
 * **Spellcasting**: Healing Spells
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Flask (tin)
 * Healer’s kit

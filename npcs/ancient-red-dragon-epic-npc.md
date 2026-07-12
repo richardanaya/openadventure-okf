@@ -1,21 +1,23 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Ancient Red Dragon (Epic NPC)"
 description: "Dragons are giant fire-breathing reptiles willing to wipe out entire towns just to increase the size of their hoard."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9481
 source_end_line: 9539
+derivation: "transformed-extract"
 ---
-
 # Ancient Red Dragon (Epic NPC)
 
 Dragons are giant fire-breathing reptiles willing to wipe out entire towns just to increase the size of their hoard.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | S10/C3/T10 | I8/D8/W8 | P8/I5/R5 |
 | **Defenses:** | 8 | 18 | 5 |
 | **Points:** | 23 | 24 | 20 |
@@ -47,7 +49,7 @@ Sense True Purpose (Special): AS 8 (d6 + d12), DS Spirit Defense; dragon knows i
 
 Spellcasting (Intellect): AS 18 (4d6)
 
-***Hypnotic Hold (Spell)***: AS 19 (3d6 + d8), DS Mind Defense + 6 (Range S) + 2 (Additional Outcome); target is mentally grabbed and restrained, Escape Checks are based on a Mind Primary Attribute
+***Hypnotic Hold (Spell)***: AS 19 (3d6 + d8), DS Mind Defense + 6 (Range S) + 2 (Additional Outcome); target is mentally grabbed and restrained, [Escape Checks](/actions/escape.md) are based on a Mind Primary Attribute
 
 ## Powers and Abilities
 

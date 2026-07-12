@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Recovery"
 description: "Provide physical, mental, or emotional aid to restore Body, Mind, or Spirit Points."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7351
 source_end_line: 7393
+derivation: "transformed-extract"
 ---
-
 # Recovery
 
 Provide physical, mental, or emotional aid to restore Body, Mind, or Spirit Points.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Number of Wounds matching the type of points to recover | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Healing kit or appropriate tool; Clean and quiet workspace | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Restore Points equal to the Effect | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Number of Wounds matching the type of points to recover |
+| Prerequisite: | — |
+| Tools/Conditions: | Healing kit or appropriate tool; Clean and quiet workspace |
+| Base Time: | 1 Round |
+| Outcome: | Restore Points equal to the Effect |
 
 A successful **Recovery** Check restores a number of Body Points, Mind Points, or Spirit Points equal to the Effect, up to the target’s maximum. The player must declare the type of points their character is attempting to recover before making the Recovery Check.
 
@@ -45,7 +47,7 @@ The Primary Attribute is based on the type of Recovery.
 
 The player may add the character’s MO score if the type is the MO’s Favored Recovery.
 
-Complete rules for Body Point, Mind Point, and Spirit Point loss and Recovery are found on page XX in Chapter 13: Injury, Wounds, and Healing.
+Complete rules for Body Point, Mind Point, and Spirit Point loss and Recovery are found in [Injury, Wounds, and Healing](/rules/injury-wounds-and-healing.md).
 
 ## Examples
 

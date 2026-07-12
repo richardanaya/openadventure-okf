@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Defenses"
 description: "Body, Mind, and Spirit Defense rules and modifiers."
 tags: ["open-adventure", "fantasy", "core-rules", "attributes", "defenses"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2184
 source_end_line: 2220
+derivation: "transformed-extract"
 ---
-
 # Defenses
 
 The character’s **Body Defense**, **Mind Defense**, and **Spirit Defense** are the starting Difficulty Scores for any person or thing that tries to harm the character.
@@ -19,7 +22,7 @@ Body Defense is equal to the character’s Coordination score. It represents the
 
 ## Dodge, Block, and Parry
 
-A character’s Body Defense represents their ability to move out of the way when an enemy attacks. For some attacks, the Adventure Guide may allow the character to Block with a shield or Parry with a rigid weapon. In these cases, the equipment adds a modifier to the character’s Body Defense. See Chapter 9: Equipment for more information about equipment that provides Block or Parry modifiers.
+A character’s Body Defense represents their ability to move out of the way when an enemy attacks. For some attacks, the Adventure Guide may allow the character to Block with a shield or Parry with a rigid weapon. In these cases, the equipment adds a modifier to the character’s Body Defense. See [Equipment](/rules/equipment/) for more information about equipment that provides Block or Parry modifiers.
 
 In some cases, the Adventure Guide may decide the only way to defend against a particular Attack Action is a Block or Parry. In these cases, the character gains the usual bonuses if they have the appropriate equipment. If they do not have the appropriate equipment, their Body Defense is treated as 0. The most common examples are situations where there is no room to dodge out of the way, such as a pillar of fire shooting down a narrow hallway. In this case the Adventure Guide might rule only a Block is an effective defense.
 
@@ -39,7 +42,7 @@ Equipment, training, and other defensive Benefits may increase a character’s D
 * **Specializations**: If a character is specialized in a particular defensive maneuver or is an expert at fighting certain foes, add a Benefit to the character’s Defense Score when appropriate.
 * **Weapons**: Weapons with the Parry trait add a Benefit to Body Defense when used to parry an incoming attack.
 * **Armor**: Armor and shields with the Block trait apply a Benefit to Body Defense when used to block an incoming attack.
-* **Cover and Concealment**:Taking cover behind a solid barrier or using concealment may add one or more Benefits to a character’s Defense score with the Adventure Guide’s approval.
+* **Cover and Concealment**: Taking cover behind a solid barrier or using concealment may add one or more Benefits to a character’s Defense score with the Adventure Guide’s approval.
 
 ## Avoiding vs. Resisting vs. Enduring
 

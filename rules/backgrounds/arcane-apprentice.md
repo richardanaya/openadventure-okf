@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Arcane Apprentice"
 description: "A character background based on study under an arcane practitioner."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2587
 source_end_line: 2613
+derivation: "transformed-extract"
 ---
-
 # Arcane Apprentice
 
 You studied the arcane arts as the apprentice of an experienced arcane spellcaster. Unlike other students of the arcane who attended formal academic magical colleges, your training was hands-on and practical. You saw with your own eyes how magic impacts the world around you, discovered the secrets of how magic interacts with everyday objects, and learned to see magic through the eyes of common folk.
@@ -31,6 +34,8 @@ First Spell: The character mastered the casting of a single, simple, non-combat 
 * **Spellcasting**: Air Spells, Earth Spells, Fire Spells, Water Spells
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Apprentice’s hooded robe
 * Chalk (5)

@@ -1,19 +1,22 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Impersonate"
 description: "Pretend to be a specific person or type of person when interacting with others."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7127
 source_end_line: 7149
+derivation: "transformed-extract"
 ---
-
 # Impersonate
 
 Pretend to be a specific person or type of person when interacting with others.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Attribute: | PRE |
 | Difficulty: | Adventure Guide sets |
@@ -21,11 +24,10 @@ Pretend to be a specific person or type of person when interacting with others.
 | Tools/Conditions: | — |
 | Base Time: | 1 Round |
 | Outcome: | The target believes you are who you say you are |
-|  |  |
 
-On a successful **Impersonate** Check, the target believes the character is the person they are pretending to be. The bigger the differences between the character and the person they are impersonating, the higher the Difficulty Score. Targets who remain suspicious, even after the Impersonate Check succeeds, may use a Major Action to perform a Detect Motive Check. See the **Detect Motive** Action for more information.
+On a successful **Impersonate** Check, the target believes the character is the person they are pretending to be. The bigger the differences between the character and the person they are impersonating, the higher the Difficulty Score. Targets who remain suspicious, even after the Impersonate Check succeeds, may use a Major Action to perform a [Detect Motive Check](/actions/detect-motive.md). See the **[Detect Motive](/actions/detect-motive.md)** Action for more information.
 
-Impersonation involves direct interaction with those the character wishes to deceive. If a character only needs to mimic the appearance of another person, use the **Disguise** Action. Typically, however, a Disguise Action and an Impersonate Action go hand-in-hand.
+Impersonation involves direct interaction with those the character wishes to deceive. If a character only needs to mimic the appearance of another person, use the **[Disguise](/actions/disguise.md)** Action. Typically, however, a [Disguise Action](/actions/disguise.md) and an Impersonate Action go hand-in-hand.
 
 ## Examples
 

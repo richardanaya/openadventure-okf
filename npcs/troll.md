@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Troll"
 description: "Trolls are the bigger, meaner, hungrier cousins of orcs and goblins."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9349
 source_end_line: 9382
+derivation: "transformed-extract"
 ---
-
 # Troll
 
 Trolls are the bigger, meaner, hungrier cousins of orcs and goblins.
 
 Challenge Points: 45 Reaction: 4
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 5 | 1 | 2 |
 | **Defenses:** | 4 | 2 | 3 |
 | **Armor:** | 2 | 0 | 0 |

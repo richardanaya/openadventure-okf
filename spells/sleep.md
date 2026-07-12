@@ -1,17 +1,20 @@
 ---
-type: "Game Spell"
+type: "Spell"
 title: "Sleep"
-description: "On a successful Spellcasting Check, all living creatures in the Area of Effect must make a Willpower Check with a base Difficulty Score equal to the spell’s Effect. If they fail, they lose Challenge Points or Mind..."
-tags: ["open-adventure", "spells"]
+description: "Attacks the Mind of creatures in an area, putting those reduced to zero points into a deep but non-wounding sleep."
+tags: ["open-adventure", "fantasy", "core-rules", "spells"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8702
 source_end_line: 8721
+derivation: "transformed-extract"
 ---
-
 # Sleep
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | **Range**: | Across the Room |
 | **Area of Effect:** | Across the Room (Sphere) |
@@ -20,11 +23,10 @@ source_end_line: 8721
 | **Casting Time**: | 6 seconds |
 | **Duration**: | Instantaneous |
 | **Components**: | A pinch of fine purified sand |
-|  |  |
 
 On a successful Spellcasting Check, all living creatures in the Area of Effect must make a Willpower Check with a base Difficulty Score equal to the spell’s Effect. If they fail, they lose Challenge Points or Mind Points equal to the Effect. Armor (Mind) reduces the number of points lost. NPCs and Adversaries reduced to 0 Challenge Points fall into a deep slumber for hours equal to the Spellcasting Check’s Effect. For NPCs and Adversaries not reduced to 0, the Challenge Point loss represents lethargy and a general feeling of tiredness.
 
-When a Player Character is reduced to 0 Mind Points, their Incapacitation takes the form of a deep sleep. Reducing a Player Characters Mind Points to 0 in this fashion does not cause a Wound. Any Action by an ally that raises the character’s Mind Points above 0 wakes the character. The character may not perform a Self-Recovery but they may use the Catch Your Breath version of the Recovery Action to awaken.
+When a Player Character is reduced to 0 Mind Points, their Incapacitation takes the form of a deep sleep. Reducing a Player Character's Mind Points to 0 in this fashion does not cause a Wound. Any Action by an ally that raises the character’s Mind Points above 0 wakes the character. The character may not perform a Self-Recovery but they may use the Catch Your Breath version of the [Recovery Action](/actions/recovery.md) to awaken.
 
 ## Design Notes
 

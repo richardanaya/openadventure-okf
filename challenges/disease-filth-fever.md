@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Disease: Filth Fever"
-description: "The character contracts filth fever."
-tags: ["open-adventure", "challenges"]
+description: "Presents filth fever as a disease Challenge, including its trigger, effects, traits, and treatment."
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7972
 source_end_line: 8007
+derivation: "transformed-extract"
 ---
-
 # Disease: Filth Fever
 
 The character contracts filth fever.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 5 |
 | Protection: | — |
@@ -22,7 +25,6 @@ The character contracts filth fever.
 | **Drawbacks:** | Continued Exposure |
 | **Triggers:** | — |
 | **Round Length:** | 1 day |
-|  |  |
 
 This Challenge is linked to the character that contracted Filth Fever. When exposed to excrement or other bodily wastes where Filth Fever is present, characters must succeed at a DS 4 Toughness Check or contract the disease. Characters cure the disease as a group, but each infected character is a separate Challenge.
 

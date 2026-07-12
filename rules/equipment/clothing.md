@@ -1,19 +1,21 @@
 ---
-type: "Equipment Catalog"
+type: "Equipment"
 title: "Clothing"
 description: "Clothing and garment prices."
 tags: ["open-adventure", "fantasy", "core-rules", "equipment", "clothing"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3121
 source_end_line: 3146
+derivation: "transformed-extract"
 ---
-
 # Clothing
 
-|  |  |
-| --- | --- |
 | **Item** | **Cost** |
+| --- | --- |
 | ***Clothing*** |  |
 | Belt | 2 sp |
 | Belt, spell component | 10 sp |
@@ -36,4 +38,3 @@ source_end_line: 3146
 | Tunic, linen | 6 sp |
 | Undergarments | 1 sp |
 | Vestments | 25 sp |
-|  |  |

@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Owlbear"
 description: "The size of a grizzly bear with the head of a giant owl, owlbears are violently territorial highland hunters."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9282
 source_end_line: 9315
+derivation: "transformed-extract"
 ---
-
 # Owlbear
 
 The size of a grizzly bear with the head of a giant owl, owlbears are violently territorial highland hunters.
 
 Challenge Points: 35 Reaction: 7
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 4 | 1 | 2 |
 | **Defenses:** | 5 | 3 | 2 |
 | **Armor:** | 0 | 0 | 0 |

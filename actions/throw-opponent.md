@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Throw Opponent"
 description: "Toss a Grabbed opponent to a point Across the Room."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7693
 source_end_line: 7713
+derivation: "transformed-extract"
 ---
-
 # Throw Opponent
 
 Toss a Grabbed opponent to a point Across the Room.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | COR or STR | | |
-| Difficulty: | Opposed COR or STR Check | | |
-| Prerequisite: | Grab |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Reduce the target’s Challenge Points or BP by the Effect. The target is now prone and is moved from Reach to Across the Room | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | COR or STR |
+| Difficulty: | Opposed COR or STR Check |
+| Prerequisite: | Grab |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | Reduce the target’s Challenge Points or BP by the Effect. The target is now prone and is moved from Reach to Across the Room |
 
 On a successful **Throw Opponent** Check, the character throws a Grabbed target to a point of the Thrower’s choosing Across the Room. The Thrower releases their Grab as part of the Action, and the target is prone when they land. Reduce the target’s Body Points or Challenge Points by the Effect. Armor (Body) reduces the Effect.
 

@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Adversaries"
 description: "Adversary Challenge Points, defeat, Protection, and Action rules."
 tags: ["open-adventure", "fantasy", "core-rules", "challenges", "adversaries"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3859
 source_end_line: 3905
+derivation: "transformed-extract"
 ---
-
 # Adversaries
 
 **Adversaries** are a special type of Challenge. They are NPCs (non-player characters) who stand in the way of the characters accomplishing their goals. They might present a direct Challenge (a giant lizard wants to eat the characters), or complicate another Challenge (a group of thugs holds a door shut that the characters must get through).
@@ -41,7 +44,7 @@ This means there are all sorts of ways to defeat an opponent beyond harming them
 
 Like other Challenges, an Adversary can have Protection. The most common type of Protection for an Adversary is physical Armor. This includes things like chainmail, shields, and thick hide, all of which protect the Adversary from the Effect of physical Attack Actions.
 
-Adversaries may also have Resistance and Immunity. The ghost described on page XX in Appendix E: NPCs and Adversaries, for example, has **Immunity** (Physical Attacks). This makes it impossible to reduce the ghost’s Challenge Points with physical weapons. The animated skeleton, on the other hand, has **Resistance** (Stabbing). Stabbing attacks may go right between the skeleton’s bones, so the Effect of a successful Attack Check with a stabbing weapon is halved.
+Adversaries may also have Resistance and Immunity. The [ghost](/npcs/ghost.md) described in [NPCs and Adversaries](/npcs/), for example, has **Immunity** (Physical Attacks). This makes it impossible to reduce the ghost’s Challenge Points with physical weapons. The [animated skeleton](/npcs/skeleton.md), on the other hand, has **Resistance** (Stabbing). Stabbing attacks may go right between the skeleton’s bones, so the Effect of a successful Attack Check with a stabbing weapon is halved.
 
 ## Adversaries and Actions
 
@@ -49,12 +52,12 @@ One thing that sets Adversaries apart from other Challenges is that Adversaries 
 
 ## Action Choices
 
-Adversaries can perform any of the Actions available to characters. This means they may attempt any of the Actions described on page XX in Appendix B: Action Library or any other Action the Adventure Guide dreams up. Pre-built Adversaries, like those found in Appendix E: NPCs and Adversaries, typically include a list of the Adversary’s most common Actions, complete with a pre-calculated Action Score and a description the Effect on a successful Action Check.
+Adversaries can perform any of the Actions available to characters. This means they may attempt any of the Actions described in [Action Library](/actions/) or any other Action the Adventure Guide dreams up. Pre-built Adversaries, like those found in [NPCs and Adversaries](/npcs/), typically include a list of the Adversary’s most common Actions, complete with a pre-calculated Action Score and a description of the Effect on a successful Action Check.
 
 ## Action Checks
 
-When the Adventure Guide wants an Adversary to take an Action, they use the same rules as the players (described on page XX in Chapter 10: Actions).
+When the Adventure Guide wants an Adversary to take an Action, they use the same rules as the players (described in [Actions](/rules/actions.md)).
 
 ## More on Adversaries
 
-To learn more about Adversaries and their abilities see Appendix E: NPCs and Adversaries. It includes detailed information about Adversary abilities and a collection of ready-made Adversaries the Adventure Guide can use in the game.
+To learn more about Adversaries and their abilities see [NPCs and Adversaries](/npcs/). It includes detailed information about Adversary abilities and a collection of ready-made Adversaries the Adventure Guide can use in the game.

@@ -1,9 +1,9 @@
 # Challenge Rules
 
-* [Core Rules](core-rules.md) - Challenge attributes, points, group effort, and sizing.
-* [Protection](protection.md) - Armor, Resistance, Immunity, and other Protection.
-* [Challenge Points and Difficulty Scores](challenge-points-and-difficulty.md) - Scope versus Action complexity.
-* [Challenge Traits](traits.md) - Timed, Race, Escalating, Opposed, Solo, One-Shot, and Linked traits.
-* [Triggers](triggers.md) - Events activated by Challenge states.
-* [Rewards and Consequences](rewards-and-consequences.md) - Story outcomes from Challenges.
-* [Adversaries](adversaries.md) - Adversary points, defeat, Protection, and Actions.
+* [Challenge Rules](core-rules.md) - Core Challenge attributes, Challenge Points, group effort, and setting Challenge Points.
+* [Challenge Protection](protection.md) - Armor, Resistance, Immunity, and other forms of Challenge Protection.
+* [Challenge Points and Difficulty Scores](challenge-points-and-difficulty.md) - The distinction between Challenge scope and Action complexity.
+* [Challenge Traits](traits.md) - Timed, Race, Escalating, Opposed, Solo, One-Shot, and Linked Challenge traits.
+* [Challenge Triggers](triggers.md) - Events activated when a Challenge reaches a specified state.
+* [Challenge Rewards and Consequences](rewards-and-consequences.md) - How Challenge outcomes shape the story and subsequent encounters.
+* [Adversaries](adversaries.md) - Adversary Challenge Points, defeat, Protection, and Action rules.

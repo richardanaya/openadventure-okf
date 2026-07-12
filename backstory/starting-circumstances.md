@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "When the Adventure Begins"
 description: "A d100 table of circumstances affecting a character when their adventure begins."
-tags: ["open-adventure", "character-creation", "backstory", "adventure", "circumstances"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "adventure", "circumstances"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5469
 source_end_line: 5571
+derivation: "transformed-extract"
 ---
-
 # When the Adventure Begins
 
-|  |  |
-| --- | --- |
 | d100 | **When the adventure begins you…** |
+| --- | --- |
 | 1 | are no longer welcome in a certain town or city. |
 | 2 | are no longer welcome in a particular kingdom. |
 | 3 | are despised by people of a particular culture. |

@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Climb"
 description: "Climb up or over a barrier."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6695
 source_end_line: 6721
+derivation: "transformed-extract"
 ---
-
 # Climb
 
 Climb up or over a barrier.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR or COR | | |
-| Difficulty: | Handholds and slope | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Reduce the climb’s CP by Effect | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR or COR |
+| Difficulty: | Handholds and slope |
+| Prerequisite: | — |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | Reduce the climb’s CP by Effect |
 
 On a successful **Climb** Check, the character reaches the top of a wall, cliff, rope, or other climbable object. The Adventure Guide sets the Difficulty Score based on the angle of the climb and the availability of handholds. Fewer handholds or a sharper angle indicate a higher Difficulty Score.
 

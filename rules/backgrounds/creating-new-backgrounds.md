@@ -1,14 +1,17 @@
 ---
-type: "Character Option Design Guide"
+type: "Guide"
 title: "Creating New Backgrounds"
 description: "A five-step procedure for creating a character background."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds", "design"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2840
 source_end_line: 2878
+derivation: "transformed-extract"
 ---
-
 # Creating New Backgrounds
 
 These instructions describe how to create new, unique backgrounds appropriate for the game world where your Adventures take place. The steps for creating a new background are:
@@ -45,7 +48,7 @@ If the Adventure Guide rules a trait or talent is too powerful or wide-reaching,
 
 Make a list of skills and abilities people within this background are likely to learn and spend extra time perfecting. You only need two, since that is all that is needed for character creation, but coming up with a few extras is a good way to help imagine the way what the people of this background are like and what they do in the world.
 
-You may find it helpful to think of Specializations in terms of the groupings described on page XX in Chapter 4: Modus Operandi. For additional information about creating your own Specializations, see Creating New Specializations in Chapter 4: Modus Operandi on page XX.
+You may find it helpful to think of Specializations in terms of the groupings described in [Modus Operandi](/rules/modus-operandi/). For additional information, see [Creating New Specializations](/rules/modus-operandi/creating-new-specializations.md).
 
 ## Step 5: Choose Starting Equipment
 

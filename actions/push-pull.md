@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Push/Pull"
 description: "Move an especially heavy object."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7325
 source_end_line: 7349
+derivation: "transformed-extract"
 ---
-
 # Push/Pull
 
 Move an especially heavy object.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR | | |
-| Difficulty: | Weight, shape, and position of the object | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | The object is moved to the desired location | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR |
+| Difficulty: | Weight, shape, and position of the object |
+| Prerequisite: | — |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | The object is moved to the desired location |
 
 On a successful **Push** or **Pull** Check, the character moves a large object that is too heavy to lift and carry. The character might accomplish the task by sliding, wobbling, or tipping the object. The Difficulty Score is set by the Adventure Guide based on how difficult it is to move the object based on a rough assessment of its weight, shape, and current position.
 

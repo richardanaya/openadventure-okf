@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "What Matters to You Most"
 description: "A d100 table of the people, ideals, and possessions a character values most."
-tags: ["open-adventure", "character-creation", "backstory", "values", "motivation"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "values", "motivation"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5787
 source_end_line: 5889
+derivation: "transformed-extract"
 ---
-
 # What Matters to You Most
 
-|  |  |
-| --- | --- |
 | d100 | **Nothing is more important to you than…** |
+| --- | --- |
 | 1 | your mother. |
 | 2 | your father. |
 | 3 | your sister. |

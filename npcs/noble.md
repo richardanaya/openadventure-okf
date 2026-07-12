@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Noble"
-description: "Nobles are good friends and dangerous enemies. They rule feudal societies with authoritarian power."
-tags: ["open-adventure", "npcs"]
+description: "Describes a feudal ruler who can be a valuable ally or a dangerous authoritarian enemy."
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9173
 source_end_line: 9204
+derivation: "transformed-extract"
 ---
-
 # Noble
 
 Nobles are good friends and dangerous enemies. They rule feudal societies with authoritarian power.
 
 Challenge Points: 7 Reaction: 5
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 2 | 2 | 2 |
 | **Defenses:** | 5 (parry 6) | 4 | 5 |
 | **Armor:** | 0 | 0 | 0 |

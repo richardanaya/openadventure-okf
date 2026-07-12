@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Topic"
+type: "Rule"
 title: "Story Points"
 description: "How players earn and spend Story Points to advance their stories and improve rolls."
 tags: ["open-adventure", "fantasy", "core-rules", "advancement", "story-points"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5240
 source_end_line: 5288
+derivation: "transformed-extract"
 ---
-
 # Story Points
 
 Throughout the game, the Adventure Guide awards players Story Points. The player can spend these Story Points to make changes to the adventuring world, their character’s place in that world, or the tools and resources available to them both during and between Adventures. Aside from any treasures they pick up along the way, Story Points are the players’ primary reward for participating in the game, telling great stories, and completing Adventures.
@@ -41,10 +44,10 @@ These are ways to reward the types of behavior the Adventure Guide wants to enco
 
 When the characters finish an Adventure, the Adventure Guide awards each player Story Points based on the size of the Adventure. Suggested Story Points by Adventure size are shown on the Story Point Adventure Awards table.
 
-|  |  |  |
-| --- | --- | --- |
-| **STORY POINT ADVENTURE AWARDS** | | |
+**STORY POINT ADVENTURE AWARDS**
+
 | **Adventure Size** | **# of Encounters** | **Story Points** |
+| --- | --- | --- |
 | Small | 2-5 | 10 SP |
 | Medium | 6-10 | 20 SP |
 | Large | 11+ | 30+ SP |

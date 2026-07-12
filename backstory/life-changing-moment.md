@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "The Moment That Changed Your Life"
 description: "A d100 table of pivotal moments that changed a character's life."
-tags: ["open-adventure", "character-creation", "backstory", "history", "turning-points"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "history", "turning-points"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6211
 source_end_line: 6313
+derivation: "transformed-extract"
 ---
-
 # The Moment That Changed Your Life
 
-|  |  |
-| --- | --- |
 | d100 | **Everything changed…** |
+| --- | --- |
 | 1 | when you saw the great dragon. |
 | 2 | when you saw a god in mortal form. |
 | 3 | after you spent a week trapped in a deep cave. |

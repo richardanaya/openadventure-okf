@@ -1,19 +1,22 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Attack: Area of Effect"
 description: "Make an attack that strikes every person in a particular area."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6535
 source_end_line: 6579
+derivation: "transformed-extract"
 ---
-
 # Attack: Area of Effect
 
 Make an attack that strikes every person in a particular area.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Attribute: | By weapon (STR or COR) |
 | Difficulty: | DS 6 + Special |
@@ -21,7 +24,6 @@ Make an attack that strikes every person in a particular area.
 | Tools/Conditions: | — |
 | Base Time: | 6 seconds |
 | Outcome: | Targets must make a Reaction check or lose CP or BP |
-|  |  |
 
 **Attack: Area of Effect** is an attack with the potential to affect everyone in a particular area. The area affected on a successful Attack: Area of Effect Check is a space roughly Across the Room in diameter. Attack: Area of Effect is indiscriminate, meaning anyone and anything in the Attack’s area is affected. The character may not choose to affect some targets and not others.
 
@@ -37,7 +39,7 @@ In addition, some NPCs and Adversaries, especially large monsters like giants, h
 
 ## Magical Area of Effect Weapons
 
-There are numerous spells that allow an Attack: Area of Effect Check. For details on Area of Effect magic, see page XX in Chapter 14: Spellcasting.
+There are numerous spells that allow an Attack: Area of Effect Check. For details on Area of Effect magic, see [Spellcasting](/rules/spellcasting/).
 
 ## Effect and Reaction
 
@@ -53,4 +55,4 @@ Targets with Armor (Body) reduce the Effect by their Armor score before reducing
 
 * Throw a Molotov cocktail into the room.
 * Ignite a pool of spilled oil.
-* Cast a Fireball spell.
+* Cast a [Fireball spell](/spells/fireball.md).

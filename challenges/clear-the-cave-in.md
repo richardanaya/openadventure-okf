@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Clear the Cave-in"
 description: "The characters must clear the cave-in that blocks their path."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7935
 source_end_line: 7970
+derivation: "transformed-extract"
 ---
-
 # Clear the Cave-in
 
 The characters must clear the cave-in that blocks their path.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 8 |
 | Protection: | — |
@@ -22,7 +25,6 @@ The characters must clear the cave-in that blocks their path.
 | **Drawbacks:** | Light, Size, Tools |
 | **Triggers:** | **Failed Checks** (Injury) |
 | **Round Length:** | 15 minutes |
-|  |  |
 
 A cave-in blocks the passage in front of the characters.
 

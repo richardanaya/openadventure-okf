@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Challenge Rules"
 description: "Core Challenge attributes, Challenge Points, group effort, and setting Challenge Points."
-tags: ["open-adventure", "fantasy", "core-rules", "challenges", "core-rules"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3683
 source_end_line: 3741
+derivation: "transformed-extract"
 ---
-
 # Challenge Rules
 
 Any obstacle, problem, or enemy the characters face during an Encounter is called a **Challenge**. Challenges take many forms, from deadly traps to hungry monsters to mind boggling puzzles. Some Challenges are devised by the Adventure Guide, while others are born of the choices the players make during the Adventure. Whatever the nature or origin of the Challenge, all Challenges are resolved using the same set of rules.
@@ -31,11 +34,11 @@ Challenges are defined by these attributes:
 
 * **Challenge Points**: A number that represents the size and scope of the Challenge.
 * **Protection**: Qualities that make it more difficult to overcome this Challenge with certain Actions, tools, and Effects. Types of Protection include Armor, Resistance, and Immunity.
-* **Traits**: Special traits that change, complicate, or add new dimensions to the Challenge. The traits covered in this chapter are Timed, Race, Escalating, Opposed, Solo, One-Shot, and Linked.
+* **Traits**: Special traits that change, complicate, or add new dimensions to the Challenge. The traits covered in this section are Timed, Race, Escalating, Opposed, Solo, One-Shot, and Linked.
 * **Triggers**: Events that alter the nature, scope, or complexity of a Challenge.
 * **Rewards and Consequences**: A description of the rewards earned for overcoming the Challenge and the consequences of failing.
 
-This chapter includes detailed descriptions and rules for each of these attributes. For a list of sample Challenges, see Appendix C: Challenge Library on page XX.
+This section includes detailed descriptions and rules for each of these attributes. For a list of sample Challenges, see [Challenge Library](/challenges/).
 
 ## Challenge Points
 
@@ -53,10 +56,10 @@ Most Challenges are a group effort, meaning all the player characters in the par
 
 The **Challenge Point Table** provides the Gamemaster with guidance for assigning Challenge Points to a Challenge. The **Challenge Size** column describes the size of the Challenge, the **Rounds** column shows the number of Rounds it typically takes a group of four characters to overcome a Challenge of this size, and the **CP** column shows the suggested number of Challenge Points to assign the Challenge.
 
-|  |  |  |
-| --- | --- | --- |
-| **CHALLENGE POINT TABLE** | | |
+**CHALLENGE POINT TABLE**
+
 | **Challenge Size** | **Rounds** | **CP** |
+| --- | --- | --- |
 | Tiny | 1 | 0 to 4 |
 | Small | 1 to 2 | 5 to 9 |
 | Medium | 3 to 4 | 10 to 24 |

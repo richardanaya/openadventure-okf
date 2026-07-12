@@ -1,17 +1,20 @@
 ---
-type: "Character Creation Procedure"
+type: "Rule"
 title: "Character Creation"
 description: "A ten-step procedure for creating an Open Adventure character."
 tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "procedure"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1262
 source_end_line: 1491
+derivation: "transformed-extract"
 ---
-
 # Character Creation
 
-In this chapter are step-by-step instructions for creating your *Open Adventure* character. Before you begin, you may find it helpful to print a blank character sheet. A blank character sheet is included at the end of this book, and you can download character sheets at [openadventurerpg.com](https://www.openadventurerpg.com).
+This section provides step-by-step instructions for creating an *Open Adventure* character. You can download printable character sheets at [openadventurerpg.com](https://www.openadventurerpg.com).
 
 ## Step 1: Choose an MO
 
@@ -19,17 +22,17 @@ A character’s **Modus Operandi (MO)** represents the package of skills, talent
 
 Choose an MO from this list:
 
-* Cleric
-* Druid
-* Mountebank
-* Ranger
-* Scholar
-* Sorcerer
-* Thief
-* Warrior
-* Wizard
+* [Cleric](/rules/modus-operandi/cleric.md)
+* [Druid](/rules/modus-operandi/druid.md)
+* [Mountebank](/rules/modus-operandi/mountebank.md)
+* [Ranger](/rules/modus-operandi/ranger.md)
+* [Scholar](/rules/modus-operandi/scholar.md)
+* [Sorcerer](/rules/modus-operandi/sorcerer.md)
+* [Thief](/rules/modus-operandi/thief.md)
+* [Warrior](/rules/modus-operandi/warrior.md)
+* [Wizard](/rules/modus-operandi/wizard.md)
 
-Additional information about each MO, as well as instructions for creating your own MOs, are found on page ## in Chapter 4: Modus Operandi.
+Additional information about each MO, as well as instructions for creating your own MOs, are found in [Modus Operandi](/rules/modus-operandi/).
 
 Write the name of the MO in the MO box on the character sheet. The starting Score for the MO is 1. There is also a box on the back of the character sheet labeled MO where you can make additional notes about the MO’s description and traits.
 
@@ -39,7 +42,7 @@ Steve is making a character for an upcoming Open Adventure game. He wants to pla
 
 Your character knows how to do a lot of extraordinary things thanks to their MO training, but **Specializations** represent the character’s areas of special expertise. For instance, every character with the Wizard MO has trained to cast spells, but one with a Specialization in Fire Spells has put in extra time and effort to improve their skill at casting spells involving fire. To reflect this specialized training, when a character performs an Action related to one of their Specializations, they add a +1 Benefit to the character’s Action Score.
 
-The MO descriptions on page ## in Chapter 4: Modus Operandi include lists of suggested Specializations for each MO. The chapter also includes rules for creating your own Specializations.
+The MO descriptions in [Modus Operandi](/rules/modus-operandi/) include lists of suggested Specializations for each MO. See [Creating New Specializations](/rules/modus-operandi/creating-new-specializations.md) to design your own.
 
 Select five Specializations, and copy these into the Specializations box on the front of the character sheet. Put an M in the Source column for each Specialization to indicate that they originated from the character’s MO.
 
@@ -53,14 +56,14 @@ The character’s **lineage** defines their core physical traits and determines 
 
 Choose a lineage from the list below:
 
-* Dwarf
-* Elf
-* Halfling
-* Human
+* [Dwarf](/rules/lineages/dwarf.md)
+* [Elf](/rules/lineages/elf.md)
+* [Halfling](/rules/lineages/halfling.md)
+* [Human](/rules/lineages/human.md)
 
-Additional information about each lineage is available on page ## in Chapter 5: Lineages.
+Additional information about each lineage is available in [Lineages](/rules/lineages/).
 
-Write the name of the lineage you selected in the Lineage field at the top of the character sheet. On a separate sheet of paper, make a note of the Primary Attribute minimums and maximums for the lineage as listed in Chapter 5: Lineages. You will need these in Step 5: Primary Attributes. There is a box on the back of the character sheet labeled Lineage where you can make additional notes about the lineage’s description, powers, and abilities.
+Write the name of the lineage you selected in the Lineage field at the top of the character sheet. On a separate sheet of paper, make a note of the Primary Attribute minimums and maximums for the lineage as listed in [Lineages](/rules/lineages/). You will need these in Step 5: Primary Attributes. There is a box on the back of the character sheet labeled Lineage where you can make additional notes about the lineage’s description, powers, and abilities.
 
 Steve played elves in the last two adventures, so he decides to try a human character this time. On a separate piece of paper, he notes that the human minimum for all Primary Attributes is 1 and the maximum is 3.
 
@@ -72,10 +75,9 @@ Select one primary exceptional ability and one secondary exceptional ability. Th
 
 Write the character’s exceptional abilities and the benefits they provide in the Exceptional Abilities box on the back of the character sheet.
 
-Steve’s Warrior is a combat specialist, and he expects the character to spend a lot of game time up close and personal with some pretty dangerous enemies. Steve selects **But I Get Up Again** for his character’s Primary Exceptional Ability. This will allow the Warrior to quickly get back on his feet and return to the fight if things go poorly. Adventures, however, aren’t all fighting. Steve decides to take **Reputation** as his Secondary Exceptional Ability. Since he plans to select Soldier for his character’s Background, a reputation as a brave and noble knight will help him during social interactions with other Soldiers.
+Steve’s Warrior is a combat specialist, and he expects the character to spend a lot of game time up close and personal with some pretty dangerous enemies. Steve selects **[But I Get Up Again](/rules/character-creation/exceptional-abilities/but-i-get-up-again.md)** for his character’s Primary Exceptional Ability. This will allow the Warrior to quickly get back on his feet and return to the fight if things go poorly. Adventures, however, aren’t all fighting. Steve decides to take **[Reputation](/rules/character-creation/exceptional-abilities/reputation.md)** as his Secondary Exceptional Ability. Since he plans to select Soldier for his character’s Background, a reputation as a brave and noble knight will help him during social interactions with other Soldiers.
 
 See [Exceptional Abilities](/rules/character-creation/exceptional-abilities/) for the complete list of primary and secondary benefits.
-
 
 ## Step 5: Set Primary Attribute Scores
 
@@ -85,9 +87,8 @@ To give you a sense of what a “good” attribute score is, the Human Attribute
 
 ## Human Attributes Table
 
-|  |  |
-| --- | --- |
 | **Score** | **Description** |
+| --- | --- |
 | 0 | Insignificant |
 | 1 | Below Average |
 | 2 | Average |
@@ -98,15 +99,13 @@ To give you a sense of what a “good” attribute score is, the Human Attribute
 
 Primary attribute scores are organized into three types: Body, Mind, and Spirit. For each of these types, there is an attribute corresponding to the type’s power, agility, and sturdiness. For example, Intellect is the character’s “strength of mind,” while Presence is the character’s “strength of spirit.” The table below illustrates this relationship.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Trait** | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Power** | Strength | Intellect | Presence |
 | **Agility** | Coordination | Deduction | Intuition |
 | **Sturdiness** | Toughness | Willpower | Resilience |
-|  |  |  |  |
 
-This distinction is to help clarify the role of each Primary Attribute in the game. It doesn’t change how you set the character’s primary attribute scores during character creation. A detailed description of the Primary Attributes is found on page ## in Chapter 6: Attributes.
+This distinction is to help clarify the role of each Primary Attribute in the game. It doesn’t change how you set the character’s primary attribute scores during character creation. A detailed description of the Primary Attributes is found in [Attributes](/rules/attributes/).
 
 Steve’s character is a human. According to the description of the human lineage, the minimum score he can assign to an attribute is 1 and the maximum score he can assign is 3. He wants his knight to be an impressive Warrior so he loads up his Body attributes, assigning 3 to Strength, Coordination, and Toughness. For his Mind attributes, he wants at least average Intellect, so he assigns a 2 to Intellect, but he doesn’t picture the knight as the puzzle-solving type, so he figures a 1 for Deduction is fine. He imagines the knight has an indomitable will, however, so he assigns a 3 to Willpower. With just 5 points left, he assigns a 2 to the character’s Presence, a 1 to Intuition, and a 2 to Resilience.
 
@@ -114,7 +113,7 @@ Steve’s character is a human. According to the description of the human lineag
 
 Secondary Attributes are based off the character’s Primary Attribute scores. The character’s Secondary Attributes are: Defenses, Body Points, Mind Points, Spirit Points, and Reaction.
 
-**Defenses:** The character’s **Defense** scores are the numbers an NPC needs to roll to hit a character with an Attack Check. Each character has three Defense scores: Body, Mind, and Spirit. Defenses are explained in detail on page ## in Chapter 6: Attributes.
+**Defenses:** The character’s **Defense** scores are the numbers an NPC needs to roll to hit a character with an Attack Check. Each character has three Defense scores: Body, Mind, and Spirit. Defenses are explained in detail in [Attributes](/rules/attributes/).
 
 **Body Defense** = Coordination Score
 
@@ -134,7 +133,7 @@ Steve’s knight has Coordination 3, Deduction 1, and Intuition 1. This means hi
 
 **Maximum Spirit Points** = Presence Score + Intuition Score + Resilience Score
 
-Additional information about Body Points, Mind Points, and Spirit Points and the effect of wounds is on page ## in Chapter 13: Injury, Wounds, and Healing.
+Additional information about Body Points, Mind Points, and Spirit Points and the effect of wounds is in [Injury, Wounds, and Healing](/rules/injury-wounds-and-healing.md).
 
 Steve totals up the attribute scores of each type and gets 9 Body Points, 6 Mind Points, and 5 Spirit Points. He writes the results in the appropriate fields on the character sheet.
 
@@ -148,37 +147,37 @@ Steve takes his Coordination score of 3 (the highest of his Coordination, Deduct
 
 The character’s **culture** represents how (and often, where) they were raised. It is the foundation of their values, desires, and personality. It also sets the stage for how they think about other cultures, the things they find attractive or offensive, and even their loyalties. Choose one from the list below:
 
-* Old Kingdom
-* Shirefolk
-* Stonekin
-* Sylvan
-* Wildling
+* [Old Kingdom](/rules/cultures/old-kingdom.md)
+* [Shirefolk](/rules/cultures/shirefolk.md)
+* [Stonekin](/rules/cultures/stonekin.md)
+* [Sylvan](/rules/cultures/sylvan.md)
+* [Outlander](/rules/cultures/outlander.md)
 
-You can find complete descriptions of each culture on page ## in Chapter 7: Cultures.
+You can find complete descriptions of each culture in [Cultures](/rules/cultures/).
 
-It is important to note that culture doesn’t determinehow your character behaves—it’s just how they were raised. The character might take pride in their culture’s traditions and values and work to uphold these when they go out into the world. On the other hand, they might reject some, or even all, of the things the culture represents, rebelling against the expectations of society.
+It is important to note that culture doesn’t determine how your character behaves—it’s just how they were raised. The character might take pride in their culture’s traditions and values and work to uphold these when they go out into the world. On the other hand, they might reject some, or even all, of the things the culture represents, rebelling against the expectations of society.
 
-Fill in the culture’s details in the Culture box on the back of the character sheet. The character also gets two Specializations from their culture. Select two from the suggested Specializations for the culture or come up with your own, and list these in the Specializations box. Mark each of these Specializations with a C for the source to identify the Specializations as originating from the character’s culture.
+Fill in the culture’s details in the Culture box on the back of the character sheet. The character also gets two Specializations from their culture. Select two from the suggested Specializations for the culture or come up with your own, and list these in the Specializations box. Mark each of these Specializations with a C for the source to identify the Specializations as originating from the character's culture.
 
 Steve wants his knight to uphold an ancient set of heroic ideals and values. He reviews the cultures and decides the Old Kingdom culture is perfect for what he has in mind. He copies the information about the culture onto the back of his character sheet. Steve may select two cultural Specializations. Steve selects Courtly Etiquette and Old Kingdom History and writes these on the front of the character sheet in the Specializations box. Finally, as someone who grew up in the Old Kingdom, the character gains a +1 to his Mind Defense. Steve makes the change, increasing the character’s Mind Defense from 1 to 2.
 
 ## Step 8: Choose a Background
 
-The characters **background** represents the occupation they pursued before they became an adventurer. Depending on the type of story you want to tell, the character might still practice their profession between adventures. Choose from the list of backgrounds below:
+The character's **background** represents the occupation they pursued before they became an adventurer. Depending on the type of story you want to tell, the character might still practice their profession between adventures. Choose from the list of backgrounds below:
 
-* Acolyte
-* Arcane Apprentice
-* Criminal
-* Farmer
-* Healer
-* Merchant
-* Noble
-* Sailor
-* Soldier
+* [Acolyte](/rules/backgrounds/acolyte.md)
+* [Arcane Apprentice](/rules/backgrounds/arcane-apprentice.md)
+* [Criminal](/rules/backgrounds/criminal.md)
+* [Farmer](/rules/backgrounds/farmer.md)
+* [Healer](/rules/backgrounds/healer.md)
+* [Merchant](/rules/backgrounds/merchant.md)
+* [Noble](/rules/backgrounds/noble.md)
+* [Sailor](/rules/backgrounds/sailor.md)
+* [Soldier](/rules/backgrounds/soldier.md)
 
-You can find complete descriptions of each background on page ## in Chapter 8: Backgrounds.
+You can find complete descriptions of each background in [Backgrounds](/rules/backgrounds/).
 
-Fill in the background’s details in the Culture box on the back of the character sheet. The character also gets two Specializations from their background. Select two from the suggested Specializations for the background or come up with your own, and list these in the Specializations box. Mark each of these Specializations with a B for the source to identify the Specializations as originating from the character’s culture.
+Fill in the background's details in the Background box on the back of the character sheet. The character also gets two Specializations from their background. Select two from the suggested Specializations for the background or come up with your own, and list these in the Specializations box. Mark each of these Specializations with a B for the source to identify the Specializations as originating from the character's background.
 
 Some Backgrounds include modifiers to attributes, points, or scores. Apply any changes awarded by the Background.
 
@@ -198,11 +197,11 @@ The last step is to add a few finishing touches.
 
 1. Story Points
 
-Story Points allow players to influence the direction of the game, add new story elements to the adventure, and improve their character’s chance of success. Each character begins the game with 5 Story Points. Write 5 in the Story Points space at the top of the character sheet. Learn more about Story Points on page ## in Chapter 16: Advancement.
+Story Points allow players to influence the direction of the game, add new story elements to the adventure, and improve their character’s chance of success. Each character begins the game with 5 Story Points. Write 5 in the Story Points space at the top of the character sheet. Learn more about Story Points in [Advancement](/rules/advancement/).
 
 2. Chapter
 
-Character advancement is measured in Chapters. Characters begin the game at Chapter 1: Call to Adventure, so write 1: Call to Adventure into the Chapter space at the top of the character sheet. Learn more about Chapters and Advancement on page ## in Chapter 16: Advancement.
+Character advancement is measured in Chapters. Characters begin the game at Chapter 1: Call to Adventure, so write 1: Call to Adventure into the Chapter space at the top of the character sheet. Learn more about Chapters and Advancement in [Advancement](/rules/advancement/).
 
 3. Powers & Abilities
 

@@ -1,10 +1,10 @@
 # Encounters
 
-* [Encounter Rules](core-rules.md) - Framing, time, distance, turns, objectives, and resolution.
+* [Encounter Rules](core-rules.md) - Rules for encounter framing, time, distance, turn order, objectives, and resolution.
 
 # Examples
 
-* [Using the Examples](examples-overview.md) - How the examples demonstrate encounter construction.
-* [Trolls in the Mountains](trolls-in-the-mountains.md) - Trolls guarding a narrow mountain trail.
-* [Arrival in Longhollow](arrival-in-longhollow.md) - A social and investigative arrival encounter.
-* [Vile Kitchen](vile-kitchen.md) - A dangerous encounter in a disgusting kitchen.
+* [Encounter Examples](examples-overview.md) - How the example encounters demonstrate the encounter rules in different situations.
+* [Encounter: Trolls in the Mountains](trolls-in-the-mountains.md) - A mountain encounter featuring trolls guarding a narrow trail.
+* [Encounter: Arrival in Longhollow](arrival-in-longhollow.md) - A social and investigative encounter upon arriving in Longhollow.
+* [Encounter: Vile Kitchen](vile-kitchen.md) - An encounter set in a dangerous and disgusting kitchen.

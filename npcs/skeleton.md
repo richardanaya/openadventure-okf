@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Skeleton"
 description: "Skeletons, animated by necromantic magic, are often used as guardians for tombs and vaults."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9317
 source_end_line: 9347
+derivation: "transformed-extract"
 ---
-
 # Skeleton
 
 Skeletons, animated by necromantic magic, are often used as guardians for tombs and vaults.
 
 Challenge Points: 8 Reaction: 4
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 2 | 0 | 0 |
 | **Defenses:** | 5 | NA | NA |
 | **Armor:** | 1 (Pierce Resistance) | Immune | Immune |

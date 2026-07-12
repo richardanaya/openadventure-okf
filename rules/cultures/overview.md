@@ -1,14 +1,17 @@
 ---
-type: "Character Culture Guide"
+type: "Guide"
 title: "Character Cultures"
 description: "How culture represents a character's upbringing, values, duties, language, and training."
-tags: ["open-adventure", "fantasy", "core-rules", "cultures", "guide"]
+tags: ["open-adventure", "fantasy", "core-rules", "cultures", "guide", "overview"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2276
 source_end_line: 2315
+derivation: "transformed-extract"
 ---
-
 # Character Cultures
 
 A character’s culture represents how (and often where) they were raised. It is the foundation of their values, outlook, and personality. It also sets the stage for how they think about other cultures, the things they find attractive or offensive, and even their loyalties.
@@ -17,21 +20,20 @@ A character’s culture represents how (and often where) they were raised. It is
 
 In most classic fantasy settings, lineage and culture are tightly intertwined. The Common Cultures table lists the four lineages and their typical cultures. If a character encounters a person of the listed lineage in their adventures, most will be a member of the paired culture.
 
-|  |  |
-| --- | --- |
-| **COMMON CULTURES** | |
+**COMMON CULTURES**
+
 | **Lineage** | **Culture** |
+| --- | --- |
 | Dwarf | Stonekin |
 | Elf | Sylvan |
 | Halfling | Shirefolk |
 | Human | Old Kingdom |
-|  |  |
 
 When creating a character, if you want the character to align with people’s expectations, select the culture listed for the lineage in the Common Cultures table. This represents the most common cultural pairings. Any character, however, can come from any culture. In addition, the Culture you select does not dictate how the character behaves.
 
 ## Breaking the Mold
 
-The culture entries provided later in this chapter describe what is normal for a person of that culture. Adventurers, however, are anything but normal. In fact, the average person in most fantasy worlds would *never* choose to become an adventurer. This already sets PCs apart from others. The culture entries offer suggestions for how someone of the culture typically behaves, but players should never feel locked into those traits. You may choose to have your character fully embody what people expect of someone from the character’s culture in some ways, but in others, they might defy expectations. By understanding what is "normal" for a character’s culture, and then thinking about how your character’s personality fits or diverges from the norm, it unlocks a world of storytelling possibilities.
+The culture entries provided later in this section describe what is normal for a person of that culture. Adventurers, however, are anything but normal. In fact, the average person in most fantasy worlds would *never* choose to become an adventurer. This already sets PCs apart from others. The culture entries offer suggestions for how someone of the culture typically behaves, but players should never feel locked into those traits. You may choose to have your character fully embody what people expect of someone from the character’s culture in some ways, but in others, they might defy expectations. By understanding what is "normal" for a character’s culture, and then thinking about how your character’s personality fits or diverges from the norm, it unlocks a world of storytelling possibilities.
 
 For instance, if your character was raised as one of the Shirefolk but they love exploring new places and sleeping under the stars, how did that come about? What happened in the character’s life to set them on a path so different from their friends and neighbors? Did this unusual trait inspire the character to become an adventurer? Or was it just one more thing in a long list of differences that drove them to explore the world beyond their home?
 
@@ -39,7 +41,7 @@ Of course, your character does not have to be unusual. Perhaps they are the livi
 
 ## Culture Entries
 
-This chapter includes five classic fantasy cultures. They are a starting point. The game world you choose for your Adventures may have its own list of cultures, or you might wish to create new cultures that better represent your game, you character, and the game world.
+This section includes five classic fantasy cultures. They are a starting point. The game world you choose for your Adventures may have its own list of cultures, or you might wish to create new cultures that better represent your game, your character, and the game world.
 
 ## Reading the Entries
 

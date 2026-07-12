@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Defend"
 description: "Put all your efforts into defense to make it harder for enemies to hit you or an ally."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6789
 source_end_line: 6821
+derivation: "transformed-extract"
 ---
-
 # Defend
 
 Put all your efforts into defense to make it harder for enemies to hit you or an ally.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Adventure Guide sets | | |
-| Difficulty: | Targeted current Defense score | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Adventure Guide sets | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Increase targeted Defense Score by Effect | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Adventure Guide sets |
+| Difficulty: | Targeted current Defense score |
+| Prerequisite: | — |
+| Tools/Conditions: | Adventure Guide sets |
+| Base Time: | 1 Round |
+| Outcome: | Increase targeted Defense Score by Effect |
 
 Characters automatically defend themselves against Attack Actions directed at them. This automatic defense is represented by the character’s Defense scores. These scores (Body Defense, Mind Defense, and Spirit Defense) serve as the Difficulty Score for the Attack Checks made against the character.
 

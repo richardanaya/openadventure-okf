@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Poison: Stonefoot"
 description: "An injected poison that makes it difficult to walk or run."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8157
 source_end_line: 8187
+derivation: "transformed-extract"
 ---
-
 # Poison: Stonefoot
 
 An injected poison that makes it difficult to walk or run.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 5 |
 | Protection: | — |
@@ -22,7 +25,6 @@ An injected poison that makes it difficult to walk or run.
 | **Drawbacks:** | — |
 | **Triggers:** | — |
 | **Round Length:** | 1 hour |
-|  |  |
 
 Stonefoot poison is an odiferous concoction made from a purple mushroom found in shallow caves. It is made by drying and powdering the mushrooms and then mixing the powder with honey. If a character loses even 1 Body Point to an attack using a blade coated with the poison, they suffer the poison’s effects.
 

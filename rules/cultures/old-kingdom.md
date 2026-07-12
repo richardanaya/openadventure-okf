@@ -1,14 +1,17 @@
 ---
-type: "Character Culture"
+type: "Character Option"
 title: "Old Kingdom"
 description: "A culture shaped by the traditions, duties, and history of the Old Kingdom."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2319
 source_end_line: 2349
+derivation: "transformed-extract"
 ---
-
 # Old Kingdom
 
 The Old Kingdom people strive to retain the last vestiges of pride and prestige they enjoyed before their kingdom’s fall from power one-hundred years ago. From the observation of complex ancient traditions—many of which hold no value in the modern world—to the insistence on speaking an archaic language laced with anachronisms, they cling to the old ways in the hopes of reviving their past glory.
@@ -35,6 +38,8 @@ The language of the True Citizens is called Kingspeech. Kingspeech was proclaime
 * **Knowledge**: Bureaucracy, Old Kingdom Etiquette, Old Kingdom History
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Linen breeches and tunic OR embroidered dress
 * Leather shoes

@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Trap: Deadfall"
 description: "A pile of rocks tumble from the ceiling and land on the victim."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8321
 source_end_line: 8350
+derivation: "transformed-extract"
 ---
-
 # Trap: Deadfall
 
 A pile of rocks tumble from the ceiling and land on the victim.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 3 |
 | Protection: | — |
@@ -22,7 +25,6 @@ A pile of rocks tumble from the ceiling and land on the victim.
 | **Drawbacks:** | — |
 | **Triggers:** | **Trip Wire** (*Area of Effect* DS 10) |
 | **Round Length:** | 6 seconds |
-|  |  |
 
 A half-ton of stones are suspended precariously over the doorway. The trigger is a thin wire running from the hinges to a release mechanism. When the door opens, the stones fall on whoever steps through.
 

@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "Your Greatest Desire"
 description: "A d100 table of a character's strongest desires and ambitions."
-tags: ["open-adventure", "character-creation", "backstory", "desires", "motivation"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "desires", "motivation"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 6317
 source_end_line: 6419
+derivation: "transformed-extract"
 ---
-
 # Your Greatest Desire
 
-|  |  |
-| --- | --- |
 | d100 | **More than anything, you want…** |
+| --- | --- |
 | 1 | a big dog. |
 | 2 | a kitten. |
 | 3 | a fast horse. |
@@ -56,11 +58,11 @@ source_end_line: 6419
 | 40 | to have a butler. |
 | 41 | to win back your lost love. |
 | 42 | to see your family again. |
-| 43 | tomake your own sword. |
+| 43 | to make your own sword. |
 | 44 | to kill a god. |
 | 45 | to recover your lost memories. |
 | 46 | to find your real father. |
-| 47 | to findyour kidnapped child. |
+| 47 | to find your kidnapped child. |
 | 48 | to die gloriously in battle. |
 | 49 | to discover your destiny. |
 | 50 | to find a ley line. |

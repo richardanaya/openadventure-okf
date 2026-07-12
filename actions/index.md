@@ -1,6 +1,6 @@
 # Actions
 
-* [Appendix B: Action Library](overview.md) - The Action Library describes 51 Actions. Each entry demonstrates ways to use the Core Rules to achieve a specific outcome or game effect. These are only examples. The way you resolve an Action in your game should be...
+* [Action Library](overview.md) - Catalogs 51 example Actions and explains how to adapt their rules to the circumstances and fiction of play.
 * [Aid](aid.md) - Create a positive condition that adds a Benefit to an Action Score.
 * [Assist](assist.md) - Raise an Action Score by the Effect by contributing directly to the Action.
 * [Attack: Area of Effect](attack-area-of-effect.md) - Make an attack that strikes every person in a particular area.
@@ -28,7 +28,7 @@
 * [Impersonate](impersonate.md) - Pretend to be a specific person or type of person when interacting with others.
 * [Improve](improve.md) - Improve the Effect of a previous Action Check.
 * [Intercept](intercept.md) - Throw yourself in front of an attack so it hits you instead of your ally.
-* [Jump](jump.md) - Jump. Like over a thing. So, yeah, jump.
+* [Jump](jump.md) - Jumps over or across an obstacle or gap.
 * [Lift](lift.md) - Lift a heavy object off the ground.
 * [Manipulate](manipulate.md) - Make the target do something you desire.
 * [Obstruct](obstruct.md) - Create a condition that adds a Drawback to a Difficulty Score.

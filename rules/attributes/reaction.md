@@ -1,14 +1,17 @@
 ---
-type: "Rulebook Reference"
+type: "Rule"
 title: "Reaction"
 description: "Reaction checks and turn-order rules."
 tags: ["open-adventure", "fantasy", "core-rules", "attributes", "reaction"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2242
 source_end_line: 2258
+derivation: "transformed-extract"
 ---
-
 # Reaction
 
 A character’s **Reaction** represents their reflexes, alertness, and instinct. It helps to determine when they take their Turn in the Round, whether they unconsciously notice threats, and how quickly they pick up on and can react to changes in their environment. Reaction is equal to the highest of the character’ s Coordination, Deduction, or Intuition, plus their MO score:

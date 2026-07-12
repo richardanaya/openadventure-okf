@@ -1,21 +1,24 @@
 ---
-type: "Rulebook Chapter"
-title: "Chapter 13: Injury, Wounds, and Healing"
-description: "Fantasy adventure worlds are dangerous places, and sooner or later your character will get hurt. This chapter describes the rules for handling injury, wounds, and healing in Open Adventure."
-tags: ["open-adventure", "fantasy", "core-rules", "chapter-13"]
+type: "Rule"
+title: "Injury, Wounds, and Healing"
+description: "Explains the rules for injury, wounds, dying, recovery, and healing in Open Adventure."
+tags: ["open-adventure", "fantasy", "core-rules", "injury", "healing"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4245
 source_end_line: 4425
+derivation: "transformed-extract"
 ---
+# Injury, Wounds, and Healing
 
-# Chapter 13: Injury, Wounds, and Healing
-
-Fantasy adventure worlds are dangerous places, and sooner or later your character will get hurt. This chapter describes the rules for handling injury, wounds, and healing in *Open Adventure*.
+Fantasy adventure worlds are dangerous places, and sooner or later your character will get hurt. This section describes the rules for handling injury, wounds, and healing in *Open Adventure*.
 
 ## Body, Mind, and Spirit Points
 
-A character’s **Body Points**, **Mind Points**,and **Spirit Points** represent how much physical, mental, and emotional hardship they can endure before they must stop to recover. The loss of Body Points, Mind Points, or Spirit Points in the game is sometimes referred to as **taking damage**, although it’s possible to lose points from things other than injuries.
+A character’s **Body Points**, **Mind Points**, and **Spirit Points** represent how much physical, mental, and emotional hardship they can endure before they must stop to recover. The loss of Body Points, Mind Points, or Spirit Points in the game is sometimes referred to as **taking damage**, although it’s possible to lose points from things other than injuries.
 
 * **Body Points**: Body Points represent the character’s overall physical health, their ability to resist stunning blows, and how well they withstand fatigue.
 * **Mind Points**: Mind Points represent the character’s force of will, their ability to stay centered in the face of chaos, and their power of concentration.
@@ -25,11 +28,11 @@ If a character’s Body Points, Mind Points, or Spirit Points are reduced to zer
 
 ## NPCs, Adversaries, and Injury
 
-The rules found in this chapter are primarily for Player Characters. NPCs and Adversaries are handled in a simpler fashion to make it easier for the Adventure Guide to run the game. Unlike Player Characters, whose health is represented by Body Points, Mind Points, and Spirit Points, NPCs and Adversaries only have one pool of points: Challenge Points. Damage of any type is subtracted from their Challenge Points. When their Challenge Points reach zero, the NPC or Adversary is **Defeated**. Wounds, Incapacitation, Recovery, and all the other options and advantages described in this chapter for Player Characters are not used for NPCs and Adversaries.
+The rules found in this section are primarily for Player Characters. NPCs and Adversaries are handled in a simpler fashion to make it easier for the Adventure Guide to run the game. Unlike Player Characters, whose health is represented by Body Points, Mind Points, and Spirit Points, NPCs and Adversaries only have one pool of points: Challenge Points. Damage of any type is subtracted from their Challenge Points. When their Challenge Points reach zero, the NPC or Adversary is **Defeated**. Wounds, Incapacitation, Recovery, and all the other options and advantages described in this section for Player Characters are not used for NPCs and Adversaries.
 
-For more information on Defeated NPCs and Adversaries, see page XX in Chapter 11: Challenges.
+For more information on Defeated NPCs and Adversaries, see [Challenges](/rules/challenges/).
 
-The exceptions are important NPCs and major Adversaries, such as legendary heroes, key allies, or the main villain of the Adventure. To reflect the importance of these characters, the Adventure Guide may choose to create them using the rules for creating Player Characters. NPCs or Adversaries created in this fashion, often referred to as Epic NPCs, use the rules in this chapter for injuries, Wounds, and healing.
+The exceptions are important NPCs and major Adversaries, such as legendary heroes, key allies, or the main villain of the Adventure. To reflect the importance of these characters, the Adventure Guide may choose to create them using the rules for creating Player Characters. NPCs or Adversaries created in this fashion, often referred to as Epic NPCs, use the rules in this section for injuries, Wounds, and healing.
 
 ## Losing Points
 
@@ -72,13 +75,13 @@ Incapacitated characters cannot defend themselves. The base Difficulty Score for
 
 ## Incapacitated Characters and Damage
 
-If a character who is already at 0 Body Points, Mind Points, or Spirit Points loses more points of the same type, instead of losing points, they suffer an additional Wound of that type. For more on Wounds, see page XX.
+If a character who is already at 0 Body Points, Mind Points, or Spirit Points loses more points of the same type, instead of losing points, they suffer an additional Wound of that type. See [Wounds](#wounds) for details.
 
 Amicus is at 0 Body Points. She is also suffering from a Poison Linked Challenge which causes her to lose 1 Body Point at the end of every Round. At the end of the current Round, when the additional point of damage occurs, Amicus is still at 0 Body Points. Instead of losing another Body Point, Amicus suffers an additional Body Wound and must make Death Checks as per the standard rules for Wounds.
 
 ## Recovering Points
 
-Body Points, Mind Points, and Spirit Points are relatively easy to recover. An hour of uninterrupted rest restores all a character’s points to their maximums. Characters may also regain points with a successful Recovery Check.
+Body Points, Mind Points, and Spirit Points are relatively easy to recover. An hour of uninterrupted rest restores all a character’s points to their maximums. Characters may also regain points with a successful [Recovery Check](/actions/recovery.md).
 
 ## Recovery Checks
 
@@ -88,7 +91,7 @@ The Primary Attribute for Recovery Checks is based on the player’s description
 
 At a minimum, the character rendering aid needs basic tools, such as a healing kit, and a clean, quiet place to work. If these basic needs are not met, the Adventure Guide should add one or more Drawbacks to the Difficulty Score. Superior healing kits, smelling salts, incense, and similar tools may add Benefits to the Action Score for Recovery Checks. The player may add the character’s MO if the Adventure Guide rules the MO is trained to help others recover. Appropriate Specializations, such as First Aid, Comfort, or Inspire, may add Benefits to the Action Score.
 
-The base Difficulty Score is the number of Wounds of the character has of the type of points the character is trying to recover. Ignore Wounds of other types.
+The base Difficulty Score is the number of Wounds the character has of the type they are trying to recover. Ignore Wounds of other types.
 
 Amicus is at 0 Body Points so Ezarel is attempting a Recovery Check to get their ally back on their feet. Amicus has 2 Body Wounds, so the base Difficulty Score for Ezarel’s Recovery Check is 2. The player rolls the Recovery Check and gets Effect 3. Amicus gets 3 Body Points back.
 
@@ -106,7 +109,7 @@ The Primary Attribute is based on the type of points the character is attempting
 * **Mind Points** = Willpower
 * **Spirit Points** = Resilience
 
-The base Difficulty Score is the number of Wounds the character has of the type of points they are attempting to recover. Ignore Wounds of other types. The player may add the character’s MO score to the Recovery Check Action Score if the type is the MO’s Favored Recovery. Specializations, equipment, and special circumstances do not provide Benefits to the Action Score.
+The base Difficulty Score is the number of Wounds the character has of the type of points they are attempting to recover. Ignore Wounds of other types. The player may add the character’s MO score to the Recovery Action Score if the type is the MO’s Favored Recovery. Specializations, equipment, and special circumstances do not provide Benefits to the Action Score.
 
 ## Wounds
 
@@ -116,11 +119,11 @@ Each time a character suffers a Wound, they must make a **Death Check**. See Dea
 
 ## Treat Wounds
 
-Wounds are healed with a Treat Wounds Check. On a successful **Treat Wounds** Check, the character heals one Wound of a specific type. The character must declare what type of Wound (Body, Mind, or Spirit) they are attempting to heal before they make the Treat Wounds Check.
+Wounds are healed with a [Treat Wounds Check](/actions/treat-wounds.md). On a successful **Treat Wounds Check** Check, the character heals one Wound of a specific type. The character must declare what type of Wound (Body, Mind, or Spirit) they are attempting to heal before they make the Treat Wounds Check.
 
 The base Difficulty Score for a Treat Wounds Check is 6 plus the target’s total number of Wounds.
 
-**Treat Wounds Base Difficult**y = 6 + Body Wounds + Mind Wounds + Spirit Wounds
+**Treat Wounds Base Difficulty** = 6 + Body Wounds + Mind Wounds + Spirit Wounds
 
 Treating Wounds is a complex and specialized process. The Adventure Guide should consider the following when determining if Drawbacks are appropriate:
 
@@ -189,4 +192,4 @@ On a Critical Failure, the dying character suffers an additional Wound of a type
 
 ## Non-Lethal Attacks and Wounds
 
-Damage from some sources is listed as **non-lethal**. For instance, attacks made with a blunt part of the body (fist, feet, head, tail, knee, etc.), or damage from the Harm Action are both non-lethal. If a character’s Body Points, Mind Points, or Spirit Points are reduced to 0 by a non-lethal Attack, or if the character is hit with a successful non-lethal Attack when their Body Points are already 0, the character takes a Wound as per the rules, but they do not make a Death Check.
+Damage from some sources is listed as **non-lethal**. For instance, attacks made with a blunt part of the body (fist, feet, head, tail, knee, etc.), or damage from the [Harm Action](/actions/harm.md) are both non-lethal. If a character’s Body Points, Mind Points, or Spirit Points are reduced to 0 by a non-lethal Attack, or if the character is hit with a successful non-lethal Attack when their Body Points are already 0, the character takes a Wound as per the rules, but they do not make a Death Check.

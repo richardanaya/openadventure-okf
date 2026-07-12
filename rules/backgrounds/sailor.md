@@ -1,14 +1,17 @@
 ---
-type: "Character Background"
+type: "Character Option"
 title: "Sailor"
 description: "A character background built through work aboard ships and life at sea."
 tags: ["open-adventure", "fantasy", "core-rules", "backgrounds"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2777
 source_end_line: 2807
+derivation: "transformed-extract"
 ---
-
 # Sailor
 
 Before you joined the ranks of the world’s adventurers, you made your living as a sailor. In your youth, you signed up to serve as crew aboard one of the many merchant vessels sailing out of a nearby port. Perhaps your ship traveled along the coast, moving goods between kingdoms, or maybe you crewed one of the long-haul ships, following the swift ocean currents to the distant lands on the far side of the ocean.
@@ -32,6 +35,8 @@ Sea Legs: The character moves about the decks of ships with ease. The rock and s
 * **Strengths**: Resist Disease, Resist Poison
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Dice (5)
 * Flask of rum (tin)

@@ -1,17 +1,20 @@
 ---
-type: "Character Background Guide"
+type: "Guide"
 title: "Character Backgrounds"
 description: "How backgrounds represent a character's former occupation, traits, talents, and training."
-tags: ["open-adventure", "fantasy", "core-rules", "backgrounds", "guide"]
+tags: ["open-adventure", "fantasy", "core-rules", "backgrounds", "guide", "overview"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2523
 source_end_line: 2552
+derivation: "transformed-extract"
 ---
-
 # Character Backgrounds
 
-The term “adventurer” is one used regularly in this book, but it’s not a profession per se. A character doesn’t apply to adventuring school or train as an adventurer’s apprentice. More likely, the character had a more practical occupation before they embraced the adventurer’s life and learned the skills and knowledge of their MO.
+The term “adventurer” is one used regularly in this rules bundle, but it’s not a profession per se. A character doesn’t apply to adventuring school or train as an adventurer’s apprentice. More likely, the character had a more practical occupation before they embraced the adventurer’s life and learned the skills and knowledge of their MO.
 
 A character’s background represents their old life. It’s a chapter of the character’s story that helps to define who they are, the way they think, and their personality. It also serves as fodder for writing the character’s backstory. Do they have friends from their old life who might be available to help them in a pinch? Did they make enemies that haven’t forgotten them, even though the character has moved on? Are there particular accomplishments, or perhaps failures, that stick with the character to this day?
 
@@ -19,15 +22,15 @@ A character’s background represents their old life. It’s a chapter of the ch
 
 Included here are rules for nine backgrounds you can choose from when creating a character.
 
-* Acolyte
-* Arcane Apprentice
-* Criminal
+* [Acolyte](/rules/backgrounds/acolyte.md)
+* [Arcane Apprentice](/rules/backgrounds/arcane-apprentice.md)
+* [Criminal](/rules/backgrounds/criminal.md)
 * **Farmer**
-* Healer
-* Merchant
-* Noble
-* Sailor
-* Soldier
+* [Healer](/rules/backgrounds/healer.md)
+* [Merchant](/rules/backgrounds/merchant.md)
+* [Noble](/rules/backgrounds/noble.md)
+* [Sailor](/rules/backgrounds/sailor.md)
+* [Soldier](/rules/backgrounds/soldier.md)
 
 If none of these fit the story you have in mind for your character, you can work with the Adventure Guide to make a new background using these as templates.
 

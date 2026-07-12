@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Navigate the Forest"
 description: "The characters must find their way through a dense forest."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8076
 source_end_line: 8113
+derivation: "transformed-extract"
 ---
-
 # Navigate the Forest
 
 The characters must find their way through a dense forest.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 10 |
 | Protection: | — |
@@ -22,7 +25,6 @@ The characters must find their way through a dense forest.
 | **Drawbacks:** | Thick Canopy |
 | **Triggers:** | **End of Round** (+1 Orc), **End of Round** (Random Encounter Roll) |
 | **Round Length:** | 1 hour |
-|  |  |
 
 Orcs are gathering in the north to launch an attack on the characters’ home village. The characters plan to ambush the orcs before they gather their full strength, but the longer it takes to reach the orcs, the greater their numbers.
 

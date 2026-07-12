@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Bandit Captain"
 description: "Bandit Captains are criminals who were smart enough or lucky enough to survive the life of a common bandit."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8864
 source_end_line: 8902
+derivation: "transformed-extract"
 ---
-
 # Bandit Captain
 
 Bandit Captains are criminals who were smart enough or lucky enough to survive the life of a common bandit.
 
 Challenge Points: 25 Reaction: 6
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 4 | 2 | 2 |
 | **Defenses:** | 4 (5 parry) | 2 | 2 |
 | **Armor:** | 1 | 0 (1) | 0 (1) |
@@ -42,7 +44,7 @@ Lead by Fear (Aid): AS 5 (d12), DS 2 + number of bandit allies; apply a Benefit 
 
 Group Courage: If two or more additional bandits are in the same battle, the captain gains a Benefit to Armor (Mind) and Armor (Spirit). This Armor score represents their unwarranted self-confidence when fighting as a group.
 
-Sacrificial Withdraw: The bandit captain can force any number of surviving bandits under their command to stay and fight to the death (they may not Withdraw). The captain gains one Benefit to their Withdraw Check Action Score for each bandit sacrificed in this fashion.
+Sacrificial Withdraw: The bandit captain can force any number of surviving bandits under their command to stay and fight to the death (they may not Withdraw). The captain gains one Benefit to their [Withdraw Action](/actions/withdraw.md) Score for each bandit sacrificed in this fashion.
 
 ## Gear
 

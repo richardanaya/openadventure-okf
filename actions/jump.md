@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Jump"
-description: "Jump. Like over a thing. So, yeah, jump."
-tags: ["open-adventure", "actions"]
+description: "Jumps over or across an obstacle or gap."
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7203
 source_end_line: 7229
+derivation: "transformed-extract"
 ---
-
 # Jump
 
 Jump. Like over a thing. So, yeah, jump.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR or COR | | |
-| Difficulty: | Distance | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Running start | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Character jumps the distance they desired | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR or COR |
+| Difficulty: | Distance |
+| Prerequisite: | — |
+| Tools/Conditions: | Running start |
+| Base Time: | 1 Round |
+| Outcome: | Character jumps the distance they desired |
 
 On a successful **Jump** Check, the character reaches their desired end point. The jump might be a vertical leap, such as trying to grab a ledge, a horizontal jump, such as jumping over a pit, or a combination of the two, like leaping up and over a table.
 

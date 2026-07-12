@@ -1,19 +1,22 @@
 ---
-type: "Rulebook Chapter"
-title: "Chapter 10: Actions"
-description: "An Action is anything a player’s character does during the game. Stabbing a ferocious dragon with a spear, climbing a towering cliff at night in the pouring rain, or masquerading as a noble to convince a group of..."
-tags: ["open-adventure", "fantasy", "core-rules", "chapter-10"]
+type: "Rule"
+title: "Actions"
+description: "Explains how to resolve character Actions with Action Checks, Difficulty Scores, Effects, modifiers, and related core mechanics."
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3338
 source_end_line: 3681
+derivation: "transformed-extract"
 ---
-
-# Chapter 10: Actions
+# Actions
 
 An Action is anything a player’s character does during the game. Stabbing a ferocious dragon with a spear, climbing a towering cliff at night in the pouring rain, or masquerading as a noble to convince a group of soldiers to follow the character’s orders are all Actions. Some Actions are complex, like disarming an intricate and highly sensitive mechanical trap, while others are quite simple, like using brute strength to topple the statue of an evil god.
 
-The rules in this chapter explain how to resolve Actions. They work the same way no matter what type of Action the character takes. Social interactions, combat maneuvers, intellectual puzzles, and athletic displays all use the same rules.
+The rules in this section explain how to resolve Actions. They work the same way no matter what type of Action the character takes. Social interactions, combat maneuvers, intellectual puzzles, and athletic displays all use the same rules.
 
 ## The First Rule
 
@@ -21,7 +24,7 @@ The first rule of Actions is, “Not all Actions need these rules.” If an Acti
 
 ## Major Actions and Minor Actions
 
-On their Turn, a character is each allowed to take one **Major Action** and one **Minor Action**. Complex Actions and any Action requiring an Action Check are Major Actions. Simpler, less consequential Actions that do not require an Action Check are Minor Actions. See page XX to learn more about Major Actions, Minor Actions, and Turns in Chapter XX: Encounters.
+On their Turn, each character is allowed to take one **Major Action** and one **Minor Action**. Complex Actions and any Action requiring an Action Check are Major Actions. Simpler, less consequential Actions that do not require an Action Check are Minor Actions. See [Encounter Rules](/rules/encounters/core-rules.md) to learn more about Major Actions, Minor Actions, and Turns.
 
 ## Action Checks
 
@@ -33,7 +36,7 @@ To perform an Action Check, follow these steps.
 
 **Step 1**: Player describes the character’s Action.
 
-**Step 2:** Adventure Guidesets the Difficulty Score (DS).
+**Step 2:** Adventure Guide sets the Difficulty Score (DS).
 
 **Step 3**: Player determines the Action Score (AS).
 
@@ -51,7 +54,7 @@ Warheart throws his weight against a man-sized ceramic pot of cooking oil, hopin
 
 ## One Action, One Outcome
 
-Under normal circumstances, an Action can only achieve a single outcome against a single target. If a player wants their character to achieve multiple outcomes with a single Action, they need to perform a Stunt. See the rules for Stunts on page XX.
+Under normal circumstances, an Action can only achieve a single outcome against a single target. If a player wants their character to achieve multiple outcomes with a single Action, they need to perform a Stunt. See the [Stunt rules](#stunts).
 
 Amicus wields a net. His goal is to entangle the foe to restrict their movement, then pull them to the ground so they are easier to capture. The Adventure Guide rules that entangling a foe with a net and pulling them to the ground are two different outcomes, so Amicus may only try to entangle the foe this Turn. Amicus can try to yank them to the ground on their next Turn—assuming the foe does not escape the net.
 
@@ -63,10 +66,10 @@ The Adventure Guide determines the Difficulty Score by assessing the base diffic
 
 The Adventure Guide sets a base Difficulty Score for the Action. This number represents how difficult it is to succeed at the Action under normal conditions. Use the Action Difficulty table to set an appropriate base Difficulty Score.
 
-|  |  |  |
-| --- | --- | --- |
-| **ACTION DIFFICULTY** | |  |
+**ACTION DIFFICULTY**
+
 | **Difficulty** | **DS** | **Who Could Do This?** |
+| --- | --- | --- |
 | Very Easy | 3 | Any unskilled person |
 | Easy | 6 | A novice |
 | Moderate | 9 | A professional |
@@ -74,11 +77,11 @@ The Adventure Guide sets a base Difficulty Score for the Action. This number rep
 | Very Hard | 15 | A master |
 | Nearly Impossible | 20+ | A legendary master |
 
-In the Action Library, found on page XX in Appendix B: Action Library, the Action descriptions often include a base Difficulty Score. For example, a monster’s Body Defense score is the base Difficulty Score for physical attacks against the monster. These base Difficulty Scores are suggestions. The Adventure Guide should consider the specific Action the player described and choose the right Difficulty Score for that unique Action.
+The [Action Library](/actions/) descriptions often include a base Difficulty Score. For example, a monster’s Body Defense score is the base Difficulty Score for physical attacks against the monster. These base Difficulty Scores are suggestions. The Adventure Guide should consider the specific Action the player described and choose the right Difficulty Score for that unique Action.
 
 ## Normal Conditions
 
-The base Difficulty Score assumes the character is working under **normal conditions**. Normal conditions mean the character is in the appropriate environment for the Action and has the proper tools. If the place where the character is performing the Action is not well-suited to the task, or if the character does not have the right tools, the Adventure Guide should add one or more Drawbacksto the Difficulty Score.
+The base Difficulty Score assumes the character is working under **normal conditions**. Normal conditions mean the character is in the appropriate environment for the Action and has the proper tools. If the place where the character is performing the Action is not well-suited to the task, or if the character does not have the right tools, the Adventure Guide should add one or more Drawbacks to the Difficulty Score.
 
 ## Drawbacks
 
@@ -109,13 +112,13 @@ The heroes are lost in a dense forest at night. Drayac is navigating, but the fo
 
 The Adventure Guide may rule an Action is impossible. Reasons an Action could be impossible include:
 
-* **Not Enough Time**: The Action requires more time than the length of a Round (see page XX in Chapter XX: Encounters for more information on Round length.) For example, trying to forge a sword from scratch in a single six-second Round is impossible.
+* **Not Enough Time**: The Action requires more time than the length of a Round (see [Encounters](/rules/encounters/) for more information on Round length.) For example, trying to forge a sword from scratch in a single six-second Round is impossible.
 * **Missing Materials**: The character lacks the necessary materials. For example, trying to build a ladder while locked in an empty prison cell.
 * **Not Possible in the World**: The proposed Action is impossible in the setting. For example, trying to fly by flapping your arms in a game set on Earth in medieval England.
 
 ## Improbable Actions
 
-The Adventure Guide may decide the Action and outcome the player described is highly improbable, but not *entirely* impossible. Open Adventure is a game of cinematic Action, and characters pulling off highly improbable feats is part of the fun and the storytelling style. If a player wants their character to perform an exciting but highly improbable Action, the Adventure Guide may call for a **Stunt**. Rules for Stunts are found on page XX.
+The Adventure Guide may decide the Action and outcome the player described is highly improbable, but not *entirely* impossible. Open Adventure is a game of cinematic Action, and characters pulling off highly improbable feats is part of the fun and the storytelling style. If a player wants their character to perform an exciting but highly improbable Action, the Adventure Guide may call for a **Stunt**. See the [Stunt rules](#stunts).
 
 ## Changing Actions
 
@@ -141,7 +144,7 @@ The Action Score is the total of everything working in the character’s favor. 
 
 ## Primary Attribute Score
 
-The foundation of the Action Score is a Primary Attribute score. The player selects the Primary Attribute they are using to perform their Action and its score becomes their initial Action Score. The player may only add one Primary Attribute score to the Action Score. Many of the Actions found on page XX in Appendix B: Action Library designate a specific Primary Attribute, but the player should select the Primary Attribute that best fits the unique Action they described.
+The foundation of the Action Score is a Primary Attribute score. The player selects the Primary Attribute they are using to perform their Action and its score becomes their initial Action Score. The player may only add one Primary Attribute score to the Action Score. Many [Action Library](/actions/) entries designate a specific Primary Attribute, but the player should select the Primary Attribute that best fits the unique Action they described.
 
 Ezarel wants to reduce an enemy’s Challenge Points. For their Action, Ezarel wants to run over to the rope that holds up the chandelier and at the precise moment the enemy runs underneath it, they will cut the rope, dropping it on the enemy’s head. The desired outcome is physical damage to the enemy like an Attack Action, but physical Attack Actions usually use Coordination or Strength. Neither of these are Ezarel’s strong suit. Ezarel argues they are calculating the perfect moment to cut the rope, so they want to use their high Intellect score as the Primary Attribute for the Action. The Adventure Guide thinks this is a logical argument and approves.
 
@@ -188,9 +191,8 @@ Drayac is firing an arrow at a dragon using his Bow of Wyrm Slaying. This magica
 
 One way to increase a low Action Score is to take extra time. Starting at the base time required to perform the Action or the current Round length (whichever is greater), each step up the Time Chart adds a +1 Benefit to the Action Score. For example, if the base time to perform an Action is 6 seconds, taking 15 minutes adds +2 to the Action Score.
 
-|  |
-| --- |
 | **TIME CHART** |
+| --- |
 | 6 seconds |
 | 1 minute |
 | 15 minutes |
@@ -200,7 +202,7 @@ One way to increase a low Action Score is to take extra time. Starting at the ba
 | 1 week |
 | 1 month |
 
-The Adventure Guide decides if the Action can gain Benefits from additional time. For examples of base times for Actions, see the example in Appendix B: Action Library on page XX.
+The Adventure Guide decides if the Action can gain Benefits from additional time. For examples of base times, see the [Action Library entries](/actions/).
 
 ## Action Score Strategy
 
@@ -210,10 +212,10 @@ Want the best chance of success when making an Action Check? Try to get an Actio
 
 Find the character’s Action Score on the Action Chart, grab the indicated dice, roll, and then add up the total. If the total is greater than or equal to the Difficulty Score, the Action succeeds. If the total is less than the Difficulty Score, the Action has failed.
 
-|  |  |
-| --- | --- |
-| **ACTION CHART** | |
+**ACTION CHART**
+
 | **Action Score** | **Action Dice** |
+| --- | --- |
 | 1 | — |
 | 2 | d6 |
 | 3 | d8 |
@@ -253,7 +255,7 @@ The Effect of an Action Check is the amount by which the roll exceeded the Diffi
 
 ## Effect Bonuses
 
-Some talents, powers, and equipment provide an Effect bonus for certain types of Actions. The most common examples are weapons that improve the Effect of successful Attack Checks. After calculating the Effect, add any applicable bonuses. See page XX in Chapter XX: Challenges for more information about Challenges and Challenge Points.
+Some talents, powers, and equipment provide an Effect bonus for certain types of Actions. The most common examples are weapons that improve the Effect of successful Attack Checks. After calculating the Effect, add any applicable bonuses. See [Challenges](/rules/challenges/) for more information about Challenges and Challenge Points.
 
 ## Failure
 
@@ -345,11 +347,11 @@ NPCs and Adversaries may attempt any of the Actions available to a Player Charac
 
 ## Rules for NPC Actions
 
-* **Turn Order**: Unlike PCs, NPCs and Adversaries do not make Reaction Checks to determine when they take their Turn each Round. NPCs and Adversaries act on the Reaction Score listed in their statblock. See Chapter XX: Encounters to learn more about Turn order.
+* **Turn Order**: Unlike PCs, NPCs and Adversaries do not make Reaction Checks to determine when they take their Turn each Round. NPCs and Adversaries act on the Reaction Score listed in their statblock. See [Encounters](/rules/encounters/) to learn more about Turn order.
 * **Actions Choices**: NPCs and Adversaries may attempt any of the Actions available to Player Characters or any reasonable Action the Adventure Guide dreams up.
 * **Primary Attributes**: NPCs and Adversaries only have three Attributes: Body, Mind, and Spirit. If the description of an Action suggests a specific Primary Attribute to determine the Action Score, use the NPC or Adversary Attribute with the same name as the listed Primary Attribute’s group. For instance, if an Action calls for a Strength Check, which is in the Body group, use the NPC’s or Adversary’s Body Attribute.
-* **Action Scores**: The NPC and Adversary statblocks in Appendix E: NPCs and Adversaries include their most commonly performed Actions along with pre-calculated Action Scores. These Action Scores take into account training, Attributes, and equipment. The Adventure Guide should still apply conditional Benefits to the Action Score as appropriate. If the NPC or Adversary is performing an Action not listed in their statblock, the Adventure Guide should calculate the Action Score using the rules presented in this chapter.
-* **Effect**: For Actions listed in the NPC or Adversary’s statblock, a flat Effect is listed where appropriate. On a successful Action Check for that Action, use this number listed for the Effect regardless of how high the Adventure Guide rolls. For Actions not listed in the statblock, determine Effect using the rules in this chapter.
+* **Action Scores**: The NPC and Adversary statblocks in [NPCs and Adversaries](/npcs/) include their most commonly performed Actions along with pre-calculated Action Scores. These Action Scores take into account training, Attributes, and equipment. The Adventure Guide should still apply conditional Benefits to the Action Score as appropriate. If the NPC or Adversary is performing an Action not listed in their statblock, the Adventure Guide should calculate the Action Score using the rules presented in this section.
+* **Effect**: For Actions listed in the NPC or Adversary’s statblock, a flat Effect is listed where appropriate. On a successful Action Check for that Action, use this number listed for the Effect regardless of how high the Adventure Guide rolls. For Actions not listed in the statblock, determine Effect using the rules in this section.
 * **Stunts**: NPCs and Adversaries may not attempt stunts unless the stunt is already listed in their statblock.
 
-Additional rules for NPCs and Adversaries are found on page XX in Appendix E: NPCs and Adversaries.
+Additional rules for NPCs and Adversaries are found in [NPCs and Adversaries](/npcs/).

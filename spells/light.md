@@ -1,17 +1,20 @@
 ---
-type: "Game Spell"
+type: "Spell"
 title: "Light"
-description: "The Spellcaster holds a small object while casting the spell. On a successful Spellcasting Check the object glows with a brightness equal to a lit torch."
-tags: ["open-adventure", "spells"]
+description: "Makes a held object glow as brightly as a lit torch after a successful Spellcasting Check."
+tags: ["open-adventure", "fantasy", "core-rules", "spells"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8665
 source_end_line: 8682
+derivation: "transformed-extract"
 ---
-
 # Light
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | **Range**: | Self |
 | **Area of Effect** | Across the Room (Sphere) |
@@ -20,7 +23,6 @@ source_end_line: 8682
 | **Casting Time**: | 6 seconds |
 | **Duration**: | 1 Round, Maintained |
 | **Components**: | A pinch of sulfur |
-|  |  |
 
 The Spellcaster holds a small object while casting the spell. On a successful Spellcasting Check the object glows with a brightness equal to a lit torch.
 

@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Lift"
 description: "Lift a heavy object off the ground."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7231
 source_end_line: 7253
+derivation: "transformed-extract"
 ---
-
 # Lift
 
 Lift a heavy object off the ground.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR | | |
-| Difficulty: | Weight and lift height | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Object is lifted to the desired height | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR |
+| Difficulty: | Weight and lift height |
+| Prerequisite: | — |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | Object is lifted to the desired height |
 
 On a successful **Lift** check, the character lifts an object and raises it to the desired height. The Difficulty Score is based on both the weight of the object and how high the character wants to lift it. For instance, lifting a portcullis just high enough for a friend to slide under it is has a lower Difficulty Score than lifting it high enough for a horse to pass under it.
 

@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Shove"
 description: "Push an enemy from Reach to Across the Room."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7549
 source_end_line: 7571
+derivation: "transformed-extract"
 ---
-
 # Shove
 
 Push an enemy from Reach to Across the Room.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | STR | | |
-| Difficulty: | Opposed STR Check | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | — | | |
-| Base Time: | 1 Round | | |
-| Outcome: | The target is pushed to Across the Room | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | STR |
+| Difficulty: | Opposed STR Check |
+| Prerequisite: | — |
+| Tools/Conditions: | — |
+| Base Time: | 1 Round |
+| Outcome: | The target is pushed to Across the Room |
 
 On a successful **Shove**, you push the target from Reach to a position Across the Room of the Shoving character’s choice.
 

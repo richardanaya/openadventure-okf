@@ -1,19 +1,22 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Survive the Avalanche"
 description: "An avalanche is bearing down on the heroes and they must scramble to avoid an icy doom."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8254
 source_end_line: 8283
+derivation: "transformed-extract"
 ---
-
 # Survive the Avalanche
 
 An avalanche is bearing down on the heroes and they must scramble to avoid an icy doom.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 10 |
 | Protection: | — |
@@ -22,7 +25,6 @@ An avalanche is bearing down on the heroes and they must scramble to avoid an ic
 | **Drawbacks:** | — |
 | **Triggers:** | — |
 | **Round Length:** | 6 seconds |
-|  |  |
 
 A massive avalanche is descending on the characters. They have just 4 Rounds to overcome the Challenge or face costly consequences.
 

@@ -1,14 +1,17 @@
 ---
-type: "Character Culture"
+type: "Character Option"
 title: "Outlander"
 description: "A culture formed beyond the settled kingdoms in rugged frontier lands."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2353
 source_end_line: 2381
+derivation: "transformed-extract"
 ---
-
 # Outlander
 
 The goal of an Outlander is a simple one: survive. Outlanders come from the primordial wild lands, where dangerous animals, poisonous plants, and unforgiving weather test their physical, mental, and emotional limits. Some Outlanders are loners, but most know the best way to survive is to forge strong connections with their clan, tribe, or kin. They know it’s impossible to be ready for every threat, so it is vital to have a loyal friend to cover your back.
@@ -33,6 +36,8 @@ All Outlanders speak a dialect unique to their clan. Most of these languages hav
 * **Knowledge**: Dangerous Animals, Food Animals, Wild Edible Plants
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Leather breeches
 * Wool tunic

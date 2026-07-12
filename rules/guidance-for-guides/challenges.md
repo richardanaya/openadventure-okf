@@ -1,17 +1,20 @@
 ---
-type: "Adventure Guide Guidance"
+type: "Guide"
 title: "Adjudicating Challenges"
 description: "Assign, conceal, and improvise Challenge Points."
 tags: ["open-adventure", "fantasy", "core-rules", "adventure-guides", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4859
 source_end_line: 4893
+derivation: "transformed-extract"
 ---
-
 # Adjudicating Challenges
 
-The information provided on page XX in Chapter 11: Challenges describes the mechanics for creating and adjudicating Challenges. Those rules include everything you need to know to handle Challenges in your games, but there are a few areas that deserve special attention.
+The information provided in [Challenges](/rules/challenges/) describes the mechanics for creating and adjudicating Challenges. Those rules include everything you need to know to handle Challenges in your games, but there are a few areas that deserve special attention.
 
 ## Assigning Challenge Points
 

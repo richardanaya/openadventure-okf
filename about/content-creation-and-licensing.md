@@ -1,21 +1,24 @@
 ---
-type: "License Guide"
+type: "Guide"
 title: "Content Creation and Licensing"
-description: "Open Adventure is a community-owned game system. The entire game system, its core rules, and even certain art, logos, and design elements are free for anyone to use. All the community-owned content (COC) was released..."
-tags: ["open-adventure", "license", "cc0", "content-creation"]
+description: "Explains which Open Adventure material is released under CC0 and how creators may reuse, attribute, and label compatible works."
+tags: ["open-adventure", "fantasy", "core-rules", "license", "cc0", "content-creation"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 867
 source_end_line: 951
+derivation: "transformed-extract"
 ---
-
 # Content Creation and Licensing
 
 Open Adventure is a community-owned game system. The entire game system, its core rules, and even certain art, logos, and design elements are free for anyone to use. All the community-owned content (**COC**) was released under the Creative Commons Zero (**CC0**) “No Rights Reserved” distribution license. This means the COC is free to use forever with no restrictions.
 
 ## DISCLAIMER
 
-This Appendix offers basic guidance for using the COC and does not constitute legal advice. If you have any questions or concerns, it is always a good idea to consult an attorney.
+This guide offers basic guidance for using the COC and does not constitute legal advice. If you have any questions or concerns, it is always a good idea to consult an attorney.
 
 ## What is CC0?
 
@@ -47,7 +50,7 @@ There are no requirements about how to provide attribution (since it is complete
 
 *Includes CC0 artwork originally created by Russell Marks.*
 
-**If you use the COC layout or design elements**,include the following in the credits:
+**If you use the COC layout or design elements**, include the following in the credits:
 
 *Includes CC0 design elements originally created by Shawn T. King.*
 

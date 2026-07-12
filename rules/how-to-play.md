@@ -1,17 +1,20 @@
 ---
-type: "Rulebook Chapter"
-title: "Chapter 1: How to Play"
-description: "The Open Adventure game system is built on two key concepts: Challenges and Action Checks. This chapter contains an overview of these two concepts and a few other core mechanics and important terms. Everything you..."
-tags: ["open-adventure", "fantasy", "core-rules", "chapter-1"]
+type: "Rule"
+title: "How to Play"
+description: "Introduces Challenges, Action Checks, and the other core mechanics and terms needed to begin playing Open Adventure."
+tags: ["open-adventure", "fantasy", "core-rules", "introduction"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1012
 source_end_line: 1218
+derivation: "transformed-extract"
 ---
+# How to Play
 
-# Chapter 1: How to Play
-
-The *Open Adventure* game system is built on two key concepts: Challenges and Action Checks. This chapter contains an overview of these two concepts and a few other core mechanics and important terms. Everything you learn here is described in greater detail later in the book, but this chapter introduces you to the game and prepares you to create your first character.
+The *Open Adventure* game system is built on two key concepts: Challenges and Action Checks. This section contains an overview of these two concepts and a few other core mechanics and important terms. Everything you learn here is described in greater detail throughout this rules bundle, but this section introduces you to the game and prepares you to create your first character.
 
 ## Challenges
 
@@ -43,21 +46,17 @@ Just ahead of our heroes looms the entrance to the Temple of Lost Souls. Unfortu
 
 The table shown here lists examples of different sized Challenges and their typical Challenge Points.
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| **CHALLENGE POINT EXAMPLES** | | |  | |
-| **Challenge Size** | **CP** | **Examples** | |
-| Tiny | 0 | Hop over a ditch.  Catch a falling ally.  Pick a basic lock. | |
-| Small | 5 | Get past a goblin guarding the entrance to the dungeon.  Swim across a small river.  Chop through a thick, sturdy door. | |
-| Medium | 15 | Get the party to the top of a cliff.  Pick a lock with a series of nested tumblers.  Find a specific bit of information in a library. | |
-| Large | 25 | Avoid certain death at the claws of a hungry owlbear.  Find a specific bit of information in an enormous library.  Disarm a deviously clever trap. | |
-| Enormous | 50+ | Navigate to the far side of a large, unexplored forest.  Get rid of a dragon so you can take its treasure.  Construct a large barricade to block a road. | |
+**CHALLENGE POINT EXAMPLES**
 
-This box below should go somewhere near the start of the Actions section. Maybe even in a sidebar? Or an across the bottom bar?
+| **Challenge Size** | **CP** | **Examples** |
+| --- | --- | --- |
+| Tiny | 0 | Hop over a ditch.  Catch a falling ally.  Pick a basic lock. |
+| Small | 5 | Get past a goblin guarding the entrance to the dungeon.  Swim across a small river.  Chop through a thick, sturdy door. |
+| Medium | 15 | Get the party to the top of a cliff.  Pick a lock with a series of nested tumblers.  Find a specific bit of information in a library. |
+| Large | 25 | Avoid certain death at the claws of a hungry owlbear.  Find a specific bit of information in an enormous library.  Disarm a deviously clever trap. |
+| Enormous | 50+ | Navigate to the far side of a large, unexplored forest.  Get rid of a dragon so you can take its treasure.  Construct a large barricade to block a road. |
 
-## Challenges
-
-Learn more about Challenges on page XX on Chapter 11: Challenges.
+[Learn more about Challenges](/rules/challenges/).
 
 ## Action Checks
 
@@ -65,7 +64,7 @@ Anything a character does in the game is called an **Action.** Determining if an
 
 ## Action Score
 
-At the heart of an Action Check is the character’s **Action Score (AS)**. The Action Score is the total of everything working in the character’s favor. Actions Scores are calculated as follows:
+At the heart of an Action Check is the character’s **Action Score (AS)**. The Action Score is the total of everything working in the character’s favor. Action Scores are calculated as follows:
 
 Action Score = Primary Attribute Score + MO Score + Benefits
 
@@ -97,10 +96,10 @@ Each Action Score corresponds to a different dice combination. The dice for each
 
 Warheart has Action Score 6 for hitting the dinosaur with his sword, so his player will roll 2d6 to resolve the Action Check.
 
-|  |  |  |
-| --- | --- | --- |
-| **ACTION TABLE** | | |
+**ACTION TABLE**
+
 | **Action Score** | **Action Dice** |
+| --- | --- |
 | 1 | — |
 | 2 | d6 |
 | 3 | d8 |
@@ -124,10 +123,10 @@ Difficulty Score = Starting Difficulty Score + Drawbacks
 
 **Starting Difficulty Score**: The Adventure Guide decides the starting Difficulty Score for the Action. The more complex, demanding, or sophisticated the Action, the higher the starting Difficulty Score. The table below gives examples of Base Difficulty scores for Actions of various levels of difficulty.
 
-|  |  |  |
-| --- | --- | --- |
-| **ACTION DIFFICULTY** | |  |
+**ACTION DIFFICULTY**
+
 | **Difficulty** | **DS** | **Who Could Do This?** |
+| --- | --- | --- |
 | Very Easy | 3 | Any unskilled person. |
 | Easy | 6 | A novice. |
 | Moderate | 9 | A professional. |
@@ -147,11 +146,7 @@ Challenge Points represent the overall size and scope of the Challenge, while th
 
 Warheart’s player rolls 2d6 to hit the Allosaurus and gets a 4 and a 6. Since 6 is the highest number he can roll on a d6, the roll explodes! Warheart’s player rolls another d6 and this time gets a 3. The total for the Action Check is 13 (4 + 6 + 3).
 
-This box below should go somewhere near the start of the Actions section. Maybe even in a sidebar? Or an across the bottom bar?
-
-## Actions
-
-Learn more about Actions on page XX on Chapter 10: Actions.
+[Learn more about Actions](/rules/actions.md).
 
 ## Structure of the Game
 
@@ -173,18 +168,16 @@ The Adventure Guide turns to the players and describes the Encounter:
 
 To support the Theater of the Mind style of play, *Open Adventure* uses an abstract system for describing distances in the game. This includes how the range for weapons and spells is described and the distance a character may move during the Round. The distance increments are:
 
-|  |
-| --- |
 | **DISTANCES** |
+| --- |
 | Self |
 | Reach |
 | Across the Room |
 | Stone Throw |
 | Bow Shot |
 | Within View |
-|  |
 
-Detailed rules for handling movement and range in the game are found on page XX in Chapter 12: Encounters.
+Detailed rules for handling movement and range in the game are found in [Encounters](/rules/encounters/).
 
 ## Rounds
 
@@ -205,14 +198,10 @@ How the Encounter concludes dictates the rewards the characters receive or the c
 
 Unable to convince the stubborn King to mobilize his troops, the players decide their only hope is to travel to the lair of the bandit lord to enlist his aid in the coming fight. This means their next Encounter is a travel Encounter, where the characters must overcome a series of natural challenges including bad weather, dangerous beasts, and the treacherous crossing of a river swollen by heavy rain. Had they succeeded in convincing the King, their next Encounter might have involved them acting as an advance guard for the army to avoid ambushes by enemy scouts.
 
-This box below should go somewhere near the start of the Actions section. Maybe even in a sidebar? Or an across the bottom bar?
-
-## Encounters
-
-Learn more about Actions on page XX on Chapter 12: Encounters.
+[Learn more about Encounters](/rules/encounters/).
 
 ## The Rule of Common Sense
 
-The rules in this book assume that the **Rule of Common Sense** is always in effect. The Rule of Common Sense dictates that when you are reading and interpreting the rules, if something isn’t explicitly spelled out or if the rules don’t fit with the situation you are facing, you will use common sense to decide how to proceed.
+The rules in this bundle assume that the **Rule of Common Sense** is always in effect. The Rule of Common Sense dictates that when you are reading and interpreting the rules, if something isn’t explicitly spelled out or if the rules don’t fit with the situation you are facing, you will use common sense to decide how to proceed.
 
 For instance, when describing how to use an Attack Action, the rules do not say, “You must be able to reach your enemy to hit it with your sword.” Common Sense dictates that of course you need to be able to reach someone to hit them with a sword. We trust you and the people you play with to make these calls on your own. In the case of a disagreement, the Adventure Guide makes the final call.

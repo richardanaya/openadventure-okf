@@ -1,14 +1,17 @@
 ---
-type: "Encounter Example"
+type: "Example"
 title: "Encounter: Arrival in Longhollow"
 description: "A social and investigative encounter upon arriving in Longhollow."
 tags: ["open-adventure", "fantasy", "core-rules", "encounters", "examples"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 4167
 source_end_line: 4205
+derivation: "transformed-extract"
 ---
-
 # Encounter: Arrival in Longhollow
 
 The heroes arrive in the village of Longhollow and must locate the young hunter who promised to lead them to the bandit camp.

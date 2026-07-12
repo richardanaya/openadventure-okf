@@ -1,19 +1,21 @@
 ---
-type: "Character Backstory Table"
+type: "Table"
 title: "Your Strongest Belief"
 description: "A d100 table of convictions and beliefs that shape a character's worldview."
-tags: ["open-adventure", "character-creation", "backstory", "beliefs", "worldview"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "beliefs", "worldview"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5893
 source_end_line: 5995
+derivation: "transformed-extract"
 ---
-
 # Your Strongest Belief
 
-|  |  |
-| --- | --- |
 | d100 | **You fervently believe…** |
+| --- | --- |
 | 1 | violence is not the answer. |
 | 2 | peace is for wimps. |
 | 3 | there is always hope. |
@@ -57,7 +59,7 @@ source_end_line: 5995
 | 41 | those with power are obligated to help others. |
 | 42 | we'll only beat the forces of evil if we use their tactics. |
 | 43 | most elves are secretly evil. |
-| 44 | the elvesonce lived in great cities under the sea. |
+| 44 | the elves once lived in great cities under the sea. |
 | 45 | that if you just work hard enough you'll win your parent's approval. |
 | 46 | that everyone likes you. |
 | 47 | that everyone hates you. |
@@ -92,9 +94,9 @@ source_end_line: 5995
 | 76 | an extinct forgotten lineage once ruled the planet. |
 | 77 | humans do not have spirits. |
 | 78 | there is nothing after you die. |
-| 79 | the Old Kingdomonceknew how tobuild portals to other worlds. |
+| 79 | the Old Kingdom once knew how to build portals to other worlds. |
 | 80 | a wizard hid secrets plans for a flying machine somewhere in the mountains. |
-| 81 | thegod of evilhas escaped their prison and walks the surface. |
+| 81 | the god of evil has escaped their prison and walks the surface. |
 | 82 | you can hear the voices of the gods in fire. |
 | 83 | the secret to eternal life lies somewhere in the lands to the east. |
 | 84 | the spirits of your ancestors protect you. |

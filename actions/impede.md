@@ -1,27 +1,29 @@
 ---
-type: "Game Action"
+type: "Action"
 title: "Impede"
 description: "Impede a foe’s ability to move so they must use a Major Action to change positions."
-tags: ["open-adventure", "actions"]
+tags: ["open-adventure", "fantasy", "core-rules", "actions"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 7099
 source_end_line: 7125
+derivation: "transformed-extract"
 ---
-
 # Impede
 
 Impede a foe’s ability to move so they must use a Major Action to change positions.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Attribute: | Based on Action | | |
-| Difficulty: | Based on Action | | |
-| Prerequisite: | — |  |  |
-| Tools/Conditions: | Based on Action | | |
-| Base Time: | 1 Round | | |
-| Outcome: | Target must use a Major Action to change position rather than a Minor Acton | | |
-|  |  | | |
+| Field | Value |
+| --- | --- |
+| Attribute: | Based on Action |
+| Difficulty: | Based on Action |
+| Prerequisite: | — |
+| Tools/Conditions: | Based on Action |
+| Base Time: | 1 Round |
+| Outcome: | Target must use a Major Action to change position rather than a Minor Acton |
 
 A successful **Impede** Check makes it more difficult to move through an area. Impacted characters must expend a Major Action to move or change position. Characters may still perform non-movement Actions normally while Impeded.
 

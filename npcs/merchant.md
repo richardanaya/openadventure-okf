@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Merchant"
 description: "Whether based at a shop or traveling from town to town, merchants always have something you need."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9137
 source_end_line: 9171
+derivation: "transformed-extract"
 ---
-
 # Merchant
 
 Whether based at a shop or traveling from town to town, merchants always have something you need.
 
 Challenge Points: 4 Reaction: 5
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 1 | 3 | 2 |
 | **Defenses:** | 1 | 3 | 2 |
 | **Armor:** | 0 | 0 | 0 |

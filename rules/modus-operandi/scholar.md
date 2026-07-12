@@ -1,14 +1,17 @@
 ---
-type: "Modus Operandi"
+type: "Character Option"
 title: "Scholar"
 description: "A learned expert who overcomes challenges through knowledge and careful study."
 tags: ["open-adventure", "fantasy", "core-rules", "modus-operandi"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1690
 source_end_line: 1724
+derivation: "transformed-extract"
 ---
-
 # Scholar
 
 You are a daring explorer with an insatiable hunger for knowledge, and you will go to any length to acquire it. While other academics are content to sit behind their desks, you grab a pack and plunge into the unknown in search of lost wisdom, forgotten secrets, and hidden truths. Whether decoding ancient glyphs inscribed onto deadly traps, deciphering cryptic clues leading to legendary artifacts, or translating treasure maps written in long dead languages, you are an invaluable addition to any party of adventurers.
@@ -23,9 +26,8 @@ You are a daring explorer with an insatiable hunger for knowledge, and you will 
 
 ## Traits
 
-|  |  |
-| --- | --- |
 | **Weapon Training** | Whip |
+| --- | --- |
 | **Armor Training** | Light Armor |
 | **Defense Training** | Mind, Spirit |
 | **Favored Recovery** | Mind |
@@ -33,10 +35,12 @@ You are a daring explorer with an insatiable hunger for knowledge, and you will 
 
 ## Starting Equipment
 
+See the [Equipment catalog](/rules/equipment/).
+
 * Dagger
 * Whip
 * Shortsword
-* Backback, canvas
+* Backpack, canvas
 * Bedroll
 * Book, blank
 * Book (common subject)

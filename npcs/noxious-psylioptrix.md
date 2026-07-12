@@ -1,23 +1,25 @@
 ---
-type: "NPC Statblock"
+type: "NPC"
 title: "Noxious Psylioptrix"
 description: "These human-sized insects with mottled yellow-brown carapaces stun their foes before consuming them alive."
-tags: ["open-adventure", "npcs"]
+tags: ["open-adventure", "fantasy", "core-rules", "npcs"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 9206
 source_end_line: 9247
+derivation: "transformed-extract"
 ---
-
 # Noxious Psylioptrix
 
 These human-sized insects with mottled yellow-brown carapaces stun their foes before consuming them alive.
 
 Challenge Points: 30 Reaction: 10
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | **Body** | **Mind** | **Spirit** |
+| --- | --- | --- | --- |
 | **Attributes:** | 2 | 4 | 3 |
 | **Defenses:** | 4 | 4 | 4 |
 | **Armor:** | 3 (0) | 1 | 0 |
@@ -30,7 +32,7 @@ Ambush +1, Attack +1, Grappling +1, Tracking +1
 
 Mandible Bite (Melee Attack): AS 6 (2d6)
 
-Psychic Lash (Ranged Mind Attack): AS 5 (d12); Range AR; Effect +2; see Psychic Lash below-
+Psychic Lash (Ranged Mind Attack): AS 5 (d12); Range AR; Effect +2; see Psychic Lash below.
 
 ## Powers and Abilities
 

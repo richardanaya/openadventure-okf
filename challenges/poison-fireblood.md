@@ -1,32 +1,34 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Poison: Fireblood"
 description: "A brutal injected poison that makes the victim feel like their veins are burning."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8115
 source_end_line: 8155
+derivation: "transformed-extract"
 ---
-
 # Poison: Fireblood
 
 A brutal injected poison that makes the victim feel like their veins are burning.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 5 |
 | Protection: | **Immunity** (*Special*) |
 | Traits: | **Escalating** (2/hour), **Linked** |
-| **Actions**: | **Reduce Escalation** (DS 2), **Cure** (DS 12) |
+| **Actions**: | **[Reduce Escalation](/actions/reduce-escalation.md)** (DS 2), **Cure** (DS 12) |
 | **Drawbacks:** | — |
 | **Triggers:** | **End of Round** (-1 BP) |
 | **Round Length:** | 1 hour |
-|  |  |
 
 Fireblood poison is made from the flower of the Flame Blossom, which grows in the rich, ashy soil near volcanos. If a character loses even 1 Body Point to an attack using a blade coated with a poison made from the flower’s petals, they suffer the poison’s effects.
 
-While poisoned, victims suffer horrific pain which feels like their veins are burning. This pain causes a Drawback to the Difficulty Scores of all the character’s Action Checks. If they partake in any physical activity that raises their heart rate, the pain increases, and the character suffers an additional Drawback to all Actions until their heartrate returns to normal.
+While poisoned, victims suffer horrific pain which feels like their veins are burning. This pain causes a Drawback to the Difficulty Scores of all the character’s Action Checks. If they partake in any physical activity that raises their heart rate, the pain increases, and the character suffers an additional Drawback to all Actions until their heart rate returns to normal.
 
 ## Protection
 
@@ -39,7 +41,7 @@ While poisoned, victims suffer horrific pain which feels like their veins are bu
 
 ## Actions
 
-* **Reduce Escalation** (DS 2): The longer the character takes to find a cure, the more difficult it becomes to cure them. An ally can make a Reduce Escalation Check to slow the poison if the character rests and they mop the victim’s brow with a cloth soaked in cold water. The Action has a minimum time of 1 hour, but the character may maintain the Reduce Escalation on a successful Action Check.
+* **[Reduce Escalation](/actions/reduce-escalation.md)** (DS 2): The longer the character takes to find a cure, the more difficult it becomes to cure them. An ally can make a [Reduce Escalation Check](/actions/reduce-escalation.md) to slow the poison if the character rests and they mop the victim’s brow with a cloth soaked in cold water. The Action has a minimum time of 1 hour, but the character may maintain the Reduce Escalation on a successful Action Check.
 * **Cure** (DS 12): Fireblood poisoning is exceptionally difficult to cure. Each attempt has a base time of 1 hour and requires one dose of an antidote made from Ice Lily petals.
 
 ## Triggers

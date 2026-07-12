@@ -1,14 +1,17 @@
 ---
-type: "Character Backstory Guide"
+type: "Guide"
 title: "Backstory Generation"
 description: "Guidance for using optional d100 tables to generate or choose a character backstory."
-tags: ["open-adventure", "character-creation", "backstory", "guide", "random-tables"]
+tags: ["open-adventure", "fantasy", "core-rules", "character-creation", "backstory", "guide", "random-tables", "overview"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 5355
 source_end_line: 5359
+derivation: "transformed-extract"
 ---
-
 # Backstory Generation
 
 Use these tables to complete your character’s story. If you like surprises, roll the dice and see how things turn out. If you like a bit more control, pick and choose what you like. These tables are optional, but they are a great way to flesh out your character before the game begins.

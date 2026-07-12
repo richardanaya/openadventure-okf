@@ -1,17 +1,20 @@
 ---
-type: "Encounter Rules"
+type: "Rule"
 title: "Encounter Rules"
 description: "Rules for encounter framing, time, distance, turn order, objectives, and resolution."
-tags: ["open-adventure", "fantasy", "core-rules", "encounters", "core-rules"]
+tags: ["open-adventure", "fantasy", "core-rules", "encounters"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 3909
 source_end_line: 4114
+derivation: "transformed-extract"
 ---
-
 # Encounter Rules
 
-Encounters arelike chapters in a book or scenes in a movie. During an Encounter, the character might explore the ruins of an ancient fortress in search of treasure, visit a bustling marketplace to buy supplies for an upcoming expedition, or attend a lavish ball at the palace as part of an espionage operation. Every Encounter includes a mix of roleplaying opportunities and Challenges. The decisions the players make during the Encounter and the outcome of the Challenges they face determine what happens next in the Adventure.
+Encounters are like chapters in a book or scenes in a movie. During an Encounter, the character might explore the ruins of an ancient fortress in search of treasure, visit a bustling marketplace to buy supplies for an upcoming expedition, or attend a lavish ball at the palace as part of an espionage operation. Every Encounter includes a mix of roleplaying opportunities and Challenges. The decisions the players make during the Encounter and the outcome of the Challenges they face determine what happens next in the Adventure.
 
 ## Non-Player Character vs. Adversary
 
@@ -35,7 +38,7 @@ If you still want to use maps and miniatures, go for it! *Open Adventure* leaves
 
 ## Measuring Time
 
-Time in Encounters is measured in Rounds. In one **Round**, each Player Character, NPC, and Adversary gets one **Turn** to act. On their Turn, each participant may take one **Minor Action** and one **Major Action**. Minor Actions are simple, unobstructed Actions, like walking across an empty room or taking a potion out of a backpack. Major Actions are any Action requiring an Action Check, like striking an enemy with a weapon or leaping over a pit. Even if an Action does not require an Action Check, if the Action is particularly involved or complex the Adventure Guide may rule that it is a Major Action. More information about Actions and Action Checks is found on page XX in Chapter 10: Actions.
+Time in Encounters is measured in Rounds. In one **Round**, each Player Character, NPC, and Adversary gets one **Turn** to act. On their Turn, each participant may take one **Minor Action** and one **Major Action**. Minor Actions are simple, unobstructed Actions, like walking across an empty room or taking a potion out of a backpack. Major Actions are any Action requiring an Action Check, like striking an enemy with a weapon or leaping over a pit. Even if an Action does not require an Action Check, if the Action is particularly involved or complex the Adventure Guide may rule that it is a Major Action. More information about Actions and Action Checks is found in [Actions](/rules/actions.md).
 
 ## Round Length
 
@@ -47,9 +50,8 @@ Open Adventure is not intended to create a precise simulation of reality, but ra
 
 The Adventure Guide should select an appropriate Round Length from the Time Chart.
 
-|  |
-| --- |
 | **TIME CHART** |
+| --- |
 | 6 seconds |
 | 1 minute |
 | 15 minutes |
@@ -58,7 +60,6 @@ The Adventure Guide should select an appropriate Round Length from the Time Char
 | 1 day |
 | 1 week |
 | 1 month |
-|  |
 
 Depending on the flow of the Action and the choices the players make, the Adventure Guide may change the Round Length during the Encounter.
 
@@ -72,16 +73,14 @@ Open Adventure uses an abstract system for describing distances. This approach l
 
 The distance increments are:
 
-|  |
-| --- |
 | **DISTANCES** |
+| --- |
 | Self |
 | Reach |
 | Across the Room |
 | Stone Throw |
 | Bow Shot |
 | Within View |
-|  |
 
 **Self**: Self includes the character’s body and anything they are wearing or carrying.
 
@@ -116,8 +115,8 @@ This step-by-step breakdown describes how to play an Encounter. Detailed descrip
 3. **Determine Turn Order**: Each player makes a Reaction Check for their character and notes the result. For NPCs and Adversaries, the Adventure Guide uses the Reaction score listed in their statblock as their result. No roll is necessary. The characters, NPCs, and Adversaries act in the order of their Reaction results, with the highest result first, the next highest second, and so forth until every participant in the Encounter has taken a Turn.
 4. **Taking a Turn**: Each character, NPC, and Adversary participating in the Encounter performs one Minor Action and one Major Action on their Turn.
 5. **End of Round**: The Round ends once every character, NPC, and Adversary have taken a Turn.
-6. **Check for Victory**:If the characters have overcome, avoided, or failed all the Challenges, or if all the characters Withdraw from the Encounter, the Encounter ends. Go to Step 10. Otherwise, continue to Step 7.
-7. **Escalating Challenge Points**:If the Encounter has any Challenges with the Escalating trait, the Adventure Guide increases the Challenge Points for those Challenges.
+6. **Check for Victory**: If the characters have overcome, avoided, or failed all the Challenges, or if all the characters Withdraw from the Encounter, the Encounter ends. Go to Step 10. Otherwise, continue to Step 7.
+7. **Escalating Challenge Points**: If the Encounter has any Challenges with the Escalating trait, the Adventure Guide increases the Challenge Points for those Challenges.
 8. **End of Round Trigger Events**: Any End of Round triggers are executed.
 9. **Repeat**: Go back to Step 4 and repeat until the characters have overcome all the Challenges, have all withdrawn from the Encounter, are all defeated, or have otherwise concluded the Encounter.
 10. **End of Encounter**: The Encounter ends and the Adventure Guide describes the outcome.
@@ -152,7 +151,7 @@ On their Turn, a character, NPC, or Adversary may take one **Major Action** and 
 
 **Major Actions** include casting a spell, attacking an enemy, or searching for a secret door. As a rule of thumb, if the Action requires an Action Check, it is a Major Action.
 
-For more about Actions, see Chapter 10: Actions.
+For more about Actions, see [Actions](/rules/actions.md).
 
 ## Round Length and Actions
 
@@ -162,7 +161,7 @@ The Major and Minor Action examples provided above are appropriate for short Rou
 
 Players may choose any Action they like for their characters. The only limits are the players’ imaginations and the Adventure Guide’s adjudication. Get creative, have fun, and bring the story to life with Actions that mirror what you see in your favorite books, shows, and films.
 
-If you are uncertain about what your character can do, read through the description of your MO for inspiration, or look at the example Actions described in Appendix B: Action Library. Whatever you choose, keep the following in mind: heroes in stories do not “*perform an Obstruct Action*.” Rather, they “*Throw a torch into the pile of broken barrels to set the oil spilling out of them ablaze, distracting the enemies so their friends can escape!*” When declaring Actions, always start with what you are doing and why, then work with the Adventure Guide to find the right rules to carry out the Action.
+If you are uncertain about what your character can do, read through the description of your MO for inspiration, or look at the example Actions described in [Action Library](/actions/). Whatever you choose, keep the following in mind: heroes in stories do not “*perform an [Obstruct Action](/actions/obstruct.md)*.” Rather, they “*Throw a torch into the pile of broken barrels to set the oil spilling out of them ablaze, distracting the enemies so their friends can escape!*” When declaring Actions, always start with what you are doing and why, then work with the Adventure Guide to find the right rules to carry out the Action.
 
 One other important point to remember is that you can (and should) use Actions that play to your character’s strengths. This is true for any type of Challenge, from climbing a wall to fast-talking a barkeep to defeating an enemy in combat. For instance, a Thief might use their high Coordination score to creep up on the enemy, but a Wizard is more likely to use their Intellect to cast a spell of silence. When choosing your Action, your odds of success increase if you play to your character’s strengths and strive to tell an exciting story.
 
@@ -174,7 +173,7 @@ Once every participant in the Encounter has taken their Turn, the Round ends.
 
 Usually, it is obvious when the characters have achieved victory, but if the Adventure Guide is uncertain, they should check to see if the characters have overcome all the Encounter’s Challenges and accomplished all the objectives.
 
-Alternatively, if all the characters are defeated, or if they have all used the Withdraw Action to leave the Encounter, the Encounter ends and the heroes have failed.
+Alternatively, if all the characters are defeated, or if they have all used the [Withdraw Action](/actions/withdraw.md) to leave the Encounter, the Encounter ends and the heroes have failed.
 
 One unique trait of RPGs is that failing to achieve an objective does not mean the characters lose the game. If the characters are still alive, the story continues. Withdrawing or being defeated just means the story goes in a different direction.
 
@@ -186,7 +185,7 @@ If there are any Challenges with the Escalating trait, the Adventure Guide incre
 
 ## Step 8: End of Round Trigger Events
 
-If the Challenge has Triggers that occur at the end of the Round, resolve those Triggers at this time. For more information on Challenges and Triggers see page XX in Chapter 11: Challenges.
+If the Challenge has Triggers that occur at the end of the Round, resolve those Triggers at this time. For more information on Challenges and Triggers see [Challenges](/rules/challenges/).
 
 ## Step 9: Repeat
 
@@ -216,4 +215,4 @@ Each Encounter includes rewards and consequences. Which of these apply to the ch
 * Treasure, equipment, or coins.
 * New allies or enemies.
 * A change (positive or negative) to a future Encounter.
-* A Story Point award (see page XX in Chapter 16: Advancement).
+* A Story Point award (see [Advancement](/rules/advancement/)).

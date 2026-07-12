@@ -1,25 +1,25 @@
 # Backstory Generation
 
-* [Using the Backstory Tables](overview.md) - Roll d100 or choose results to develop a character's story.
+* [Backstory Generation](overview.md) - Guidance for using optional d100 tables to generate or choose a character backstory.
 
 # History
 
-* [Your Life as a Child](childhood.md) - Formative childhood events and circumstances.
-* [An Important Period in Your Life](important-life-period.md) - A significant period from the character's past.
-* [The Moment That Changed Your Life](life-changing-moment.md) - The pivotal event that changed the character's life.
+* [Your Life as a Child](childhood.md) - A d100 table of formative events and circumstances from a character's childhood.
+* [An Important Period in Your Life](important-life-period.md) - A d100 table of significant periods from a character's past.
+* [The Moment That Changed Your Life](life-changing-moment.md) - A d100 table of pivotal moments that changed a character's life.
 
 # Present Circumstances
 
-* [When the Adventure Begins](starting-circumstances.md) - The character's situation at the beginning of the adventure.
+* [When the Adventure Begins](starting-circumstances.md) - A d100 table of circumstances affecting a character when their adventure begins.
 
 # Identity
 
-* [How People Describe You](reputation.md) - How other people perceive the character.
-* [Memorable Traits](memorable-traits.md) - Distinctive physical traits, habits, and mannerisms.
+* [How People Describe You](reputation.md) - A d100 table describing how other people perceive a character.
+* [Memorable Traits](memorable-traits.md) - A d100 table of distinctive physical traits, habits, and mannerisms.
 
 # Values And Motivations
 
-* [What Matters to You Most](core-values.md) - The character's highest value.
-* [Your Strongest Belief](strongest-belief.md) - The conviction shaping the character's worldview.
-* [Things You Hate or Fear](hates-and-fears.md) - The character's strongest fear or aversion.
-* [Your Greatest Desire](greatest-desire.md) - The character's strongest desire or ambition.
+* [What Matters to You Most](core-values.md) - A d100 table of the people, ideals, and possessions a character values most.
+* [Your Strongest Belief](strongest-belief.md) - A d100 table of convictions and beliefs that shape a character's worldview.
+* [Things You Hate or Fear](hates-and-fears.md) - A d100 table of things a character strongly hates or fears.
+* [Your Greatest Desire](greatest-desire.md) - A d100 table of a character's strongest desires and ambitions.

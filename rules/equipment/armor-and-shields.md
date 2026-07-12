@@ -1,24 +1,27 @@
 ---
-type: "Equipment Catalog"
+type: "Equipment"
 title: "Armor and Shields"
 description: "Armor and shield rules, properties, training, costs, statistics, and descriptions."
 tags: ["open-adventure", "fantasy", "core-rules", "equipment", "armor", "shields"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2995
 source_end_line: 3086
+derivation: "transformed-extract"
 ---
-
 # Armor and Shields
 
-Armor and Shields reduce the Effect of successful Attack Checks. If a character is wielding a shield, the player may also choose to Block incoming attacks. For more information about Blocking, see page XX in Chapter XX: Attributes.
+Armor and Shields reduce the Effect of successful Attack Checks. If a character is wielding a shield, the player may also choose to Block incoming attacks. For more information, see [Defenses](/rules/attributes/defenses.md).
 
 The armor and shield lists include the following information:
 
 * **Name**: Armor name.
 * **Cost**: Armor cost.
 * **Armor (Body)**: The amount by which the armor reduces the Effect of a successful Attack Check before reducing the character’s Body Points.
-* **Block**: If a character is wielding or wearing this item and the Adventure Guide allows it, the player may choose to have their character Block incoming attacks. In addition, some shields are especially effective at Blocking and add a Benefit to the character’s Body Defense when the character Blocks. If the weapon provides a Block Benefit, the column will list +1. A dash means the character may block but receives no special Benefits. A listing of NA means the item may not be used to Block. For more information on Blocking, see page XX in Chapter XX: Attributes.
+* **Block**: If a character is wielding or wearing this item and the Adventure Guide allows it, the player may choose to have their character Block incoming attacks. In addition, some shields are especially effective at Blocking and add a Benefit to the character’s Body Defense when the character Blocks. If the weapon provides a Block Benefit, the column will list +1. A dash means the character may block but receives no special Benefits. A listing of NA means the item may not be used to Block. For more information, see [Defenses](/rules/attributes/defenses.md).
 * **Properties**: A list of the armor’s special properties
 
 Note that the Armor scores listed in NPC statblocks already include the benefits and disadvantages of their armor.
@@ -38,29 +41,24 @@ Any character may wear any armor they choose. They receive all the listed benefi
 
 ## Armor
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | **Name** | **Cost** | **Armor** | **Block** | **Properties** |
+| --- | --- | --- | --- | --- |
 | ***Light Armor*** |  |  |  |  |
 | Leather | 60 sp | 1 (Body) | NA | - |
 | Padded gambeson | 100 sp | 1 (Body) | NA | padded |
-|  |  |  |  |  |
 | ***Medium Armor*** |  |  |  |  |
 | Chain shirt (Haubergeon) | 150 sp | 2 (Body) | NA | - |
 | Breastplate (Cuirass) | 200 sp | 2 (Body) | NA | hardened |
 | Half plate (Corselet) | 500 sp | 3 (Body) | - | hardened, rigid |
-|  |  |  |  |  |
 | ***Heavy Armor*** |  |  |  |  |
 | Padded gambeson (Leather Fronted) | 500 sp | 3 (Body) | NA | padded |
 | Chain hauberk | 300 sp | 3 (Body) | NA | - |
 | Scale | 500 sp | 3 (Body) | NA | hardened |
 | Plate | 2500 sp | 4 (Body) | - | hardened, rigid |
-|  |  |  |  |  |
 | ***Shields*** |  |  |  |  |
 | Buckler | 10 sp | - | - | - |
 | Medium shield | 40 sp | - | +1 | - |
 | Large shield | 60 sp | 1 (Body) | +1 | - |
-|  |  |  |  |  |
 | ***Special*** |  |  |  |  |
 | Weighted cape | 25 sp | - | NA | parry |
 
@@ -76,7 +74,7 @@ Descriptions of the different types of armor.
 
 ## Medium Armor
 
-**Chain Shirt (Haubergeon)**:A short-sleeved chain shirt that hangs down to just below the groin.
+**Chain Shirt (Haubergeon)**: A short-sleeved chain shirt that hangs down to just below the groin.
 
 **Breastplate (Cuirass)**: Plate armor vest that covers the torso. Includes a scalloped skirt that extend down to cover the groin and hips.
 
@@ -84,7 +82,7 @@ Descriptions of the different types of armor.
 
 ## Heavy Armor
 
-**Padded Gambeson (Leather Fronted)**:As the s0tandard padded gambeson, but leather fronting over all surfaces adds an additional layer of protection.
+**Padded Gambeson (Leather Fronted)**: As the standard padded gambeson, but leather fronting over all surfaces adds an additional layer of protection.
 
 **Chain Hauberk**: A long-sleeved, knee-length chain shirt.
 
@@ -94,7 +92,7 @@ Descriptions of the different types of armor.
 
 ## Shields
 
-**Buckler**:Small, round shields worn on the upper arm and used to deflect incoming attacks.The buckler allows the character to Block, but it doesn’t increase their Armor (Body) score or add a modifier to Body Defense.
+**Buckler**: Small, round shields worn on the upper arm and used to deflect incoming attacks. The buckler allows the character to Block, but it doesn’t increase their Armor (Body) score or add a modifier to Body Defense.
 
 **Medium Shield**: Medium shields are 2-3 feet wide and typically round with a metal shield boss in the center. They do not increase the character’s Armor (Body) score, but they do provide a +1 Benefit to Body Defense if used to Block an attack.
 
@@ -102,4 +100,4 @@ Descriptions of the different types of armor.
 
 ## Special
 
-**Weighted Cape**:The character may use the cape in place of a rigid weapon to parry attacks.
+**Weighted Cape**: The character may use the cape in place of a rigid weapon to parry attacks.

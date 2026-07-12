@@ -1,34 +1,36 @@
 ---
-type: "Game Challenge"
+type: "Challenge"
 title: "Wind Tunnel"
 description: "Clever engineering fills this tunnel with a powerful wind that holds the characters back."
-tags: ["open-adventure", "challenges"]
+tags: ["open-adventure", "fantasy", "core-rules", "challenges"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 8419
 source_end_line: 8456
+derivation: "transformed-extract"
 ---
-
 # Wind Tunnel
 
 Clever engineering fills this tunnel with a powerful wind that holds the characters back.
 
-|  |  |
+| Field | Value |
 | --- | --- |
 | Challenge Points: | 6 |
 | Protection: | — |
 | Traits: | — |
-| **Actions**: | **Climb** (DS 6), **Muscle** (DS 9) |
+| **Actions**: | **[Climb](/actions/climb.md)** (DS 6), **Muscle** (DS 9) |
 | **Drawbacks:** | Lightweight, Poor Traction |
 | **Triggers:** | **Event: Failed Action** (Lost Progress), **Event: Critical Failure** (Knockback and Injury) |
 | **Round Length:** | 6 seconds |
-|  |  |
 
 A powerful wind blasts down this tunnel toward the characters. The tunnel is a Stone Throw long, and the wind emanates from a pair of massive vents at the far end. The characters are expected to work together to overcome the Challenge, and when the Challenge Points are reduced to zero, all the characters have safely reached the end of the tunnel.
 
 ## Actions
 
-* **Climb** (DS 9): Characters may wish to use climbing techniques to pull themselves along the floor or wall.
+* **[Climb](/actions/climb.md)** (DS 9): Characters may wish to use climbing techniques to pull themselves along the floor or wall.
 * **Muscle** (DS 12): Characters may try to just walk up the tunnel, using sheer muscle to push forward through the wind.
 
 The Adventure Guide may wish to award Benefits to characters who use clever techniques for overcoming the wind, such as building a wedge to deflect the wind to either side or roping the party together so it’s harder for the wind to send one of them blowing down the tunnel.

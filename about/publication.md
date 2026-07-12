@@ -1,14 +1,17 @@
 ---
-type: "Publication Metadata"
+type: "Publication"
 title: "Open Adventure: Fantasy Core Rules v1.0"
-description: "Open Adventure: Fantasy Core Rules"
+description: "Provides the title, version, public-domain dedication, publication details, credits, and acknowledgments for Open Adventure: Fantasy Core Rules v1.0."
 tags: ["open-adventure", "fantasy", "core-rules", "credits"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 1
 source_end_line: 43
+derivation: "transformed-extract"
 ---
-
 # Open Adventure: Fantasy Core Rules v1.0
 
 ![](data:image/png;base64...)

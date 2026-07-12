@@ -1,14 +1,17 @@
 ---
-type: "Character Culture"
+type: "Character Option"
 title: "Sylvan"
 description: "A woodland culture closely connected to nature and ancient traditions."
 tags: ["open-adventure", "fantasy", "core-rules", "cultures"]
 license: "CC0-1.0"
-source_document: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_uri: "https://www.openadventurerpg.com/coc"
+source_artifact: "Open-Adventure-Fantasy-Core-Rules-Text-v1.0.md"
+source_revision: "v1.0"
+source_sha256: "7f48d6312e365ffbf25abc1597e076e1dd5d5d3ec61c91e440147490b146993f"
 source_start_line: 2454
 source_end_line: 2482
+derivation: "transformed-extract"
 ---
-
 # Sylvan
 
 The Sylvan people strive to live in harmony with the natural world, using magic to gently mould nature to their everyday needs. Most Sylvan communities are arboreal, with their graceful buildings and walkways nestled in the mighty branches of legendary Varel Oaks. While not hidden from view, the settlements look like organic extensions of the natural world.
@@ -34,6 +37,8 @@ All Sylvan can speak, read, and write the Sylvan language. Only a few Sylvan tak
 * **Knowledge**: Forest Creatures, Sylvan Songs
 
 ## Starting Equipment
+
+See the [Equipment catalog](/rules/equipment/).
 
 * Linen breeches and tunic OR linen robe
 * Sandals OR slippers
