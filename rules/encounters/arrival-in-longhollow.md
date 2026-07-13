@@ -16,6 +16,8 @@ derivation: "transformed-extract"
 
 The heroes arrive in the village of Longhollow and must locate the young hunter who promised to lead them to the bandit camp.
 
+> **Completeness note:** The named follow-up Encounters in this example are illustrative and are not included in the Core Rules.
+
 ## Setting the Stage
 
 Longhollow is a small village of around 200 people. Most of the buildings are clustered together around an open square with farms radiating out from the circle of houses. The two exceptions are the small inn, which stands beside the road on the western edge of the village, and the chapel, which sits on a low hill to the north.

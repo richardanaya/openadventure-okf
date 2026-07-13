@@ -23,7 +23,7 @@ Impede a foe’s ability to move so they must use a Major Action to change posit
 | Prerequisite: | — |
 | Tools/Conditions: | Based on Action |
 | Base Time: | 1 Round |
-| Outcome: | Target must use a Major Action to change position rather than a Minor Acton |
+| Outcome: | Target must use a Major Action to change position rather than a Minor Action |
 
 A successful **Impede** Check makes it more difficult to move through an area. Impacted characters must expend a Major Action to move or change position. Characters may still perform non-movement Actions normally while Impeded.
 

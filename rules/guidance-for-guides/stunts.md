@@ -28,7 +28,7 @@ There is a fourth reason the Adventure Guide may rule an Action is a Stunt not d
 
 * The Adventure Guide thinks the player’s idea is fantastic and it will make the game more fun, but it breaks the game’s rules in a mostly inconsequential way.
 
-This final type of Action is a way for the Adventure Guide to approve a great idea by adding just a bit of risk. It’s a catch-all type that lets the Adventure Guide can say, “Yeah, normally that wouldn’t be possible, but I’ll let you try it as a Stunt, because it’s pretty a fantastic idea.”
+This final type of Action is a way for the Adventure Guide to approve a great idea by adding just a bit of risk. It’s a catch-all type that lets the Adventure Guide say, “Yeah, normally that wouldn’t be possible, but I’ll let you try it as a Stunt, because it’s a fantastic idea.”
 
 ## Multiple Actions or Effects
 

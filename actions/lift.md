@@ -25,7 +25,7 @@ Lift a heavy object off the ground.
 | Base Time: | 1 Round |
 | Outcome: | Object is lifted to the desired height |
 
-On a successful **Lift** check, the character lifts an object and raises it to the desired height. The Difficulty Score is based on both the weight of the object and how high the character wants to lift it. For instance, lifting a portcullis just high enough for a friend to slide under it is has a lower Difficulty Score than lifting it high enough for a horse to pass under it.
+On a successful **Lift** check, the character lifts an object and raises it to the desired height. The Difficulty Score is based on both the weight of the object and how high the character wants to lift it. For instance, lifting a portcullis just high enough for a friend to slide under it has a lower Difficulty Score than lifting it high enough for a horse to pass under it.
 
 The Difficulty Score is not based on an exact weight of the object or exactly how high the character is lifting it, but rather on how challenging the lift is in the story. The bigger and more dramatic the Challenge represented by the lift, the higher the Difficulty Score.
 

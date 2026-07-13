@@ -88,7 +88,7 @@ derivation: "transformed-extract"
 | 70 | are in jail. |
 | 71 | are recently engaged. |
 | 72 | just escaped from prison. |
-| 73 | are mourning the death of a someone you loved. |
+| 73 | are mourning the death of someone you loved. |
 | 74 | narrowly avoided being executed. |
 | 75 | got cheated out of a fortune. |
 | 76 | deserted your post in the military. |

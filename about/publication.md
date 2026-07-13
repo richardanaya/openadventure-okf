@@ -14,8 +14,6 @@ derivation: "transformed-extract"
 ---
 # Open Adventure: Fantasy Core Rules v1.0
 
-![](data:image/png;base64...)
-
 **Open Adventure: Fantasy Core Rules**
 
 v1.0

@@ -54,7 +54,7 @@ Most Challenges are a group effort, meaning all the player characters in the par
 
 ## Setting Challenge Points
 
-The **Challenge Point Table** provides the Gamemaster with guidance for assigning Challenge Points to a Challenge. The **Challenge Size** column describes the size of the Challenge, the **Rounds** column shows the number of Rounds it typically takes a group of four characters to overcome a Challenge of this size, and the **CP** column shows the suggested number of Challenge Points to assign the Challenge.
+The **Challenge Point Table** provides the Adventure Guide with guidance for assigning Challenge Points to a Challenge. The **Challenge Size** column describes the size of the Challenge, the **Rounds** column shows the number of Rounds it typically takes a group of four characters to overcome a Challenge of this size, and the **CP** column shows the suggested number of Challenge Points to assign the Challenge.
 
 **CHALLENGE POINT TABLE**
 

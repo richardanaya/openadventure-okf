@@ -34,5 +34,5 @@ If all the Player Characters Withdraw from an Encounter before the Challenges ar
 ## Examples
 
 * Sneak away from a deadly battle to avoid being killed.
-* Skillfully removes themself from a heated debate where the character will look like a fool if they continue.
+* Skillfully remove yourself from a heated debate where the character will look like a fool if they continue.
 * Retreat from the ruined dungeon to head back to town and buy better equipment.

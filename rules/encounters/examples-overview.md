@@ -16,7 +16,7 @@ derivation: "transformed-extract"
 
 These are three examples of Encounters. They demonstrate how to combine narrative elements, story drivers, Challenges, and Adversaries to create a fun scene that challenges the players.
 
-Note that some of the Encounters refer to follow-up Encounters, new items, or new monsters. As these are only examples, the Adventure Guide will need to write these follow-up Encounters or build the monsters and items if they choose to use the examples in their game.
+Note that some of the Encounters refer to follow-up Encounters, new items, or new monsters that are not included in the Core Rules. These references are illustrative rather than links to playable content. The Adventure Guide will need to write the follow-up Encounters or build the monsters and items if they choose to use the examples in their game.
 
 Guidance for Guides: Encounters are Toolboxes
 

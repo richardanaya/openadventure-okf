@@ -14,7 +14,7 @@ derivation: "transformed-extract"
 ---
 # Reaction
 
-A character’s **Reaction** represents their reflexes, alertness, and instinct. It helps to determine when they take their Turn in the Round, whether they unconsciously notice threats, and how quickly they pick up on and can react to changes in their environment. Reaction is equal to the highest of the character’ s Coordination, Deduction, or Intuition, plus their MO score:
+A character’s **Reaction** represents their reflexes, alertness, and instinct. It helps to determine when they take their Turn in the Round, whether they unconsciously notice threats, and how quickly they pick up on and can react to changes in their environment. Reaction is equal to the highest of the character’s Coordination, Deduction, or Intuition, plus their MO score:
 
 **Reaction Score** = The highest of a character’s Coordination, Deduction, or Intuition + MO score
 

@@ -13,6 +13,7 @@
 * [Challenges](challenges/) - Challenge rules, Protection, traits, triggers, outcomes, and adversaries.
 * [Encounters](encounters/) - Encounter rules and reusable encounter examples.
 * [Injury, Wounds, and Healing](injury-wounds-and-healing.md) - Explains the rules for injury, wounds, dying, recovery, and healing in Open Adventure.
+* [Conditions and Common States](conditions.md) - A quick reference for frequently used conditions, states, and defensive options.
 * [Spellcasting](spellcasting/) - Casting rules, catastrophic failures, duration, and area effects.
 * [Guidance for Guides](guidance-for-guides/) - Topic-based guidance for Adventure Guides.
 * [Advancement](advancement/) - Character advancement, Story Points, and story rewards.

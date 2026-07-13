@@ -1,4 +1,4 @@
-# Npcs
+# NPCs
 
 * [NPCs and Adversaries](overview.md) - Catalogs 19 fantasy NPCs and Adversaries for direct use or as models for creating new NPCs.
 * [Bandit](bandit.md) - Bandits are thugs and criminals who prey on travelers, preferring ambush to a straight fight.

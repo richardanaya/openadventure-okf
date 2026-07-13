@@ -16,6 +16,8 @@ derivation: "transformed-extract"
 
 As the characters make their way through the mountains they are first followed and then attacked by a family of trolls.
 
+> **Completeness note:** *Encounter: The Lonely Waypost* is an illustrative follow-up and is not included in the Core Rules.
+
 ## Setting the Stage
 
 The characters are traveling along a narrow, winding trail through Stonespear Pass. It is a gloomy, autumn day, and as the heroes start on their journey, heavy gray clouds loom low over the mountains. The trail here is only a few paces across, narrowing in some spots to just a few feet. Much of the trail is unstable, and the characters’ passage regularly dislodges rocks that clatter down into the canyons below.

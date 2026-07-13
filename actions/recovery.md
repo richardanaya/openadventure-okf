@@ -51,6 +51,6 @@ Complete rules for Body Point, Mind Point, and Spirit Point loss and Recovery ar
 
 ## Examples
 
-* Tear of a piece of your shirt and use it to hastily bandage the gash on your ally’s arm.
+* Tear off a piece of your shirt and use it to hastily bandage the gash on your ally’s arm.
 * Speak in soft, gentle tones to a friend suffering from the effects of a fear spell to help them regain their composure.
 * Dash behind a pillar for cover and then grit your teeth to overcome the pain from the arrow in your shoulder.

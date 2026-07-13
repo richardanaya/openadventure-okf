@@ -18,7 +18,7 @@ Triggers cause game effects or change the nature of a Challenge. Triggers may in
 
 * **Time**: The passage of a certain number of Rounds or a set amount of time.
 * **Challenge Points**: Reducing or increasing the Challenge Points to a particular number.
-* **Events**: After a specific Actions is performed or a particular event occurs.
+* **Events**: After a specific Action is performed or a particular event occurs.
 
 When a Trigger occurs, it initiates a game effect. Game effects could include complicating factors that make the Challenge more difficult for the rest of the Encounter, increasing or reducing the Challenge’s Challenge Points, or introducing additional Challenges.
 

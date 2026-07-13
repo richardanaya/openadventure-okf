@@ -21,7 +21,7 @@ Clever engineering fills this tunnel with a powerful wind that holds the charact
 | Challenge Points: | 6 |
 | Protection: | — |
 | Traits: | — |
-| **Actions**: | **[Climb](/actions/climb.md)** (DS 6), **Muscle** (DS 9) |
+| **Actions**: | **[Climb](/actions/climb.md)** (DS 9), **Muscle** (DS 12) |
 | **Drawbacks:** | Lightweight, Poor Traction |
 | **Triggers:** | **Event: Failed Action** (Lost Progress), **Event: Critical Failure** (Knockback and Injury) |
 | **Round Length:** | 6 seconds |
@@ -38,7 +38,7 @@ The Adventure Guide may wish to award Benefits to characters who use clever tech
 ## Drawbacks
 
 * **Lightweight**: The Adventure Guide may wish to apply a Drawback to the Action Scores for small, lightweight characters.
-* **Poor Traction**: Characters not wearing shoes or whose foot wear is especially smooth may suffer a Drawback.
+* **Poor Traction**: Characters not wearing shoes or whose footwear is especially smooth may suffer a Drawback.
 
 ## Triggers
 

@@ -16,6 +16,8 @@ derivation: "transformed-extract"
 
 As the characters explore the dungeon, they discover a large kitchen.
 
+> **Completeness note:** Green slime and bugbear statblocks are illustrative and are not included in the Core Rules.
+
 ## Setting the Stage
 
 Read this text aloud when the characters discover the room.

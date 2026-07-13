@@ -96,4 +96,4 @@ Many weapons have special properties with distinct game effects.
 | Sling bullets, stone (10) | 1 cp | - | - | NA | - | - |
 | Quiver | 1 sp | - | - | NA | - | - |
 | Scabbard, dagger | 5 sp | - | - | NA | - | - |
-| Scabbard, sword | 10 sp | - | - | - | 1d4 | - |
+| Scabbard, sword | 10 sp | - | - | NA | - | - |
